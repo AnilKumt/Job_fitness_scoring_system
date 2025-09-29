@@ -1,0 +1,64 @@
+KALEB SAXTON
+Data Science Manager
+ksaxton@email.com
+(123) 456-7890
+Houston, TX
+LinkedIn
+EDUCATION
+B.S.
+Mathematics and Economics
+Rice University
+September 2008 - April 2012
+Houston, TX
+SKILLS
+Python (NumPy, Pandas, Scikit-
+learn, Keras, Flask)
+SQL (Redshift, MySQL, Postgres,
+NoSQL)
+Git
+Leadership Experience
+Recommendation Engines
+Customer Segmentation
+Propensity Modeling
+Productionizing Models
+WORK EXPERIENCE
+Data Science Manager
+Westlake Chemical
+February 2018 - current
+Houston, TX
+· Supervised 3 data scientists and 1 data engineer in developing
+marketing mix models that led to an ROI improvement of 21%
+on digital marketing spend over the last 13 months
+· Collaborated with the product and marketing teams to identify
+which pre-client interactions increased chances of conversions,
+ultimately helping team to increase conversion rates by 32%
+· Developed documentation for methodologies and standards for
+the growing data science team
+· Identified duplications across team projects, and reduced
+instances of this by 92% with increased coordination and
+accountability
+Senior Data Scientist
+Energy Transfer Partners
+January 2015 - February 2018
+Houston, TX
+· Worked closely with the product team to build a production
+prediction engine in Python page, which reduced crude oil profit
+loss by 16%
+· Used random forest models to study well subsets in order to
+optimize and increase efficiency by 22%
+· Compiled and prepared data and reports 2 times per month for
+stakeholders and functional teams
+· Recommended over 100 actionable steps within the first year
+that improved automation by 7% and profits by 9%
+Data Analyst
+CenterPoint Energy
+April 2012 - January 2015
+Houston, TX
+· Identified process improvements through client data analysis,
+which led to a reduced profit loss of 8%
+· Owned the reporting using Python and SQL for energy
+production, saving 30+ hours of manual hours each week
+· Built ETL infrastructures and delivered data to Redshift, which
+increased stakeholder decision making output by 42%
+· Created and developed 5 new testing strategies, and created
+and updated the documentation
