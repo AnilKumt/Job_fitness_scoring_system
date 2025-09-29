@@ -83,9 +83,9 @@ def main(file_name):
         elif label == 'skill':
             skills.add(ent.text.lower())
         
-    d['skills'] = skills
-    d['job_role'] = jr
-    d['education'] = edu
+    d['skills'] = list(skills)
+    d['job_role'] = list(jr)
+    d['education'] = list(edu)
 
     print(d)
 
