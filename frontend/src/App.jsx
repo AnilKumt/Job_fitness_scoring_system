@@ -1,35 +1,50 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import React, { useState, useEffect } from 'react';
+import axios from 'axios';
 
-function App() {
-  const [count, setCount] = useState(0)
+export default function UsernameCheck() {
+  const [username, setUsername] = useState('');
+  const [response, setResponse] = useState('');
+  const [debouncedUsername, setDebouncedUsername] = useState('');
+
+  useEffect(() => {
+    const timer = setTimeout(() => setDebouncedUsername(username), 500);
+    return () => clearTimeout(timer);
+  }, [username]);
+
+  useEffect(() => {
+    if (!debouncedUsername) return;
+    const fetchData = async () => {
+      try {
+        const res = await axios.get(`http://localhost:5000/user/${debouncedUsername}`);
+        setResponse(res.data);
+      } catch (err) {
+        console.error(err);
+        setResponse('Error fetching data');
+      }
+    };
+    fetchData();
+  }, [debouncedUsername]);
 
   return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
-}
+    <div className='w-1/2 h-1/2 shadow-2xl p-10'>
+      <label className='text-2xl' htmlFor="username">
+        Enter your username:
+      </label>
+      <input
+        className='text-2xl border-2 ml-2 p-1'
+        type="text"
+        id='username'
+        value={username}
+        onChange={(e) => setUsername(e.target.value)}
+      />
 
-export default App
+      {username && (
+        <div className='mt-4 text-black text-3xl'>
+          <p>
+            Backend response is : <span><b><i>{response}</i></b></span>
+          </p>
+        </div>
+      )}
+    </div>
+  );
+}
