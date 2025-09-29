@@ -12,6 +12,8 @@
 - from extraction directory
 `
 python .\extract_text_from_pdf.py .\data\resume.pdf
+`
+`
 python .\extract.py .\output\resume.txt
 `
 
