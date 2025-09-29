@@ -1,5 +1,6 @@
 import pymupdf
 import sys
+import os
 
 def extract_text_from_pdf(pdf_file):
     doc = pymupdf.open(pdf_file)
@@ -17,8 +18,13 @@ if __name__ == '__main__':
 
     input_pdf = sys.argv[1]
     extracted_text = extract_text_from_pdf(input_pdf)
-    output_txt = input_pdf.rsplit('.', 1)[0] + '.txt'
+    output_txt = os.path.join("output", os.path.basename(input_pdf.rsplit('.', 1)[0]) + ".txt") 
 
-    with open(output_txt, "w", encoding='utf-8') as f:
+    with open(output_txt, 'w', encoding='utf-8') as f:
         for text in extracted_text:
             f.write(text)
+
+
+
+
+

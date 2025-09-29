@@ -1,0 +1,16 @@
+pygame
+unity
+java
+networking
+nlp
+machine learning
+python
+sql
+ethical hacking
+cybersecurity
+tensorflow
+pytorch
+deep learning
+react
+linux
+c++
