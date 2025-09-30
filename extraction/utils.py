@@ -43,7 +43,10 @@ def write_to_csv(data, output_file):
         writer = csv.writer(f)
 
         if not file_exists:
-            writer.writerow(['resume_id', 'skills', 'experience_years', 'education_degree', 'label', 'output_file'])
+            if output_file != 'dataset.csv':
+                writer.writerow(['id', 'skills', 'experience_years', 'education_degree', 'label', 'output_file'])
+            else:
+                writer.writerow(['resume_id', 'skills', 'experience_years', 'education_degree', 'label', 'output_file'])
 
         writer.writerow([data['resume_id'],
                         ', '.join(data['skills']),

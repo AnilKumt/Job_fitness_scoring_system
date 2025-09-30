@@ -1,0 +1,67 @@
+TYLER RUSSELL
+Data Science Intern
+t.russell@email.com
+(123) 456-7890
+Seattle, WA
+LinkedIn
+Github
+EDUCATION
+Bachelor of Science
+Informatics
+University of Washington
+2021 - current
+Seattle, WA
+SKILLS
+Python
+Jupyter Notebook
+Pandas
+Scikit-learn
+Excel
+SQL Server
+AWS
+Apache Spark
+CAREER OBJECTIVE
+A future-driven and methodical individual with data entry experience and a
+knack for solving problems in data hackathons, seeking a data science internship
+at Talus Bio. Passionate about leveraging data for innovation in biotech, I aim to
+use my technical skills to contribute to bioinformatics research and support
+Talus Bio's strategic goals.
+WORK EXPERIENCE
+Data Entry Clerk
+Zillow Group
+2022 - 2023
+Seattle, WA
+Generated and maintained an accurate property listing database for 576
+properties using Excel, reducing data entry errors by 14%
+Utilized SQL Server to query and retrieve specific property data for
+analysis, saving the team an average of two hours per week
+Assisted in data cleaning techniques using Pandas to standardize and
+normalize property attributes, improving search accuracy by 27%
+Supported the use of Apache Spark for processing large-scale datasets,
+reducing data processing time by 54% and enabling real-time analytics on
+streaming data
+PROJECTS
+Data Hackathon 2022
+Partipant
+2022
+Documented the entire model development process in a Jupyter
+Notebook, providing transparency and reproducibility for future iterations
+Collaborated with nine team members to integrate AWS S3 for efficient
+storage and retrieval of large datasets
+Used Agile project management methodologies to allocate tasks and meet
+project milestones within the given timeframe
+Demonstrated strong problem-solving skills by overcoming challenges in
+data cleaning and feature selection, leading to a robust and reliable model
+Forecast Forum
+Seminar Attendee
+2021
+Explored the capabilities of Scikit-learn for neural networks and
+understood their potential for forecasting problems in various industries
+Employed decision tree algorithms to identify significant predictors of
+customer purchasing behavior, informing marketing strategies
+Applied linear regression analysis in Python to predict sales trends for a
+retail company, achieving a correlation coefficient of 0.86 with actual
+sales data
+Presented seminar findings to colleagues, highlighting the applicability of
+predictive modeling techniques across diverse industries and business
+scenarios

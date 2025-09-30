@@ -1,0 +1,88 @@
+Data Scientist Job Description Template
+Here’s an example of a data scientist job description template that you can adapt for your
+team’s hiring needs. Feel free to add or remove the amount of responsibilities, experience,
+and qualifications needed based on the seniority of the role. Enjoy!
+— The DataCamp Team
+Data Scientist
+Description
+As a data scientist at [add company name], you will drive real-world impact by applying
+innovative data-driven technology to our ever-growing dataset.
+You will be responsible for the end-to-end data science project lifecycle, starting from
+problem scoping to machine learning systems deployment and maintenance. [Add a
+thorough description of the different types of projects and data sources, and outline the
+specific deliverables a candidate is expected to deliver.]
+The ideal candidate possesses a strong analytical ability to solve complex problems with
+data.
+Responsibilities
+●
+Work with large datasets on data extraction, cleaning, exploration, analysis, and
+presentation.
+●
+Formulate data science solutions to business problems by collaborating with business
+and product teams.
+●
+Design and implement algorithms to solve a wide array of challenging problems with
+analytics and statistical approaches built on high-volume, high-dimensional
+datasets.
+●
+Deploy, test, validate, and maintain machine learning models in production by
+collaborating with data engineers and machine learning engineers.
+●
+Perform extract, transform, load operations from data sources for modeling purposes.
+●
+Design, perform and analyze A/B tests.
+●
+[Remove or add problems relevant to this specific job title] Scope and work on
+problems such as:
+○
+Provide the most relevant recommendations during check-out.
+[Insert website here]
+[Insert logo here]
+○
+Detect fraudulent users with sparse, high-dimensional data.
+○
+Generate credit scores for customers.
+○
+Predict the arrival time of a parcel based on traffic conditions.
+○
+Use natural language processing for sentiment analysis, message
+auto-completion, or search query correction.
+●
+[If necessary, add additional job requirements]
+Experience
+●
+Bachelor's degree or higher, or equivalent practical experience.
+●
+[If necessary, add X+ years of relevant analytics experience]
+Minimum Qualifications
+●
+Solid knowledge of statistical methods and machine learning fundamentals.
+●
+Strong proficiency in Python, R.
+●
+Strong proficiency in SQL.
+●
+Hands-on experience with data analytics and classical machine learning tools (e.g.
+pandas, NumPy, scikit-learn) and deep learning frameworks (e.g. Tensorflow, Pytorch).
+●
+[Make sure to mention any other technologies relevant to your project.]
+●
+Excellent written and verbal communication skills.
+●
+Excellent stakeholder management skills.
+●
+Ability to tell stories with data, and deliver data-driven insights to a wide range of
+audiences.
+What will make you stand out
+●
+Experience in production software engineering routines (e.g. Git versioning,
+Continuous Integration/Continuous Deployment).
+●
+Familiarity or experience with working on large data sets and distributed computing
+(e.g. Hive, Hadoop, Spark, Presto, MapReduce).
+●
+Working knowledge of Cloud-based solutions (e.g. AWS, Azure, GCP).
+●
+[If necessary, add additional preferred qualification]
+[Insert website here]
+[Insert logo here]

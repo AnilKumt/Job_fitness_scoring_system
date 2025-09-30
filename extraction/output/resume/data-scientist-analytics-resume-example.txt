@@ -1,0 +1,65 @@
+CONTACT
+Barrett@email.com
+(123) 456-7890
+Oakland, CA
+LinkedIn
+GitHub
+EDUCATION
+B.S.
+Computer Science
+University of California,
+Berkeley
+September 2014 - June 2018
+Berkeley, CA
+GPA: 3.8
+SKILLS
+Python
+Pandas
+Tableau
+SQL
+R
+Scala
+Hadoop
+CERTIFICATIONS
+AWS
+WORK EXPERIENCE
+Data Scientist, Analytics
+General Dynamics Information Technology
+December 2020 - current / Remote
+Led 52+ data science research and analysis projects, providing
+oversight and course corrections as required
+Managed and designed research and analysis to improve
+business performance across and within 7 departments
+Leveraged big data to discover patterns and solve strategic
+analytic business problems
+Reviewed and reported on 3 teams' project metrics to
+benchmark effectiveness
+Built 36+ logical models and worked with database
+administrators to understand and develop physical models and
+overall data architecture
+Data Scientist
+Accenture
+November 2019 - December 2020 / Walnut Creek, CA
+Collaborated with 3 product management and 4 engineering
+departments to understand company needs and devise
+solutions
+Facilitated end-to-end development, testing, and monitoring of
+analytical models for 6 company brands
+Implemented new statistical and mathematical methodologies
+as needed for specific models or analysis
+Optimized joint development between 4 teams through
+appropriate database use and project design
+Associate Data Scientist
+UC Berkeley
+June 2018 - November 2019 / Berkeley, CA
+Utilized analytical, statistical, and programming skills to collect,
+analyze, and interpret 1,000+ large data sets
+Worked with 23 stakeholders throughout the organization to
+identify opportunities for leveraging data
+Built 48+ predictive models and machine learning algorithms to
+analyze large amounts of information to discover trends and
+patterns
+Mined and analyzed data from 11 company databases to drive
+optimization and improvement of product development
+Data Scientist, Analytics
+BARRETT LARAMIE

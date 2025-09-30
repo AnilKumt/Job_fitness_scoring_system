@@ -1,0 +1,71 @@
+AIDEN TAN
+Healthcare Data Scientist
+a.tan@email.com
+(123) 456-7890
+Hagerstown, MD
+LinkedIn
+WORK EXPERIENCE
+Healthcare Data Scientist
+Meritus Health
+2021 - current
+Hagerstown, MD
+Developed a predictive readmission model in Python, which achieved an
+accuracy rate of 86%, helping Meritus Health proactively identify at-risk
+patients.
+Leveraged Apache Hadoop to figure out the complexities in healthcare
+data and discover hidden patterns and anomalies that led to an 18%
+reduction in diagnostic errors.
+Devised a Tableau remote monitoring dashboard for tracking vital signs
+and patient conditions remotely, reducing the need for in-person visits
+by 36%.
+Integrated TensorFlow into Meritus Health's electronic health record
+(EHR) system to allow predictive analytics for clinical decision support,
+decreasing medical errors by 14%.
+Healthcare Data Analyst
+Maxim Healthcare Services
+2018 - 2021
+Columbia, MD
+Created MySQL database backup and recovery procedures for minimal
+data loss during system failures, reducing recovery time by 2.7 hours.
+Applied SAS data mining techniques to healthcare claims data, resulting
+in a 19% decrease in claims processing errors.
+Proposed AWS Data Pipeline for real-time data integration, ensuring
+timely access to critical patient data for clinical teams, minimizing data
+access delays by 41%.
+Established Epic Systems with external laboratories, reducing result
+turnaround time by 26 minutes.
+Data Analyst Intern
+T. Rowe Price
+2017 - 2018
+Baltimore, MD
+Implemented a sentiment analysis model using NLTK, accurately
+predicting market trends with an 87% success rate.
+Conducted in-depth financial data analysis to identify cost-saving
+opportunities that cut down operating expenses by $24,653.
+Built ETL (Extract, Transform, Load) processes in Talend, allowing for the
+seamless integration of external financial data sources, shrinking
+manual data entry by 22%.
+Designed a machine learning model to predict market downturns,
+reducing client losses by 16%.
+EDUCATION
+Master of Science
+Health Informatics
+Johns Hopkins University
+2014 - 2016
+Baltimore, MD
+Bachelor of Science
+Computer Science
+Johns Hopkins University
+2014 - 2018
+Baltimore, MD
+SKILLS
+Python
+Tableau
+TensorFlow
+Apache Hadoop
+MySQL
+SAS
+AWS
+Epic Systems
+NLTK
+Talend

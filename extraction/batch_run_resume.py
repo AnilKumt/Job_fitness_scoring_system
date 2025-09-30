@@ -15,7 +15,7 @@ def main(folder_path):
     for fname in os.listdir(folder_path):
         if fname.lower().endswith(".pdf"):
             path = os.path.join(folder_path, fname)
-            subprocess.run(["python", "main.py", path])
+            subprocess.run(["python", "main.py", path, 'dataset.csv'])
 
 if __name__ == "__main__":
     folder = select_folder()

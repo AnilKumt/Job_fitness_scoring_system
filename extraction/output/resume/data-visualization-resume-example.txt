@@ -1,0 +1,74 @@
+MARCO
+RODRIGUEZ
+Data Visualization
+Specialist
+m.rodriguez@email.com
+(123) 456-7890
+San Francisco, CA
+LinkedIn
+EDUCATION
+Bachelor of Arts
+Data Science
+University of California
+2013 - 2017
+Berkeley, CA
+SKILLS
+Tableau
+Python
+Matplotlib
+Microsoft Power BI
+ArcGIS
+Adobe Illustrator
+SPSS
+Shiny
+Unity3D
+GitHub
+WORK EXPERIENCE
+Data Visualization Specialist
+Intuit
+2022 - current
+San Francisco, CA
+Led a geospatial analysis in Tableau to uncover under-served
+markets, creating a strategic expansion plan that saw a 16%
+growth in new customer acquisition.
+Devised a Microsoft Power BI tool for real-time monitoring of
+cloud infrastructure costs at Intuit, shrinking unnecessary
+expenditures by $19,544.
+Leveraged Matplotlib with real-time data feeds to track e-
+commerce transactions, identifying a 13% rise in mobile
+payments.
+Initiated a data visualization consistency project,
+standardizing visuals across 246 reports in Illustrator,
+slashing discrepancies and errors by 43%.
+Data Analyst
+Salesforce
+2019 - 2022
+San Francisco, CA
+Automated Salesforce data extraction, reducing data
+preparation time by 2 hours, allowing the team to produce
+reports on time. 
+Predicted a 19% rise in Q4 sales with ArcGIS spatial analysis
+to forecast sales trends, helping the team optimize stock
+levels which reduced inventory costs by $13,921.
+Applied cluster analysis in SPSS to segment customers,
+which enhanced personalized marketing strategies and
+grew campaign ROI by 18%.
+Integrated Unity3D's scripting to automate the process of
+transforming Salesforce CRM data into 3D models, saving 62
+hours every quarter in manual data processing.
+Junior Data Analyst
+Uber
+2018 - 2019
+Mountain View, CA
+Designed a Shiny application to examine and visualize the
+ideal routes for Uber drivers, resulting in a 24% decrease in
+fuel consumption which increased driver profitability.
+Analyzed Uber ride data points to identify key factors
+influencing ride-sharing preferences, contributing to a 19%
+increase in customer satisfaction.
+Implemented GitHub Actions for automatic data quality
+checks on every push, cutting down data inconsistencies
+by 26%.
+Conducted price elasticity analysis for Uber Eats which
+helped the company shape menu prices more effectively,
+boosting average order value by 7%.
