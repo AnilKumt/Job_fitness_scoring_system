@@ -84,3 +84,8 @@ Thumbs.db
 *.tmp
 temp/
 tmp/
+
+Untitled.ipynb
+Untitled1.ipynb
+*.ipynb
+
