@@ -56,8 +56,8 @@ const Upload = () => {
   };
 
   return (
-    <div className="flex flex-col items-center justify-center w-full h-[90%] bg-white px-6 py-10">
-      <h1 className="text-3xl font-bold mb-6 text-center">
+    <div className="flex flex-col items-center justify-center w-full h-[90%] bg-white px-6 py-10 poppins-regular">
+      <h1 className="text-5xl mb-16 text-center border-b-orange-500 border-b-2">
         Upload & Check Your Fit
       </h1>
 
@@ -73,7 +73,7 @@ const Upload = () => {
       ) : (
         <div className="w-full max-w-2xl bg-gray-50 border rounded-2xl p-6 shadow-sm">
           <div className="mb-4 relative">
-            <label className="block text-sm font-medium mb-2">
+            <label className="block text-xl font-medium mb-2">
               Upload Resume
             </label>
             {resumeFile ? (
@@ -91,13 +91,15 @@ const Upload = () => {
                 type="file"
                 accept=".pdf,.doc,.docx"
                 onChange={(e) => setResumeFile(e.target.files[0])}
-                className="block w-full border rounded-lg p-2"
+                className="block w-full border rounded-lg p-2
+             file:mr-4 file:py-2 file:px-4 file:text-sm
+             file:bg-orange-500 file:text-black file:cursor-pointer file:border-black file:border-2"
               />
             )}
           </div>
 
           <div className="mb-4">
-            <label className="block text-sm font-medium mb-2">
+            <label className="block text-xl font-medium mb-2">
               Paste Job Description
             </label>
             <textarea

@@ -6,13 +6,13 @@ const Home = () => {
   const howRef = useRef(null);
   const startRef = useRef(null);
   return (
-    <div className="w-full h-screen">
+    <div className="w-full h-[90%] poppins-regular">
       <div className="bga-amber-500 p-3.5 flex gap-1.5 h-[80%] mt-5">
-        <div className="bga-red-600 w-1/2 flex flex-col justify-around">
-          <div className="bga-amber-950 text-[7.5rem] leading-[7.5rem]">
+        <div className="bga-red-600 w-[60%] flex flex-col justify-around">
+          <div className="bga-amber-950 text-[7.5rem] leading-[7.5rem] poppins-regular">
             <div className="">Find Your</div>
-            <div className="ml-[14rem]">Perfect</div>
-            <div className="ml-[36rem]">Fit</div>
+            <div className="ml-[22rem] text-orange-500">Perfect</div>
+            <div className="ml-[48rem]">Fit</div>
           </div>
           <div className="bga-blue-400 flex gap-7 mt-7 justify-center items-center">
             <Link to="/how">
@@ -23,14 +23,14 @@ const Home = () => {
                 onMouseLeave={() => {
                   howRef.current.style.height = "0%";
                 }}
-                className="bg-black relative h-10 lg:w-60 md:w-60 md:h-12 cursor-pointer w-40"
+                className="bg-black relative h-10 lg:w-[24rem] md:w-60 md:h-12 cursor-pointer w-40"
               >
                 <div
                   ref={howRef}
                   className="bg-[#FF9B05] transition-all ease-in absolute top-0 w-full"
                 ></div>
                 <div className="group h-full relative flex flex-col gap-2 justify-center px-5 text-4xl text-white text-center hover:text-black">
-                  HOW?
+                  HOW IT WORKS?
                 </div>
               </div>
             </Link>
@@ -42,7 +42,7 @@ const Home = () => {
                 onMouseLeave={() => {
                   startRef.current.style.height = "0%";
                 }}
-                className="bg-black relative h-10 lg:w-[32rem] md:w-60 md:h-12 cursor-pointer w-40"
+                className="bg-black relative h-10 lg:w-[34rem] md:w-60 md:h-12 cursor-pointer w-40"
               >
                 <div
                   ref={startRef}
@@ -70,7 +70,7 @@ const Home = () => {
             </Link>
           </div>
         </div>
-        <div className="bga-green-500 w-[40%] flex justify-center items-center">
+        <div className="bga-green-500 w-[40%] flex justify-center items-center ml-28">
           <img
             src="https://illustrations.popsy.co/amber/home-office.svg"
             alt=""
