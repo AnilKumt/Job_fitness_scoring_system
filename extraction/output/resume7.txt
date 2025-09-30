@@ -1,0 +1,94 @@
+Yunlong Jiao
+Machine Learning Scientist
+
+London, UK (No Sponsorship Needed)
+
++44 7400 724281
+yljiao.ustc@gmail.com
+linkedin.com/in/yunlong-jiao/
+About Me
+I am currently a machine learning scientist at Amazon Alexa, working on building AI assistant that is able to replicate human
+intelligence. I am passionate about applied AI research that drives tangible impact for products and services. With over 5 years
+of post-PhD experience in the field of ML/AI, I possess strong skills in model development and performance evaluation, and
+am proficient in Python and deep learning frameworks. While successfully incubating and delivering multiple projects at
+Amazon, I am involved in all phases of the development cycle – from building proof of concept to delivering minimum
+viable products and scaling up production. I have experience in supervising master’s theses and research internships, as well
+as coaching and mentoring junior team members.
+Education
+2013 – 2017 Doctor of Philosophy
+Centre for Computational Biology
+Paris Sciences et Lettres – PSL Research University, Paris, France
+2012 – 2013 Master of Science (Mention Très Bien)
+Department of Mathematics
+University of Paris-Saclay, Orsay, France
+2008 – 2012 Bachelor of Science (First Class Honours)
+Department of Mathematics
+University of Science & Technology of China, Hefei, China
+Work Experience
+Machine Learning Scientist
+Current, from Nov 2019
+Amazon, London, UK
+■Key Skills: Natural Language Processing, Large Language Models, Deep Generative Models, Neural Text-to-Speech
+■At Alexa Shopping Science team (from Mar 2021), my current responsibilities are:
+1) Leading research on bias mitigation technologies in NLP to enhance fairness while preserving user privacy;
+2) Building and deploying ML solutions in creating unified user experiences for Alexa Shopping across different devices;
+3) Working in cross-functional teams, overseeing prototype to production, and communicating results with stakeholders;
+4) Supervising research internships and coaching and mentoring junior team members.
+■At Alexa Text-to-Speech Research team (Nov 2019 – Feb 2021), I had:
+1) Proposed and delivered a deep generative model for ‘universal’ speech synthesis, which can be used regardless of speaker
+identity or language and can therefore massively save cost in TTS production and speed up launch of new TTS voices;
+2) Collaborated with engineers to scale up Alexa TTS production and launch new voices in multiple regions and countries.
+Postdoctoral Research Scientist
+Nov 2017 – Oct 2019
+University of Oxford, Oxford, UK
+■Key Skills: Gaussian Processes, Time Series Forecasting, Multi-modality
+■My responsibilities included:
+1) Leading Oxford research in a multi-organizational project (involving organizations in the UK and EU) and developing
+novel methods for longitudinal modelling of complex disease using multi-modal data integration;
+2) Supervising master’s theses in the Department of Statistics.
+Doctoral Researcher
+Sep 2013 – Sep 2017
+PSL Research University, Paris, France
+■Key Skills: Kernel Methods, Representation Learning, Graph Learning, Sparsity Regularisation
+■My PhD work contributed novel ML methods and advanced scientific discoveries in biology and cancer research:
+1) My research focus was kernel methods and representation learning of non-tabular data, such as rank data and graphs.
+2) My research outputs significantly improved prediction of breast cancer survival using genetic data, and guided inter-
+pretable biomarker discovery with the help of biological networks.
+3) I had published multiple first-authored papers in top ML conferences and journals (3 at ICML and 1 at IEEE TPAMI)
+and developed open-source toolkits.
+■A few colleagues and I participated, and finally placed 2nd, in the DREAM Toxicogenetics Challenge, a Kaggle-style com-
+munity competition in data science that is aimed to advance computational methods in biology.
+Data Scientist Intern
+Apr 2015 – Jun 2015
+Roche Diagnostics GmbH, Penzberg, Germany
+■Key Skills: Information Extraction, Feature Engineering, Large-Scale Unstructured Database
+■During the internship, I had:
+1) Proposed a data pipeline to process large-scale unstructured machinery performance data and built a model to predict
+failure state for automated immunoassay analysers;
+2) Demonstrated how maintenance efficiency can be greatly improved for one of Roche’s core hardware products.
+■My work had a direct impact on strengthening customer trust, and the innovative solution was patented by Roche.
+Technical Skills
+Programming Python (numpy, pandas, scikit-learn), Deep Learning Frameworks (PyTorch, MXNet), R, C/C++
+Big Data Accelerated Computing (CUDA), Cloud Computing (AWS, SageMaker), SQL
+DevOps Bash, Git, Docker, Open Source, Unit/Integration Testing, CI/CD
+Professional Skills
+Communication Experienced speaker at international conferences and workshops
+Confident in presenting project ideas and results to peers, leadership, and stakeholders
+Mentoring and coaching research interns and junior team members
+Writing Proficient in academic writing and providing guidance to early-stage researchers in their writing
+Experienced in leading R&D proposals and producing technical reports on milestone deliveries
+Project Management Capable tech lead for research projects and trusted in cross-functional team collaboration
+Knowledgeable in the principles of Agile development and skilled working in Scrum teams
+Languages Chinese (native), English (bilingual), Spanish (conversational), French (reading)
+Selected Publications and Patents
+F Liu, Y Jiao, J Massiah, E Yilmaz, S Havrylov. “Trans-Encoder: Unsupervised Sentence-Pair Modelling Through Self- and
+Mutual-Distillations.” ICLR, 2022. 
+A Gabryś, Y Jiao, V Klimkov, D Korzekwa, R Barra-Chicote. “Improving the Expressiveness of Neural Vocoding with Non-
+Affine Normalizing Flows.” Interspeech, 2021. 
+Y Jiao, A Gabryś, G Tinchev, B Putrycz, D Korzekwa, V Klimkov. “Universal Neural Vocoding with Parallel WaveNet.”
+ICASSP, 2021. 
+F Heinemann, S Kobel, S Dahlmanns, JP Vert, Y Jiao. “Failure State Prediction for Automated Analyzers for Analyzing a
+Biological Sample.” US Patent App., 2019. 
+Y Jiao, JP Vert. “The Weighted Kendall and High-order Kernels for Permutations.” ICML, 2018. 
+Y Jiao, A Korba, E Sibony. “Controlling the Distance to a Kemeny Consensus without Computing It.” ICML, 2016. 
+Y Jiao, JP Vert. “The Kendall and Mallows Kernels for Permutations.” ICML, 2015. 

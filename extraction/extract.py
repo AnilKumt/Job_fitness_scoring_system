@@ -57,10 +57,12 @@ def main(file_name):
         elif label == 'skill':
             skills.add(ent.text.lower())
         
-    d['skills'] = list(skills)
+    d['skills'] = sorted(list(skills))
     d['experience'] = extract_experience(text)
     # Liberty taken than user keeps his degrees from highest to lowest.
     d['highest_degree'] = d['education'][0] if d['education'] else None
+
+    d['output_file'] = file_name
 
     write_to_csv(d, 'dataset.csv')
 

@@ -1,7 +1,8 @@
-resume_id,skills,experience_years,education_degree,label
-0,"tensorflow, python, machine learning, sql",11.083,m.s.,0
-1,"c++, linux, machine learning, networking, java",3.583,b.s.,0
-2,"python, sql",11.667,master's,0
-3,"sql, python",6.75,b.s.,0
-4,"python, sql",9.417,b.s.,0
-5,"pytorch, machine learning, tensorflow, sql, nlp, deep learning, python",6.0,b.e.,0
+resume_id,skills,experience_years,education_degree,label,output_file
+0,"deep learning, sql, tensorflow, machine learning, python, nlp, pytorch",6.0,b.e.,0,output\Bhavesh_Wadhwani_Resume.txt
+1,"python, sql",9.417,b.s.,0,output\data-science-manager-resume-example.txt
+2,"python, sql",6.75,b.s.,0,output\data-scientist-resume-example.txt
+3,"python, unity",0,b.tech,0,output\resume.txt
+4,"python, pytorch, c++, machine learning, sql, deep learning, nlp",0,phd,0,output\resume7.txt
+5,"tensorflow, sql, machine learning, python",0,m.s.,0,output\resume_juanjosecarin.txt
+6,"sql, python",11.667,master's,0,output\senior-data-scientist-resume-example.txt
