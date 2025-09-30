@@ -1,0 +1,77 @@
+GABRIEL
+RAMIREZ
+Data Scientist Machine
+Learning Engineer
+g.ramirez@email.com
+(123) 456-7890
+Blue Bell, PA
+LinkedIn
+EDUCATION
+Master's degree
+Statistics
+Carnegie Mellon University
+2011 - 2013
+Blue Bell, PA
+Bachelor of Science
+Statistics
+Carnegie Mellon University
+2007 - 2011
+Pittsburgh, PA
+SKILLS
+NumPy
+Scikit-learn
+ggplot2
+dplyr
+MySQL
+SQLite
+Keras
+PyTorch
+CERTIFICATIONS
+Certified Machine Learning
+Engineer (CMLE)
+WORK EXPERIENCE
+Data Scientist Machine Learning Engineer
+Siemens Digital Industries
+2019 - current
+Blue Bell, PA
+Analyzed customer churn by developing predictive models,
+leading to a 12% reduction within 4 months.
+Wrangled data using dplyr, which resulted in a 33% faster
+preprocessing time that enabled additional insight
+extraction from large datasets.
+Created deep learning models with Keras for natural
+language processing tasks and improved sentiment
+analysis accuracy by 61%.
+Reduced forecasting errors by 18% by using time series
+models with Scikit-learn.
+Machine Learning Specialist
+Cognizant
+2016 - 2019
+Pittsburgh, PA
+Implemented deep learning architectures with PyTorch for
+computer vision tasks, achieving a 42% reduction in false
+positives and negatives in object detection algorithms.
+Conducted A/B testing on machine learning models to
+identify an optimal model configuration that led to an 11%
+user retention increase.
+Streamlined the model deployment process by creating
+automated pipelines using CI/CD tools, which reduced
+deployment time by 52%.
+Applied transfer learning techniques to adapt pre-trained
+models to specific domains, reducing training time for new
+projects by 23%.
+Machine Learning Engineer
+Covestro
+2013 - 2016
+Pittsburgh, PA
+Developed machine learning models using NumPy to
+achieve an average accuracy improvement of 12% over
+baseline models.
+Leveraged ggplot2 to create insightful data visualizations
+that resulted in 21% less time spent on data preprocessing
+tasks.
+Designed MySQL databases to efficiently handle large-scale
+datasets, lowering query response time by 54%.
+Collaborated with cross-functional teams to build a
+recommendation system using filtering techniques, which
+increased user engagement by 32%.

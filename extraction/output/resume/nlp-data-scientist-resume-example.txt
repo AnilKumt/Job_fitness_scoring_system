@@ -1,0 +1,70 @@
+CONTACT
+rahulmalik@email.com
+(123) 456-7890
+Brooklyn, NY
+LinkedIn
+Github
+EDUCATION
+PhD
+Natural Language Processing
+(NLP)
+University of Maryland
+September 2010 - April 2016
+College Park, MD
+B.S.
+Statistics
+Princeton University
+September 2006 - April 2010
+Princeton, NJ
+SKILLS
+Python (NumPy, Pandas, Scikit-
+learn, Keras, Flask)
+SQL (MySQL, Postgres)
+Git
+Time Series Forecasting
+Productionizing Models
+Recommendation Engines
+Customer Segmentation
+AWS
+NLP
+WORK EXPERIENCE
+NLP Data Scientist
+Amazon
+May 2018 - current / New York, NY
+Deconstructed item descriptions in the "home care" category to
+predict which features of a given product were most likely to be
+relevant to a given customer, increasing conversions by 4%
+Built an automated system to predict whether a given review
+was likely to be from a real user, leading to a reduction in "fake"
+reviews by 19%
+Analyzed the quality of customer service responses for worst
+performing vendors to help reduce their return rates by 5%
+Mentored 7 junior data scientists over 3 intern programs
+Data Scientist
+Priceline
+April 2016 - May 2018 / New York, NY
+Built a price sensitivity model to offer lower pricing for room
+inventory unlikely to be booked, resulting in a decrease in room
+vacancy of 17%
+Performed sentiment analysis to reviews likely to be relevant to
+a given user for a given room to increase booking by 6%
+Worked alongside product managers to construct queries to
+identify customers who abandoned their checkout, leading to an
+email sequence that improved conversion rate by 12%
+Streamlined feature selection for model to predict likelihood of
+a customer to re-book on Priceline, which saved about 21 hours
+of manual work each month
+Data Scientist Internship
+Microsoft
+April 2015 - April 2016 / New York, NY
+Analyzed anonymous employee performance reviews to
+identify regular areas for improvement for engineers leading to
+actionable feedback for over 200 engineers
+Worked with the customer success team to understand
+feedback on Azure products for small businesses to improve
+on-boarding and increase customer adoption rate by 14%
+Built a model to predict whether a given customer was satisfied
+with their customer success experience, resulting in improved
+CS coaching and 26% fewer customer complaints
+NLP Data Scientist
+RAHUL MALIK

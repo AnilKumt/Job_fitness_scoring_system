@@ -1,0 +1,23 @@
+resume_id,skills,experience_years,education_degree,label,output_file
+0,"python, sql, tensorflow",0,,0,output\resume\amazon-data-science-resume-example.txt
+1,"deep learning, java, python",1.167,b.s.,0,output\resume\associate-data-scientist-resume-example.txt
+2,"machine learning, nlp, sql",11.833,b.s.,0,output\resume\data-science-consultant-resume-example.txt
+3,"nlp, python, tensorflow",13.833,b.s.,0,output\resume\data-science-director-resume-example.txt
+4,"python, tensorflow",0,,0,output\resume\data-science-engineer-resume-example.txt
+5,"python, sql",9.417,b.s.,0,output\resume\data-science-manager-resume-example.txt
+6,,0,,0,output\resume\data-science-project-resume-example.txt
+7,"python, sql",0,,0,output\resume\data-science-student-resume-example.txt
+8,"machine learning, python, sql",6.25,b.s.,0,output\resume\data-scientist-analytics-resume-example.txt
+9,,0,,0,output\resume\data-scientist-intern-resume-example.txt
+10,"deep learning, machine learning, pytorch",0,master's,0,output\resume\data-scientist-machine-learning-resume-example.txt
+11,"python, sql",6.75,b.s.,0,output\resume\data-scientist-resume-example.txt
+12,python,0,,0,output\resume\data-visualization-resume-example.txt
+13,"cybersecurity, machine learning, python",0,master's,0,output\resume\educational-data-scientist-resume-example.txt
+14,sql,6.25,b.s.,0,output\resume\entry-level-data-scientist-resume-example.txt
+15,python,0,,0,output\resume\experienced-data-scientist-resume-example.txt
+16,"machine learning, tensorflow",0,,0,output\resume\google-data-scientist-resume-example.txt
+17,"machine learning, python, tensorflow",0,,0,output\resume\healthcare-data-scientist-resume-example.txt
+18,"machine learning, python, sql",3.667,b.s.,0,output\resume\metadata-scientist-resume-example.txt
+19,"nlp, python, sql",12.25,phd,0,output\resume\nlp-data-scientist-resume-example.txt
+20,"machine learning, python, pytorch",0,,0,output\resume\python-data-scientist-resume-example.txt
+21,"python, sql",11.667,master's,0,output\resume\senior-data-scientist-resume-example.txt

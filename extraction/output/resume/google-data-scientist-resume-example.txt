@@ -1,0 +1,71 @@
+JULIA ALLEN
+Google Data Scientist 
+j.allen@email.com
+(123) 456-7890
+Seattle, WA
+LinkedIn
+Github
+EDUCATION
+Master of Science
+Data Science
+University of Washington
+2013 - 2016
+Seattle, WA
+Master of Science
+Data Science
+University of Washington
+2009 - 2013
+Seattle, WA
+SKILLS
+R
+NumPy
+TensorFlow
+Spark
+GCP
+PostgreSQL
+Amazon Redshift
+GitHub
+SpaCy
+Apache Kafka
+WORK EXPERIENCE
+Google Data Scientist 
+Google LLC
+2021 - current
+Seattle, WA
+Conducted performance analysis on mobile apps using R, leading
+to optimizations that expedited app loading times by 3 seconds.
+Enhanced predictive modeling for Google AdWords with NumPy,
+boosting ad performance metrics by 24%.
+Tested machine learning models on GCP, improving system
+performance by 17% as per model inference speed and
+accuracy.
+Deployed SpaCy models for event detection in news articles,
+achieving a 96% precision rate and increasing Google News'
+coverage of breaking events.
+Data Analyst
+Nordstrom
+2018 - 2021
+Seattle, WA
+Built anomaly detection algorithms in PostgreSQL to identify and
+mitigate abnormal sales transactions, slashing fraud incidents by
+18%.
+Maintained a customer segmentation model using clustering
+algorithms, contributing to a 37% uplift in customer engagement.
+Implemented data validation checks and data quality
+assessments in Amazon Redshift, lowering data errors by 52%.
+Developed Apache Kafka Streams applications for real-time data
+processing, accelerating processing throughput by 19%.
+Junior Data Analyst
+Zillow Group
+2016 - 2018
+Seattle, WA
+Assisted in developing a recommendation engine using
+collaborative filtering techniques, gaining a 22% rise in user
+interaction with recommended listings.
+Integrated GitHub project boards for project management,
+resulting in a 36% uptick in task completion rates.
+Used TensorFlow neural networks for image classification of
+property listings, cutting down model inference time by 1.7
+seconds. 
+Automated the data validation process with custom Spark
+applications, reducing manual effort by 23 hours every week.

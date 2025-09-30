@@ -1,0 +1,70 @@
+MAHDI HAKIMI
+EDUCATIONAL DATA SCIENTIST
+CONTACT
+Mahdi_@email.com
+(123) 456-7890
+Pasadena, CA
+LinkedIn
+twitter
+Github
+EDUCATION
+Master's Degree
+Geophysics
+UCLA
+2010 - 2012
+Los Angeles, CA
+B.S.
+Engineering
+UCLA
+2006 - 2010
+Los Angeles, CA
+SKILLS
+Communication
+Data Analysis
+Collaboration
+Critical Thinking
+R Programming
+Hadoop
+Python
+NoSQL
+CERTIFICATIONS
+Data Science (SAS)
+Principal Data Scientist
+(DASCA) 
+CAREER SUMMARY
+Seasoned data science professional with 13 published articles involving
+data mining, machine learning, and predictive analytics. An experienced
+programmer with a passion for learning new skills. Seeking a challenging
+and career-developing role as an educational data scientist with Arete.
+WORK EXPERIENCE
+Educational Data Scientist
+Expatiate Communications
+2018 - current / Pasadena, CA
+Developed and established 12 data intelligence processes
+Used weighted SVM on top of data processing techniques to find
+trends in 4 social media platforms
+Built trend detection and correlation finder to detect abnormal
+behavior of log data, identifying fraudulent activity for cybersecurity
+Integrated machine learning with different correlation metrics to
+identify relationships between 900+ live social media data metrics
+Statistician
+UCLA Health
+2014 - 2018 / Los Angeles, CA
+Performed in-depth evaluations of 70+ programs, measuring
+effectiveness, and identifying improvement areas
+Analyzed 24 sources of multivariate data to identify significant
+findings, which enabled the creation of written publications
+Leveraged statistical programs to apply logistic regression and
+multivariate models to create visualizations for 130 presentations
+Collaborated on hypothesis formulation, determination of research
+design, and data collection procedures for 26 research programs
+Trained 6 junior statisticians in program processes and procedures
+Associate Data Scientist
+California Institute of Technology
+2010 - 2014 / Pasadena, CA
+Developed 26 pipelines to analyze 82 large simulation datasets
+combining Python, TCL, and Shell scripts
+Worked in a cross-functional team to develop a multiscale simulation
+technique to explain phenomena, including viral DNA ejection
+Trained as a lab scientist on bioinformatics tools, statistical methods,
+and High-Performance Computing (HPC) systems

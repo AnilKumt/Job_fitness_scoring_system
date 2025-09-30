@@ -43,13 +43,17 @@ def write_to_csv(data, output_file):
         writer = csv.writer(f)
 
         if not file_exists:
-            writer.writerow(['resume_id', 'skills', 'experience_years', 'education_degree', 'label'])
+            if output_file != 'dataset.csv':
+                writer.writerow(['id', 'skills', 'experience_years', 'education_degree', 'label', 'output_file'])
+            else:
+                writer.writerow(['resume_id', 'skills', 'experience_years', 'education_degree', 'label', 'output_file'])
 
         writer.writerow([data['resume_id'],
                         ', '.join(data['skills']),
                         data['experience'],
                         data['highest_degree'],
-                        0])
+                        0,
+                        data['output_file']])
 
 def custom_tokenizer(nlp):
     special_cases = {"Master's": [{"ORTH": "Master's"}],

@@ -4,7 +4,7 @@ from utils import *
 
 
 
-def main(file_name):
+def main(file_name, output_csv):
     with open(file_name, 'r', encoding='utf-8', errors='ignore') as f:
         text = f.read()
 
@@ -57,19 +57,22 @@ def main(file_name):
         elif label == 'skill':
             skills.add(ent.text.lower())
         
-    d['skills'] = list(skills)
+    d['skills'] = sorted(list(skills))
     d['experience'] = extract_experience(text)
     # Liberty taken than user keeps his degrees from highest to lowest.
     d['highest_degree'] = d['education'][0] if d['education'] else None
 
-    write_to_csv(d, 'dataset.csv')
+    d['output_file'] = file_name
+
+    write_to_csv(d, output_csv)
 
     # print(d)
 
 if __name__ == '__main__':
-    if len(sys.argv) != 2:
-        print("python extract.py <txt_file>")
+    if len(sys.argv) != 3:
+        print("python extract.py <txt_file> <csv_file>")
         sys.exit(1)
 
     file_name = sys.argv[1]
-    main(file_name)
+    output_csv = sys.argv[2]
+    main(file_name, output_csv)

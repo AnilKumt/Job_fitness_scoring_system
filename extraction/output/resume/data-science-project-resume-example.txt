@@ -1,0 +1,63 @@
+CHARLOTTE FOSTER
+Data Science Project Manager
+c.foster@email.com
+(123) 456-7890
+Research Triangle Park, NC
+LinkedIn
+GitHub
+WORK EXPERIENCE
+Data Science Project Manager
+Cisco Systems
+2022 - current
+Research Triangle Park, NC
+Harvested insights from historical data using Snowflake,
+aiding sales strategies that drove a $511,784 revenue
+bump in Q4
+Supervised ongoing project health using Toggl, tracking
+over 396 hours of teamwork per month
+Led 12 data scientists and engineers to deploy machine
+learning models in IBM Cloud
+Spearheaded bioinformatics pipelines in R, analyzing 14TB
+of genomic data and accelerating health-tech research
+Data Science Researcher
+SAS Institute
+2019 - 2022
+Cary, NC
+Used Jira tracking research milestones, culminating in the
+completion of six projects ahead of deadlines by 2 weeks
+Organized 213 research documents in Confluence,
+enabling faster access to critical resources
+Ramped up analysis with XGBoost to create four models,
+identifying trends in 9M+ data rows
+Streamlined data cleaning processes using Talend,
+reducing data inconsistency issues by 42%
+Data Analyst
+Red Hat
+2017 - 2019
+Raleigh, NC
+Analyzed market data using R, developing predictive
+models that trimmed annual operational costs by $206K
+Saved the marketing team 16 hours per week with pre-built
+Looker dashboards tailored to their needs
+Processed raw sales data using IBM Cloud tools, enhancing
+accessibility and expediting reporting by 14%
+Introduced GitHub for version control, improving
+collaboration among eight developers and reducing code
+conflicts by 56 instances over 3 months
+EDUCATION
+Bachelor of Science
+Data Analytics
+North Carolina State University
+2013 - 2017
+Raleigh, NC
+SKILLS
+Jira
+GitHub
+R
+Looker
+Confluence
+IBM Cloud
+Snowflake
+XGBoost
+Talend
+Toggl

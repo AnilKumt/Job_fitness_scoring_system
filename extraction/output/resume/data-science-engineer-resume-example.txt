@@ -1,0 +1,67 @@
+AVA MURPHY
+Data Science Engineer
+a.murphy@email.com
+(123) 456-7890
+Seattle, WA
+LinkedIn
+GitHub
+EDUCATION
+Bachelor of Science
+Data Science
+University of Washington
+2015 - 2019
+Seattle, WA
+SKILLS
+Python
+Power BI
+TensorFlow
+Hadoop
+MySQL
+Apache NiFi
+Amazon Web Services (AWS)
+Git
+Docker
+Luigi
+WORK EXPERIENCE
+Data Science Engineer
+Amazon
+2022 - current
+Seattle, WA
+Cataloged 3.2 TB of big data in Hadoop, ensuring
+compliance with Amazon's data governance standards and
+improving data retrieval time by 32%
+Overhauled data workflows using Apache NiFi, processing 5.2
+million data points per day and optimizing Amazon Prime
+delivery schedules
+Automated demand forecasting with AWS SageMaker,
+improving inventory accuracy for 12.4k SKUs
+Expanded cross-functional collaboration by integrating Git for
+version control across a 24-member team, improving
+deployment times by 32 hours per sprint
+Data Analyst
+Tableau Software
+2019 - 2022
+Seattle, WA
+Analyzed sales performance data using Python, uncovering
+trends and boosting product sales by $922K per year
+Upgraded analytics workflows by deploying Docker for
+streamlining data environment setups, saving 321 hours in
+annual configuration tasks
+Developed an advanced sales pipeline visualization using
+Tableau, driving $4.3M in quarterly revenue through
+actionable insights
+Designed ETL pipelines in Luigi, processing 1.7 million records
+per day with a 99.8% success rate
+Data Entry Clerk
+Expedia Group
+2017 - 2019
+Seattle, WA
+Monitored real-time data feeds with Apache NiFi, ensuring
+seamless updates of travel inventory across 126 regions
+Managed daily data entry operations for reservation systems,
+using MySQL, maintaining a 99.9% error-free record for
+12,800+ entries per month
+Trained 8 staff on Power BI, expediting data reporting and
+saving 19 hours of manual spreadsheet analysis per week
+Approved over 9,208 data submissions for upload to Expedia's
+central booking system per month, meeting compliance

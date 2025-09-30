@@ -6,15 +6,26 @@
 3. experience_years
 4. education_degree (Highest, liberty taken, degrees will be from higest to lowest acc. resume format)
 5. label (default 0)
+6. Output file
+- batch_run.py works for a batch of pdf.
 - These are the ones till now, will be updated as required.
 
 # Usage
+- Updated one, from extraction directory
+```bash
+python .\main.py .\data\resume.pdf
+```
+- This does the work of the below two.
 - from extraction directory
 ```bash
 python .\extract_text_from_pdf.py .\data\resume.pdf
 ```
 ```bash
 python .\extract.py .\output\resume.txt
+```
+- For batch running
+```bash
+python .\batch_run.py
 ```
 
 # How it works ?
