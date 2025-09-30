@@ -1,0 +1,10 @@
+MBA
+M.Tech
+PhD
+B.Tech
+B.Sc
+M.S.
+B.S.
+B.E.
+Master's
+Bachelor's
