@@ -19,17 +19,17 @@
 }
 
 .layer-top {
-  background: #FF9B05;
+  background: oklch(70.5% 0.213 47.604);
   transform-origin: bottom;
 }
 
 .layer-bottom {
-  background: #FF9B05;
+  background: oklch(70.5% 0.213 47.604);
   transform-origin: top;
 }
 
 *::selection{
-  background-color: #FF9B05;
+  background-color: oklch(70.5% 0.213 47.604);
   color: #0f0f0f;
 }
 

@@ -27,7 +27,7 @@ const Home = () => {
               >
                 <div
                   ref={howRef}
-                  className="bg-[#FF9B05] transition-all ease-in absolute top-0 w-full"
+                  className="bg-orange-500 transition-all ease-in absolute top-0 w-full"
                 ></div>
                 <div className="group h-full relative flex flex-col gap-2 justify-center px-5 text-4xl text-white text-center hover:text-black">
                   HOW IT WORKS?
@@ -46,7 +46,7 @@ const Home = () => {
               >
                 <div
                   ref={startRef}
-                  className="bg-[#FF9B05] transition-all ease-in absolute top-0 w-full"
+                  className="bg-orange-500 transition-all ease-in absolute top-0 w-full"
                 ></div>
                 <div className="group h-full relative flex gap-6 justify-center items-center px-5 py-2 text-4xl text-white text-center hover:text-black">
                   Upload & Check Your Fit

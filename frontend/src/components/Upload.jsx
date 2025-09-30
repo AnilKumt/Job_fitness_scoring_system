@@ -139,7 +139,7 @@ const Upload = () => {
           >
             <div
               ref={checkFitRef}
-              className="bg-[#FF9B05] transition-all ease-in absolute top-0 w-full"
+              className="bg-orange-500 transition-all ease-in absolute top-0 w-full"
             ></div>
             <div className="group h-full relative flex gap-7 justify-center items-center px-5 text-3xl text-white text-center hover:text-black rounded-4xl">
               <UploadIcon size={30} /> Check Fit
