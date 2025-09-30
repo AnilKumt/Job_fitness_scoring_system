@@ -1,9 +1,11 @@
 import React, { useRef } from "react";
-import { Link } from "react-router-dom";
+import { Link,useLocation } from "react-router-dom";
 
 const Navbar = () => {
   const navGreenRef = useRef(null);
   const githubRef = useRef(null);
+  const location = useLocation();
+const currentPath = location.pathname;
   return (
     <div className="h-24 w-full">
       <div
@@ -33,7 +35,7 @@ const Navbar = () => {
           >
             <div
               ref={githubRef}
-              className="bg-[#D3FD50] transition-all ease-in absolute top-0 w-full"
+              className="bg-[#FF9B05] transition-all ease-in absolute top-0 w-full"
             ></div>
             <div className="group h-full relative flex flex-col gap-2 justify-center items-center px-5 text-3xl text-white text-center hover:text-black rounded-4xl">
               <svg
@@ -43,10 +45,10 @@ const Navbar = () => {
                 viewBox="0 0 24 24"
                 fill="none"
                 stroke="currentColor"
-                stroke-width="2"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                class="lucide lucide-github-icon lucide-github"
+                strokeWidth="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                className="lucide lucide-github-icon lucide-github"
               >
                 <path d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4" />
                 <path d="M9 18c-4.51 2-5-2-7-2" />
@@ -54,7 +56,7 @@ const Navbar = () => {
             </div>
           </div>
         </Link>
-        <Link to="/upload">
+        {currentPath=='/'?(<Link to="/upload">
           <div
             onClick={() => {
               setNavOpen(true);
@@ -69,13 +71,37 @@ const Navbar = () => {
           >
             <div
               ref={navGreenRef}
-              className="bg-[#D3FD50] transition-all ease-in absolute top-0 w-full"
+              className="bg-[#FF9B05] transition-all ease-in absolute top-0 w-full"
             ></div>
             <div className="group h-full relative flex flex-col gap-2 justify-center px-5 text-3xl text-white text-center hover:text-black rounded-4xl">
               TRY NOW!
             </div>
           </div>
+        </Link>):(
+          <Link to="/">
+          <div
+            onClick={() => {
+              setNavOpen(true);
+            }}
+            onMouseEnter={() => {
+              navGreenRef.current.style.height = "100%";
+            }}
+            onMouseLeave={() => {
+              navGreenRef.current.style.height = "0%";
+            }}
+            className="bg-black relative h-10 lg:w-60 md:w-60 md:h-12 cursor-pointer w-40"
+          >
+            <div
+              ref={navGreenRef}
+              className="bg-[#FF9B05] transition-all ease-in absolute top-0 w-full"
+            ></div>
+            <div className="group h-full relative flex flex-col gap-2 justify-center px-5 text-3xl text-white text-center hover:text-black rounded-4xl">
+              HOME
+            </div>
+          </div>
         </Link>
+        )}
+        
         </div>
       </div>
     </div>
