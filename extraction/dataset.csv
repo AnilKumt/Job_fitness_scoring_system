@@ -21,3 +21,4 @@ resume_id,skills,experience_years,education_degree,label,output_file
 19,"nlp, python, sql",12.25,phd,0,output\resume\nlp-data-scientist-resume-example.txt
 20,"machine learning, python, pytorch",0,,0,output\resume\python-data-scientist-resume-example.txt
 21,"python, sql",11.667,master's,0,output\resume\senior-data-scientist-resume-example.txt
+22,,0,,0,output/resume/sample_resume.txt
