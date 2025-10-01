@@ -4,7 +4,7 @@ from utils import *
 
 
 
-def main(file_name, output_csv):
+def main(file_name):
     with open(file_name, 'r', encoding='utf-8', errors='ignore') as f:
         text = f.read()
 
@@ -64,7 +64,7 @@ def main(file_name, output_csv):
 
     d['output_file'] = file_name
 
-    write_to_csv(d, output_csv)
+    return d
 
     # print(d)
 
@@ -75,4 +75,5 @@ if __name__ == '__main__':
 
     file_name = sys.argv[1]
     output_csv = sys.argv[2]
-    main(file_name, output_csv)
+    d = main(file_name)
+    write_to_csv(d, output_csv)
