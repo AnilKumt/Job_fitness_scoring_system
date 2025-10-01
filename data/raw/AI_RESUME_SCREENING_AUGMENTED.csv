@@ -1,0 +1,301 @@
+Skills,Experience (Years),Education,Certifications,Job Role,Projects Count,label,AI Score (0-100),Recruiter Decision
+"python, sql, tensorflow",0.0,,None,Data Scientist,0,0,35,Reject
+"deep learning, java, python",1.167,b.s.,None,Data Scientist,1,0,38,Reject
+"machine learning, nlp, sql",11.833,b.s.,None,Data Scientist,11,0,70,Reject
+"nlp, python, tensorflow",13.833,b.s.,None,Data Scientist,13,0,76,Reject
+"python, tensorflow",0.0,,None,Data Scientist,0,0,30,Reject
+"python, sql",9.417,b.s.,None,Data Scientist,9,0,58,Reject
+,0.0,,None,Data Scientist,0,0,25,Reject
+"python, sql",0.0,,None,Data Scientist,0,0,30,Reject
+"machine learning, python, sql",6.25,b.s.,None,Data Scientist,6,0,53,Reject
+,0.0,,None,Data Scientist,0,0,25,Reject
+"deep learning, machine learning, pytorch",0.0,master's,None,Data Scientist,0,0,35,Reject
+"python, sql",6.75,b.s.,None,Data Scientist,6,0,50,Reject
+python,0.0,,None,Data Scientist,0,0,25,Reject
+"cybersecurity, machine learning, python",0.0,master's,None,Data Scientist,0,0,35,Reject
+sql,6.25,b.s.,None,Data Scientist,6,0,43,Reject
+python,0.0,,None,Data Scientist,0,0,25,Reject
+"machine learning, tensorflow",0.0,,None,Data Scientist,0,0,30,Reject
+"machine learning, python, tensorflow",0.0,,None,Data Scientist,0,0,35,Reject
+"machine learning, python, sql",3.667,b.s.,None,Data Scientist,3,0,46,Reject
+"nlp, python, sql",12.25,phd,None,Data Scientist,12,0,71,Reject
+"machine learning, python, pytorch",0.0,,None,Data Scientist,0,0,35,Reject
+"python, sql",11.667,master's,None,Data Scientist,11,0,65,Reject
+,0.0,,None,Data Scientist,0,0,25,Reject
+"nlp, python, sql",12.329255864963724,B.Sc,None,Data Scientist,12,0,71,Reject
+"python, machine learning, nlp, pandas, numpy, tensorflow",0.0,M.Tech,None,Data Scientist,0,0,50,Reject
+"deep learning, machine learning, pytorch",0.0,M.Tech,None,Data Scientist,0,0,35,Reject
+"python, machine learning, nlp, pandas, numpy, tensorflow",0.0,M.Tech,None,Data Scientist,0,0,50,Reject
+"machine learning, python, tensorflow, numpy",0.0,B.Sc,None,Data Scientist,0,0,40,Reject
+"machine learning, python",2.9150914448453102,b.s.,None,Data Scientist,3,0,38,Reject
+"python, sql",6.173486627131979,M.Tech,None,Data Scientist,6,0,48,Reject
+"sql, tensorflow",0.25596712808464117,,None,Data Scientist,0,0,30,Reject
+"python, sql",3.6204917552524947,b.s.,None,Data Scientist,3,0,40,Reject
+"sql, scikit-learn",5.699065662123019,b.s.,None,Data Scientist,6,0,47,Reject
+"nlp, scikit-learn, python, deep learning",0.0,MBA,None,Data Scientist,0,0,40,Reject
+"nlp, python, sql",13.03552792243323,B.Sc,None,Data Scientist,12,0,74,Reject
+"machine learning, python, tensorflow, numpy, pytorch",0.31847221221862965,B.Sc,None,Data Scientist,0,0,45,Reject
+"python, sql",12.173830891970091,M.Tech,None,Data Scientist,11,0,66,Reject
+"python, tensorflow",0.7444462680014117,,None,Data Scientist,0,0,32,Reject
+"machine learning, python, numpy, pytorch",0.0,B.Sc,None,Data Scientist,0,0,40,Reject
+"sql, deep learning, numpy, pandas",0.9818830697903067,,None,Data Scientist,0,0,42,Reject
+"machine learning, python",1.9617263232961524,B.Tech,None,Data Scientist,3,0,35,Reject
+"deep learning, machine learning",0.2877634423890658,M.Tech,None,Data Scientist,0,0,30,Reject
+"python, sql",0.5896866478211991,MBA,None,Data Scientist,0,0,31,Reject
+"machine learning, nlp, sql",11.223427454827693,b.s.,None,Data Scientist,11,0,68,Reject
+"machine learning, pytorch",0.3821152264232248,B.Sc,None,Data Scientist,0,0,31,Reject
+sql,5.388327438399145,B.Sc,None,Data Scientist,6,0,41,Reject
+"sql, tensorflow, python",0.6207892202959335,,None,Data Scientist,0,0,36,Reject
+"nlp, scikit-learn, deep learning",0.39224076661258733,MBA,None,Data Scientist,0,0,36,Reject
+"deep learning, machine learning, scikit-learn",0.8047100462248815,M.Tech,None,Data Scientist,0,0,37,Reject
+"python, tensorflow, machine learning",0.0,,None,Data Scientist,0,0,35,Reject
+"nlp, python",12.08671071171426,B.Sc,None,Data Scientist,12,0,66,Reject
+"machine learning, pytorch",0.0,B.Sc,None,Data Scientist,0,0,30,Reject
+"machine learning, tensorflow",0.0,B.Tech,None,Data Scientist,0,0,30,Reject
+"sql, tensorflow",0.19105142684641852,,None,Data Scientist,0,0,30,Reject
+"python, sql",3.0977560856594377,b.s.,None,Data Scientist,3,0,39,Reject
+"python, sql, tensorflow",0.0,,None,Data Scientist,0,0,35,Reject
+"machine learning, pytorch, python",1.259989381269519,B.Sc,None,Data Scientist,0,0,38,Reject
+"machine learning, python, tensorflow, pytorch, deep learning",0.0,B.Sc,None,Data Scientist,0,0,45,Reject
+"sql, tensorflow, pandas",0.8273577430787675,,None,Data Scientist,0,0,37,Reject
+"python, sql, tensorflow, deep learning",0.0,,None,Data Scientist,0,0,40,Reject
+"python, tensorflow, numpy",0.0,,None,Data Scientist,0,0,35,Reject
+"python, sql",3.0300189264500648,b.s.,None,Data Scientist,3,0,39,Reject
+"python, sql",2.5773349909588674,b.s.,None,Data Scientist,3,0,37,Reject
+"machine learning, python, tensorflow",0.0,,None,Data Scientist,0,0,35,Reject
+"python, sql, nlp",0.0,MBA,None,Data Scientist,0,0,35,Reject
+"machine learning, python, nlp",1.9301415608232944,b.s.,None,Data Scientist,3,0,40,Reject
+"machine learning, python",1.854704895200396,M.Tech,None,Data Scientist,3,0,35,Reject
+"machine learning, python, pytorch",2.553541296203861,M.Tech,None,Data Scientist,3,0,42,Reject
+"deep learning, java, python",0.3806397624740101,b.s.,None,Data Scientist,1,0,36,Reject
+"sql, deep learning, pandas",1.4782116420889602,B.Sc,None,Data Scientist,0,0,39,Reject
+"machine learning, python, numpy, pytorch, sql",0.0,B.Sc,None,Data Scientist,0,0,45,Reject
+"deep learning, machine learning, scikit-learn",0.0,M.Tech,None,Data Scientist,0,0,35,Reject
+"python, sql",7.46590626095917,b.s.,None,Data Scientist,6,0,52,Reject
+"sql, tensorflow, pandas",0.6031494026582505,,None,Data Scientist,0,0,36,Reject
+"machine learning, pytorch, python",0.0,B.Sc,None,Data Scientist,0,0,35,Reject
+"nlp, python",11.444345696453674,PhD,None,Data Scientist,12,0,64,Reject
+"deep learning, python",0.0,b.s.,None,Data Scientist,1,0,30,Reject
+"cybersecurity, machine learning, python",0.0,master's,None,Data Scientist,0,0,35,Reject
+"machine learning, python, numpy, pytorch, scikit-learn",0.32385456670566715,B.Sc,None,Data Scientist,0,0,45,Reject
+"nlp, python, tensorflow, scikit-learn",13.673568494577568,b.s.,None,Data Scientist,13,0,81,Reject
+sql,5.895380055460502,B.Sc,None,Data Scientist,6,0,42,Reject
+"machine learning, python, numpy, pytorch",0.23055107259128094,B.Sc,None,Data Scientist,0,0,40,Reject
+"sql, nlp",5.0530719204350145,B.Sc,None,Data Scientist,6,0,45,Reject
+"tensorflow, nlp, deep learning, sql, pandas",0.6022779773281368,M.Tech,None,Data Scientist,0,0,46,Reject
+"python, sql",7.123557369554067,b.s.,None,Data Scientist,6,0,51,Reject
+"deep learning, machine learning, scikit-learn",0.0,M.Tech,None,Data Scientist,0,0,35,Reject
+"machine learning, python",3.9102722666728313,b.s.,None,Data Scientist,3,0,41,Reject
+"machine learning, python, pytorch",0.0,B.Sc,None,Data Scientist,0,0,35,Reject
+"machine learning, python",3.429468845885684,b.s.,None,Data Scientist,3,0,40,Reject
+"machine learning, pytorch, python, sql",1.857473007650916,B.Sc,None,Data Scientist,0,0,45,Reject
+sql,6.950485159703453,b.s.,None,Data Scientist,6,0,45,Reject
+"sql, scikit-learn",6.467195686611731,B.Sc,None,Data Scientist,6,0,49,Reject
+"nlp, scikit-learn, deep learning",1.1802928574336968,MBA,None,Data Scientist,0,0,38,Reject
+"python, pytorch",0.14747660210993274,,None,Data Scientist,0,0,30,Reject
+"deep learning, scikit-learn",0.0,M.Tech,None,Data Scientist,0,0,30,Reject
+"java, python, scikit-learn",0.23693006191454224,M.Tech,None,Data Scientist,1,0,35,Reject
+"python, tensorflow, nlp",0.18333072964621921,,None,Data Scientist,0,0,35,Reject
+"deep learning, machine learning, pytorch, numpy",0.0,master's,None,Data Scientist,0,0,40,Reject
+"deep learning, scikit-learn, nlp",0.0,M.Tech,None,Data Scientist,0,0,35,Reject
+"python, tensorflow",1.318200446443797,PhD,None,Data Scientist,0,0,33,Reject
+"nlp, python, tensorflow",12.21772391622181,M.Tech,None,Data Scientist,12,0,71,Reject
+"python, sql, deep learning",0.0,,None,Data Scientist,0,0,35,Reject
+"sql, tensorflow, python, pandas",0.2443716900055264,PhD,None,Data Scientist,0,0,40,Reject
+"python, sql, tensorflow, deep learning",0.0,,None,Data Scientist,0,0,40,Reject
+"sql, tensorflow, pandas, nlp",0.5325334567990723,M.Tech,None,Data Scientist,0,0,41,Reject
+"sql, tensorflow",0.0,,None,Data Scientist,0,0,30,Reject
+"machine learning, python, pytorch, deep learning",0.9712624547223236,B.Tech,None,Data Scientist,0,0,42,Reject
+"python, sql, tensorflow, deep learning",0.8638420939405569,,None,Data Scientist,0,0,42,Reject
+"nlp, python",11.239941766555164,PhD,None,Data Scientist,12,0,63,Reject
+"python, sql",3.508177137904374,b.s.,None,Data Scientist,3,0,40,Reject
+"scikit-learn, deep learning",0.8061575601365998,PhD,None,Data Scientist,0,0,32,Reject
+"python, numpy, pytorch",0.7442171964430304,B.Sc,None,Data Scientist,0,0,37,Reject
+"scikit-learn, python, deep learning",0.7500014622204871,MBA,None,Data Scientist,0,0,37,Reject
+"sql, nlp",5.534486775772654,B.Sc,None,Data Scientist,6,0,46,Reject
+"nlp, python, tensorflow",12.052654224680634,PhD,None,Data Scientist,12,0,71,Reject
+"machine learning, python, numpy, pytorch, sql",0.0,B.Sc,None,Data Scientist,0,0,45,Reject
+"python, numpy, pytorch, tensorflow",0.15620563217559047,M.Tech,None,Data Scientist,0,0,40,Reject
+"python, sql",13.117179717525818,M.Tech,None,Data Scientist,11,0,69,Reject
+"deep learning, scikit-learn",0.0,M.Tech,None,Data Scientist,0,0,30,Reject
+"sql, nlp, deep learning",6.396743702122325,MBA,None,Data Scientist,6,0,54,Reject
+"machine learning, python, numpy, pytorch",0.0,B.Sc,None,Data Scientist,0,0,40,Reject
+"python, sql, numpy",3.495388225623981,b.s.,None,Data Scientist,3,0,45,Reject
+"python, tensorflow, nlp",0.3271986765965551,,None,Data Scientist,0,0,35,Reject
+"python, nlp, pandas, numpy, tensorflow",0.7291120217218792,M.Tech,None,Data Scientist,0,0,47,Reject
+"python, sql",3.963697902712168,b.s.,None,Data Scientist,3,0,41,Reject
+"nlp, python, deep learning",12.47769749580012,M.Tech,None,Data Scientist,12,0,72,Reject
+"machine learning, pytorch, python",0.767389330567011,B.Sc,None,Data Scientist,0,0,37,Reject
+"python, machine learning, nlp, pandas, numpy, tensorflow",0.514806729173596,B.Tech,None,Data Scientist,0,0,51,Reject
+"python, nlp, sql",0.0,MBA,None,Data Scientist,0,0,35,Reject
+"python, sql, numpy",11.211033180090483,M.Tech,None,Data Scientist,11,0,68,Reject
+"machine learning, python, numpy, pytorch",0.04481300216192108,B.Sc,None,Data Scientist,0,0,40,Reject
+"python, sql, tensorflow, deep learning",0.0,B.Sc,None,Data Scientist,0,0,40,Reject
+"tensorflow, nlp, deep learning, sql",0.0,M.Tech,None,Data Scientist,0,0,40,Reject
+"machine learning, python, tensorflow",0.0,,None,Data Scientist,0,0,35,Reject
+"scikit-learn, python, pytorch, sql, deep learning, numpy",0.5016358494266608,,None,Data Scientist,0,0,51,Reject
+"python, sql, pandas",1.2129086716318118,MBA,None,Data Scientist,0,0,38,Reject
+"tensorflow, machine learning",0.027612883009912936,,None,Data Scientist,0,0,30,Reject
+"machine learning, python, pytorch",2.127526607170042,M.Tech,None,Data Scientist,3,0,41,Reject
+"nlp, python",12.32329244146758,B.Sc,None,Data Scientist,12,0,66,Reject
+"machine learning, pytorch",1.1818284002508745,B.Sc,None,Data Scientist,0,0,33,Reject
+"numpy, pytorch",1.5386577161912836,B.Sc,None,Data Scientist,0,0,34,Reject
+"deep learning, nlp, sql",0.0,M.Tech,None,Data Scientist,0,0,35,Reject
+"python, sql, deep learning",2.89284027187142,b.s.,None,Data Scientist,3,0,43,Reject
+"sql, numpy, pandas",0.6144409146092527,,None,Data Scientist,0,0,36,Reject
+"deep learning, machine learning, pytorch",0.9567898385806077,master's,None,Data Scientist,0,0,37,Reject
+"machine learning, tensorflow",0.5373054412423093,B.Tech,None,Data Scientist,0,0,31,Reject
+"scikit-learn, python, deep learning, pandas",0.0,,None,Data Scientist,0,0,40,Reject
+"tensorflow, nlp, deep learning, sql, pandas",1.5438280561733062,M.Tech,None,Data Scientist,0,0,49,Reject
+"python, pytorch",0.13304867523818364,B.Sc,None,Data Scientist,0,0,30,Reject
+"python, sql, nlp",7.22188507980032,b.s.,None,Data Scientist,6,0,56,Reject
+"python, sql",11.83589591579989,M.Tech,None,Data Scientist,11,0,65,Reject
+"nlp, python, tensorflow",14.76998153684986,b.s.,None,Data Scientist,13,0,79,Reject
+"python, tensorflow, nlp",0.7785346405197306,,None,Data Scientist,0,0,37,Reject
+"python, nlp, pandas, numpy, tensorflow",0.844512826320384,MBA,None,Data Scientist,0,0,47,Reject
+"scikit-learn, deep learning, pytorch",0.4453206263362621,PhD,None,Data Scientist,0,0,36,Reject
+"machine learning, numpy, pytorch, sql",0.9151393964233452,B.Sc,None,Data Scientist,0,0,42,Reject
+"nlp, tensorflow",11.783807304298685,PhD,None,Data Scientist,12,0,65,Reject
+"python, sql, numpy, pandas",11.757141440071244,M.Tech,None,Data Scientist,11,0,75,Reject
+"python, numpy, pytorch",0.34986645927069926,B.Sc,None,Data Scientist,0,0,36,Reject
+"scikit-learn, python, pytorch, sql, numpy, machine learning",1.215240212725353,,None,Data Scientist,0,0,53,Reject
+"python, tensorflow",1.6938326501201963,,None,Data Scientist,0,0,35,Reject
+"python, sql",6.822623681699163,MBA,None,Data Scientist,6,0,50,Reject
+"deep learning, machine learning, scikit-learn",0.0,B.Sc,None,Data Scientist,0,0,35,Reject
+sql,5.788356163174352,B.Sc,None,Data Scientist,6,0,42,Reject
+"machine learning, nlp, sql, numpy",11.132528652184924,b.s.,None,Data Scientist,11,0,73,Reject
+"nlp, python, deep learning",13.953492884112528,PhD,None,Data Scientist,13,0,76,Reject
+"machine learning, python, numpy, pytorch",0.6186232233862674,B.Sc,None,Data Scientist,0,0,41,Reject
+"deep learning, nlp, sql",0.0,M.Tech,None,Data Scientist,0,0,35,Reject
+"nlp, python, tensorflow, scikit-learn",14.665626715214895,b.s.,None,Data Scientist,13,0,83,Reject
+"python, sql, tensorflow",0.18352035375891318,,None,Data Scientist,0,0,35,Reject
+"sql, nlp, pandas",5.871061267123017,B.Sc,None,Data Scientist,6,0,52,Reject
+"sql, tensorflow, deep learning, python",0.0,B.Sc,None,Data Scientist,0,0,40,Reject
+"nlp, python",11.292734673907246,B.Sc,None,Data Scientist,12,0,63,Reject
+"cybersecurity, machine learning",0.0,master's,None,Data Scientist,0,0,30,Reject
+"machine learning, python, pytorch, deep learning",0.9605491873278027,B.Tech,None,Data Scientist,0,0,42,Reject
+"python, sql, deep learning",13.53917760982242,M.Tech,None,Data Scientist,11,0,75,Reject
+"cybersecurity, python",0.618146319444246,master's,None,Data Scientist,0,0,31,Reject
+"numpy, pytorch",1.3651866554632104,B.Sc,None,Data Scientist,0,0,34,Reject
+"machine learning, python, deep learning",4.262299911887467,b.s.,None,Data Scientist,3,0,47,Reject
+"machine learning, python, numpy, pytorch, scikit-learn",0.0,B.Sc,None,Data Scientist,0,0,45,Reject
+"react, kubernetes, javascript, java, microservices, docker, rest api, nodejs",6.1,M.Tech,None,Software Engineer,4,1,78,Hire
+"encryption, firewall, network security, vulnerability assessment, ids/ips, siem",9.39,MBA,TensorFlow Developer Certificate,Cybersecurity Analyst,8,1,78,Hire
+"machine learning, python, sql, pytorch, nlp, deep learning, tensorflow",3.09,M.Tech,None,Data Scientist,5,1,64,Hire
+"scikit-learn, tensorflow, deep learning, python, pytorch",5.89,M.Tech,None,Data Scientist,7,1,62,Hire
+"ids/ips, vulnerability assessment, encryption, firewall, network security, penetration testing",4.63,M.Tech,None,Cybersecurity Analyst,7,1,63,Hire
+"reinforcement learning, deep learning, computer vision, transformers, research",9.49,M.Tech,None,AI Researcher,8,1,73,Hire
+"scikit-learn, numpy, machine learning, pandas, pytorch",5.56,PhD,None,Data Scientist,5,1,61,Hire
+"javascript, kubernetes, react, rest api, nodejs, docker, microservices, aws",6.08,MBA,None,Software Engineer,5,1,78,Hire
+"git, nodejs, react, microservices, docker, aws, kubernetes",6.87,M.Tech,None,Software Engineer,9,1,75,Hire
+"publications, deep learning, reinforcement learning, nlp, gans, computer vision, research",4.09,PhD,Deep Learning Specialization,AI Researcher,7,1,67,Hire
+"nodejs, java, javascript, react, microservices, rest api",5.96,PhD,Google Cloud Professional,Software Engineer,8,1,67,Hire
+"vulnerability assessment, ids/ips, encryption, siem, network security, penetration testing, firewall",5.58,PhD,CISSP,Cybersecurity Analyst,7,1,71,Hire
+"vulnerability assessment, encryption, network security, ids/ips, siem, firewall, penetration testing",7.67,PhD,None,Cybersecurity Analyst,10,1,78,Hire
+"network security, vulnerability assessment, encryption, ids/ips, penetration testing, firewall, siem",5.36,PhD,None,Cybersecurity Analyst,9,1,71,Hire
+"docker, microservices, rest api, java, kubernetes, aws",6.33,MBA,None,Software Engineer,8,1,68,Hire
+"python, nlp, machine learning, scikit-learn, pandas",3.78,M.Tech,Certified Ethical Hacker,Data Scientist,4,1,56,Hire
+"encryption, penetration testing, network security, ids/ips, vulnerability assessment, firewall",6.01,MBA,TensorFlow Developer Certificate,Cybersecurity Analyst,3,1,68,Hire
+"javascript, react, git, java, rest api, aws",7.81,MBA,Google Cloud Professional,Software Engineer,3,1,73,Hire
+"pytorch, machine learning, sql, nlp, deep learning, python, tensorflow, scikit-learn",8.56,PhD,Deep Learning Specialization,Data Scientist,8,1,85,Hire
+"rest api, docker, git, kubernetes, aws, microservices",8.85,M.Tech,CISSP,Software Engineer,6,1,76,Hire
+"encryption, network security, penetration testing, firewall, ids/ips",6.53,M.Tech,None,Cybersecurity Analyst,4,1,64,Hire
+"rest api, docker, microservices, nodejs, git, kubernetes, aws, javascript",8.91,PhD,Google Cloud Professional,Software Engineer,10,1,86,Hire
+"tensorflow, pandas, nlp, sql, machine learning",7.12,MBA,Certified Ethical Hacker,Data Scientist,5,1,66,Hire
+"python, tensorflow, pandas, scikit-learn, machine learning",7.32,M.Tech,None,Data Scientist,10,1,66,Hire
+"microservices, nodejs, javascript, git, docker, java",3.35,MBA,Deep Learning Specialization,Software Engineer,6,1,60,Hire
+"ids/ips, vulnerability assessment, encryption, penetration testing, firewall, network security",6.8,M.Tech,TensorFlow Developer Certificate,Cybersecurity Analyst,3,1,70,Hire
+"encryption, ids/ips, firewall, siem, vulnerability assessment, network security",5.3,MBA,None,Cybersecurity Analyst,8,1,65,Hire
+"machine learning, tensorflow, deep learning, python, scikit-learn, pytorch, numpy",8.4,M.Tech,None,Data Scientist,10,1,80,Hire
+"firewall, siem, encryption, vulnerability assessment, penetration testing",3.87,M.Tech,None,Cybersecurity Analyst,6,1,56,Hire
+"deep learning, machine learning, tensorflow, sql, pandas, nlp, scikit-learn, numpy",3.16,PhD,Deep Learning Specialization,Data Scientist,3,1,69,Hire
+"machine learning, pytorch, sql, numpy, scikit-learn, deep learning",8.37,PhD,None,Data Scientist,6,1,75,Hire
+"tensorflow, pytorch, sql, machine learning, nlp, python, numpy, scikit-learn",8.98,MBA,Google Cloud Professional,Data Scientist,5,1,86,Hire
+"machine learning, sql, deep learning, tensorflow, numpy",7.35,PhD,None,Data Scientist,8,1,67,Hire
+"pandas, scikit-learn, numpy, machine learning, tensorflow",8.89,MBA,CISSP,Data Scientist,3,1,71,Hire
+"rest api, docker, git, nodejs, java, javascript, react",6.6,MBA,TensorFlow Developer Certificate,Software Engineer,3,1,74,Hire
+"react, nodejs, docker, git, rest api, java, kubernetes, aws",7.98,MBA,None,Software Engineer,9,1,83,Hire
+"python, pytorch, numpy, nlp, pandas, tensorflow, scikit-learn, sql",8.19,MBA,Certified Ethical Hacker,Data Scientist,4,1,84,Hire
+"penetration testing, firewall, ids/ips, siem, network security, encryption, vulnerability assessment",5.02,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,4,1,70,Hire
+"aws, nodejs, microservices, kubernetes, react, java",7.98,PhD,None,Software Engineer,6,1,73,Hire
+"react, javascript, aws, microservices, nodejs, docker, kubernetes, java",3.2,M.Tech,None,Software Engineer,9,1,69,Hire
+"publications, computer vision, gans, deep learning, reinforcement learning, research, nlp",5.01,PhD,None,AI Researcher,10,1,70,Hire
+"penetration testing, firewall, siem, vulnerability assessment, ids/ips, encryption",3.95,PhD,TensorFlow Developer Certificate,Cybersecurity Analyst,10,1,61,Hire
+"scikit-learn, tensorflow, nlp, python, pytorch, pandas, deep learning",8.61,M.Tech,None,Data Scientist,6,1,80,Hire
+"nlp, numpy, machine learning, sql, pytorch, pandas",4.84,MBA,AWS Certified Solutions Architect,Data Scientist,10,1,64,Hire
+"gans, publications, research, reinforcement learning, deep learning, nlp",8.93,MBA,Certified Ethical Hacker,AI Researcher,4,1,76,Hire
+"siem, firewall, penetration testing, ids/ips, network security, vulnerability assessment, encryption",9.12,PhD,Google Cloud Professional,Cybersecurity Analyst,3,1,82,Hire
+"java, javascript, kubernetes, nodejs, react, git",8.91,MBA,None,Software Engineer,8,1,76,Hire
+"nodejs, docker, microservices, rest api, javascript, git",6.0,MBA,TensorFlow Developer Certificate,Software Engineer,6,1,68,Hire
+"nlp, python, tensorflow, deep learning, pytorch, numpy, pandas",8.58,M.Tech,None,Data Scientist,7,1,80,Hire
+"research, deep learning, gans, transformers, reinforcement learning",6.63,PhD,Google Cloud Professional,AI Researcher,9,1,64,Hire
+"sql, numpy, scikit-learn, deep learning, python, pytorch",8.25,M.Tech,None,Data Scientist,9,1,74,Hire
+"nlp, gans, computer vision, research, deep learning, transformers, reinforcement learning, publications",3.17,M.Tech,None,AI Researcher,7,1,69,Hire
+"transformers, reinforcement learning, gans, publications, research, deep learning, nlp",9.32,PhD,AWS Certified Solutions Architect,AI Researcher,7,1,82,Hire
+"nodejs, microservices, rest api, git, kubernetes, javascript, java, aws",4.33,M.Tech,None,Software Engineer,10,1,72,Hire
+"rest api, kubernetes, react, javascript, java",9.42,PhD,TensorFlow Developer Certificate,Software Engineer,6,1,73,Hire
+"network security, firewall, siem, ids/ips, penetration testing, encryption, vulnerability assessment",7.62,PhD,Certified Ethical Hacker,Cybersecurity Analyst,6,1,77,Hire
+"deep learning, transformers, reinforcement learning, publications, nlp, computer vision",8.54,M.Tech,Deep Learning Specialization,AI Researcher,5,1,75,Hire
+"research, gans, deep learning, nlp, computer vision",4.75,M.Tech,None,AI Researcher,10,1,59,Hire
+"transformers, reinforcement learning, publications, gans, nlp, computer vision, deep learning",9.06,M.Tech,None,AI Researcher,6,1,82,Hire
+"react, javascript, microservices, docker, nodejs, aws, kubernetes, java",5.66,MBA,None,Software Engineer,8,1,76,Hire
+"javascript, git, aws, react, rest api, kubernetes, java",6.85,PhD,Google Cloud Professional,Software Engineer,7,1,75,Hire
+"deep learning, transformers, publications, reinforcement learning, computer vision, nlp",4.0,M.Tech,AWS Certified Solutions Architect,AI Researcher,7,1,62,Hire
+"react, microservices, kubernetes, javascript, rest api, aws, docker, java",8.09,M.Tech,None,Software Engineer,4,1,84,Hire
+"ids/ips, penetration testing, network security, firewall, siem, encryption, vulnerability assessment",4.93,MBA,Certified Ethical Hacker,Cybersecurity Analyst,8,1,69,Hire
+"microservices, docker, javascript, rest api, nodejs, react, aws",5.24,MBA,None,Software Engineer,3,1,70,Hire
+"docker, react, aws, nodejs, rest api, microservices, git, java",5.51,M.Tech,Certified Ethical Hacker,Software Engineer,5,1,76,Hire
+"pytorch, machine learning, python, nlp, tensorflow",9.01,M.Tech,CISSP,Data Scientist,8,1,72,Hire
+"network security, firewall, penetration testing, vulnerability assessment, siem, ids/ips, encryption",8.16,PhD,CISSP,Cybersecurity Analyst,8,1,79,Hire
+"ids/ips, firewall, vulnerability assessment, encryption, network security, penetration testing, siem",7.93,MBA,None,Cybersecurity Analyst,4,1,78,Hire
+"machine learning, sql, tensorflow, pandas, numpy, deep learning, python, nlp",5.66,MBA,None,Data Scientist,5,1,76,Hire
+"transformers, deep learning, gans, research, publications, computer vision, nlp, reinforcement learning",9.66,M.Tech,TensorFlow Developer Certificate,AI Researcher,4,1,88,Hire
+"react, aws, git, microservices, java, rest api",3.91,M.Tech,None,Software Engineer,10,1,61,Hire
+"git, javascript, aws, java, microservices, kubernetes, rest api",8.38,PhD,TensorFlow Developer Certificate,Software Engineer,4,1,80,Hire
+"vulnerability assessment, network security, siem, firewall, penetration testing, ids/ips",3.58,M.Tech,None,Cybersecurity Analyst,5,1,60,Hire
+"tensorflow, machine learning, pytorch, pandas, scikit-learn",5.37,M.Tech,Google Cloud Professional,Data Scientist,9,1,61,Hire
+"nodejs, javascript, java, docker, kubernetes, git, aws, microservices",7.91,PhD,CISSP,Software Engineer,9,1,83,Hire
+"research, publications, reinforcement learning, gans, transformers, nlp, computer vision",7.88,PhD,None,AI Researcher,6,1,78,Hire
+"nlp, publications, research, deep learning, reinforcement learning, computer vision, gans",6.97,PhD,Google Cloud Professional,AI Researcher,7,1,75,Hire
+"deep learning, gans, transformers, research, publications, nlp",5.72,PhD,None,AI Researcher,7,1,67,Hire
+"gans, reinforcement learning, transformers, research, computer vision",7.8,M.Tech,Deep Learning Specialization,AI Researcher,5,1,68,Hire
+"computer vision, nlp, research, gans, deep learning, reinforcement learning",5.19,M.Tech,Google Cloud Professional,AI Researcher,3,1,65,Hire
+"microservices, java, rest api, aws, nodejs, kubernetes",3.05,M.Tech,None,Software Engineer,7,1,59,Hire
+"encryption, vulnerability assessment, firewall, siem, ids/ips, network security, penetration testing",7.64,MBA,Deep Learning Specialization,Cybersecurity Analyst,8,1,77,Hire
+"transformers, gans, reinforcement learning, research, nlp, computer vision, deep learning, publications",8.66,PhD,None,AI Researcher,7,1,85,Hire
+"scikit-learn, machine learning, pytorch, python, numpy, deep learning",4.27,M.Tech,None,Data Scientist,5,1,62,Hire
+"nlp, pandas, python, numpy, scikit-learn",5.1,MBA,None,Data Scientist,9,1,60,Hire
+"kubernetes, git, javascript, java, rest api, aws, react, docker",6.67,M.Tech,None,Software Engineer,5,1,80,Hire
+"numpy, scikit-learn, tensorflow, deep learning, nlp, machine learning, python, pytorch",7.74,PhD,Certified Ethical Hacker,Data Scientist,7,1,83,Hire
+"encryption, network security, penetration testing, vulnerability assessment, siem, ids/ips, firewall",7.08,M.Tech,TensorFlow Developer Certificate,Cybersecurity Analyst,5,1,76,Hire
+"nlp, pandas, sql, pytorch, tensorflow",9.62,MBA,Google Cloud Professional,Data Scientist,8,1,73,Hire
+"javascript, react, microservices, kubernetes, nodejs, rest api, git, docker",7.48,M.Tech,CISSP,Software Engineer,6,1,82,Hire
+"scikit-learn, sql, machine learning, nlp, python, deep learning, tensorflow, pytorch",5.74,M.Tech,TensorFlow Developer Certificate,Data Scientist,10,1,77,Hire
+"nlp, research, transformers, publications, reinforcement learning",7.0,MBA,None,AI Researcher,8,1,66,Hire
+"git, docker, java, javascript, kubernetes",9.31,M.Tech,None,Software Engineer,7,1,72,Hire
+"docker, aws, git, rest api, react, kubernetes, nodejs, microservices",7.75,MBA,None,Software Engineer,10,1,83,Hire
+"rest api, java, docker, kubernetes, aws, nodejs, git, javascript",4.73,M.Tech,None,Software Engineer,9,1,74,Hire
+"javascript, rest api, kubernetes, nodejs, java, microservices, git",8.91,M.Tech,None,Software Engineer,10,1,81,Hire
+"java, javascript, docker, react, rest api, aws",5.52,M.Tech,AWS Certified Solutions Architect,Software Engineer,8,1,66,Hire
+"nlp, scikit-learn, numpy, pytorch, pandas, tensorflow",9.37,MBA,None,Data Scientist,3,1,78,Hire
+"encryption, vulnerability assessment, siem, ids/ips, firewall, network security, penetration testing",4.54,PhD,None,Cybersecurity Analyst,10,1,68,Hire
+"machine learning, numpy, sql, scikit-learn, deep learning, pandas, nlp",3.18,PhD,Certified Ethical Hacker,Data Scientist,7,1,64,Hire
+"machine learning, nlp, scikit-learn, pandas, tensorflow, deep learning, python, pytorch",5.2,MBA,None,Data Scientist,9,1,75,Hire
+"network security, penetration testing, ids/ips, vulnerability assessment, encryption, firewall",8.04,MBA,Certified Ethical Hacker,Cybersecurity Analyst,4,1,74,Hire
+"java, react, aws, docker, microservices, kubernetes",8.16,M.Tech,None,Software Engineer,8,1,74,Hire
+"numpy, pytorch, machine learning, pandas, sql",4.87,M.Tech,AWS Certified Solutions Architect,Data Scientist,4,1,59,Hire
+"docker, rest api, react, javascript, aws",9.93,PhD,None,Software Engineer,7,1,74,Hire
+"javascript, microservices, kubernetes, aws, git, nodejs, react, docker",4.52,PhD,None,Software Engineer,9,1,73,Hire
+"react, kubernetes, aws, javascript, nodejs, git",6.31,PhD,Deep Learning Specialization,Software Engineer,8,1,68,Hire
+"aws, docker, rest api, react, microservices, git, nodejs",3.13,MBA,None,Software Engineer,9,1,64,Hire
+"git, java, rest api, docker, javascript, kubernetes, nodejs, microservices",9.9,PhD,None,Software Engineer,10,1,89,Hire
+"deep learning, nlp, computer vision, transformers, reinforcement learning, publications, gans, research",4.0,M.Tech,TensorFlow Developer Certificate,AI Researcher,7,1,72,Hire
+"tensorflow, python, numpy, pytorch, nlp",4.85,MBA,None,Data Scientist,5,1,59,Hire
+"penetration testing, vulnerability assessment, firewall, encryption, network security, siem, ids/ips",3.06,MBA,None,Cybersecurity Analyst,8,1,64,Hire
+"firewall, network security, vulnerability assessment, penetration testing, siem, ids/ips, encryption",6.65,MBA,TensorFlow Developer Certificate,Cybersecurity Analyst,8,1,74,Hire
+"nlp, computer vision, gans, reinforcement learning, research, transformers",4.54,M.Tech,None,AI Researcher,5,1,63,Hire
+"computer vision, publications, transformers, research, reinforcement learning, gans",4.92,PhD,None,AI Researcher,9,1,64,Hire
+"nodejs, git, react, kubernetes, microservices, rest api, javascript, java",5.19,PhD,None,Software Engineer,5,1,75,Hire
+"nlp, computer vision, deep learning, research, reinforcement learning, transformers, publications, gans",8.37,M.Tech,Google Cloud Professional,AI Researcher,6,1,85,Hire
+"scikit-learn, tensorflow, machine learning, numpy, pytorch, sql",7.29,PhD,AWS Certified Solutions Architect,Data Scientist,8,1,71,Hire
+"machine learning, python, pandas, nlp, scikit-learn, tensorflow, numpy",5.83,MBA,None,Data Scientist,7,1,72,Hire
