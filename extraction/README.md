@@ -8,6 +8,7 @@
 5. label (default 0)
 6. Output file
 - batch_run.py works for a batch of pdf.
+- similarity.py takes jd and resume and checks their similarity.
 - These are the ones till now, will be updated as required.
 
 # Usage
@@ -21,16 +22,21 @@ python .\main.py .\data\resume.pdf
 python .\extract_text_from_pdf.py .\data\resume.pdf
 ```
 ```bash
-python .\extract.py .\output\resume.txt
+python .\extract.py .\output\resume\resume.txt
 ```
 - For batch running
 ```bash
 python .\batch_run.py
 ```
+- For similarity.py
+```bash
+python .\similarity.py .\output\resume\resume.txt .\output\jd\jd.txt
+```
 
 # How it works ?
 - PyMuPDF is used to convert pdf files to text files and they are stored in output directory.
 - extract.py takes all the lists from data like skills, education for pattern matching. Regex is used for experience calculation. No ML or model is used, just normal pattern matching.
+- similarity.py has a simple checking for the skills and other using transformer model.
 
 # To Do:
 1. Should add more rows into the dataset.
