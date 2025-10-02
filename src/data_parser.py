@@ -1,11 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 """
-Data Parser Module
+Data Parser Module - FIXED VERSION (No Warnings)
 Loads and preprocesses the resume dataset
 """
 
@@ -38,16 +32,16 @@ class DataParser:
         # Store original shape
         original_shape = self.df.shape
 
-        # Handle missing values in Certifications (fill with "None")
-        self.df['Certifications'].fillna('None', inplace=True)
+        # Handle missing values in Certifications (fill with "None") - FIXED
+        self.df = self.df.copy()  # Create explicit copy
+        self.df['Certifications'] = self.df['Certifications'].fillna('None')
 
         # Remove duplicates
         if 'Resume_ID' in self.df.columns:
             self.df.drop_duplicates(subset=['Resume_ID'], inplace=True)
         else:
-            self.df.drop_duplicates(inplace=True)  # Drops exact duplicate rows across all columns
+            self.df.drop_duplicates(inplace=True)
 
-        
         # Remove rows with missing critical information
         critical_cols = ['Skills', 'Experience (Years)', 'Education', 'Job Role', 'Recruiter Decision']
         self.df.dropna(subset=critical_cols, inplace=True)
@@ -131,7 +125,7 @@ class DataParser:
 
 if __name__ == "__main__":
     # Example usage
-    parser = DataParser('../data/raw/AI_RESUME_SCREENING.csv')
+    parser = DataParser('data/raw/AI_Resume_Screening.csv')
 
     # Load and clean data
     df = parser.load_data()
@@ -145,16 +139,3 @@ if __name__ == "__main__":
     X, y = parser.prepare_for_modeling()
     print(f"\nFeatures shape: {X.shape}")
     print(f"Target shape: {y.shape}")
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-

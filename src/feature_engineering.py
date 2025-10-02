@@ -1,11 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[4]:
-
-
 """
-Feature Engineering Module
+Feature Engineering Module - FIXED VERSION (No Warnings)
 Extracts and engineers features from resume data for ML model
 """
 
@@ -14,7 +8,7 @@ import numpy as np
 from sklearn.preprocessing import LabelEncoder, StandardScaler
 from typing import List, Dict, Tuple
 import re
-import joblib
+
 
 class FeatureEngineer:
     def __init__(self):
@@ -23,18 +17,6 @@ class FeatureEngineer:
         self.role_encoder = LabelEncoder()
         self.scaler = StandardScaler()
         self.skill_list = None
-
-    def save(self, filepath: str = 'models/feature_engineer.pkl'):
-        """Saves the fitted FeatureEngineer instance."""
-        joblib.dump(self, filepath)
-        print(f"Feature engineer saved to {filepath}")
-
-    @staticmethod
-    def load(filepath: str = 'models/feature_engineer.pkl'):
-        """Loads a fitted FeatureEngineer instance."""
-        engineer = joblib.load(filepath)
-        print(f"Feature engineer loaded from {filepath}")
-        return engineer
 
     def extract_skill_features(self, df: pd.DataFrame) -> pd.DataFrame:
         """
@@ -108,38 +90,45 @@ class FeatureEngineer:
             'B.Sc': 1,
             'B.Tech': 1,
             'Bachelor': 1,
+            'b.s.': 1,
             'MBA': 2,
             'M.Sc': 2,
+            'M.Tech': 2,
             'Master': 2,
+            "Master's": 2,
+            'master\'s': 2,
             'PhD': 3,
-            'Ph.D': 3
+            'Ph.D': 3,
+            'phd': 3
         }
 
-        # Map education to ordinal values
+        # Map education to ordinal values - FIXED: No more inplace warning
         df['education_level'] = df['Education'].map(education_map)
-
+        
         # Fill any unmapped values with 1 (Bachelor equivalent)
-        df['education_level'].fillna(1, inplace=True)
+        df['education_level'] = df['education_level'].fillna(1)
 
         return df
 
     def encode_job_role(self, df: pd.DataFrame) -> pd.DataFrame:
         """
-        One-hot encode job roles
-
-        Args:
-            df: DataFrame with 'Job Role' column
-
-        Returns:
-            DataFrame with one-hot encoded job roles
+        One-hot encode job roles, always including all possible roles.
         """
         df = df.copy()
-
-        # One-hot encode job roles
-        role_dummies = pd.get_dummies(df['Job Role'], prefix='role')
-        df = pd.concat([df, role_dummies], axis=1)
-
+        ALL_JOB_ROLES = ['Data Scientist', 'Software Engineer', 'AI Researcher', 'Cybersecurity Analyst']
+        job_role_dummies = pd.get_dummies(df['Job Role'], prefix='role')
+        # Ensure all possible role columns exist
+        for role in ALL_JOB_ROLES:
+            col = f'role_{role}'
+            if col not in job_role_dummies.columns:
+                job_role_dummies[col] = 0
+        # Ensure column order is always the same
+        job_role_dummies = job_role_dummies[[f'role_{role}' for role in ALL_JOB_ROLES]]
+        df = pd.concat([df, job_role_dummies], axis=1)
         return df
+    
+
+       
 
     def create_interaction_features(self, df: pd.DataFrame) -> pd.DataFrame:
         """
@@ -240,6 +229,7 @@ class FeatureEngineer:
         Returns:
             Scaled feature DataFrame
         """
+        X = X.copy()
         numerical_cols = X.select_dtypes(include=[np.number]).columns
 
         if fit:
@@ -248,26 +238,14 @@ class FeatureEngineer:
             X[numerical_cols] = self.scaler.transform(X[numerical_cols])
 
         return X
-# In src/feature_engineering.py
 
-    def encode_job_role(self, df: pd.DataFrame) -> pd.DataFrame:
-        """
-        One-hot encode job roles
-        """
-        df = df.copy()
-
-        # One-hot encode job roles and ensure the type is integer
-        role_dummies = pd.get_dummies(df['Job Role'], prefix='role', dtype=int) # MODIFIED LINE
-        df = pd.concat([df, role_dummies], axis=1)
-
-        return df
 
 if __name__ == "__main__":
     # Example usage
     from data_parser import DataParser
 
     # Load data
-    parser = DataParser('data/raw/AI_RESUME_SCREENING.csv')
+    parser = DataParser('data/raw/AI_RESUME_SCREENING_AUGMENTED.csv')
     df = parser.load_data()
     df = parser.clean_data()
     X, y = parser.prepare_for_modeling()
