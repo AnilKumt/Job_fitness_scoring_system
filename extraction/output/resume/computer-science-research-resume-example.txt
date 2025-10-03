@@ -1,0 +1,70 @@
+CHARLES
+WRIGHT
+Computer Science
+Researcher
+c.wright@email.com
+(123) 456-7890
+Jersey City, NJ
+LinkedIn
+EDUCATION
+Bachelor of Science
+Engineering
+Princeton University
+2014 - 2018
+Princeton, NJ
+SKILLS
+Python
+RStudio
+TensorFlow
+Git
+PostgreSQL
+Amazon Web Services
+Eclipse
+Dask
+MATLAB
+NumPy
+WORK EXPERIENCE
+Computer Science Researcher
+ZyloTech
+2023 - current
+Jersey City, NJ
+Spearheaded data analysis projects by employing Python to
+automate data-cleaning workflows, saving over 48 hours per
+month in a manual effort
+Designed predictive models using TensorFlow, increasing
+customer churn prediction accuracy by 17% over six months
+Engineered robust data visualization pipelines with RStudio,
+producing dashboards that guided decisions for a $286K
+research grant
+Achieved 99.8% reliability in ML model deployment by
+leveraging AWS Lambda, ensuring real-time feedback during
+experiments
+Application Support Analyst
+Bank of America
+2020 - 2023
+Jersey City, NJ
+Resolved 234 database discrepancies per month by
+employing advanced SQL queries in PostgreSQL, enhancing
+data accuracy by 96.7%
+Provided technical support during system migrations,
+ensuring the smooth transition of over 34,886 client accounts
+Identified inefficiencies in data processing workflows and
+resolved them with Dask, improving load times by 3.7
+seconds per transaction
+Refined the application code for better scalability by using
+Eclipse, enabling the support of 21% more simultaneous users
+Help Desk Technician
+AT&T
+2018 - 2020
+Princeton, NJ
+Collaborated with IT integrating Git, enabling nine
+development teams to complete projects 18% faster through
+improving codebase management
+Leveraged MATLAB simulating control systems for hardware
+integration, reducing system malfunctions by 37% and
+improving real-time device interaction
+Deployed updates and patches across 92 systems using
+SCCM, reducing system vulnerabilities by 17%
+Streamlined troubleshooting with NumPy for data
+preprocessing, resolving 183 tickets per week and cutting
+resolution time by 12 minutes

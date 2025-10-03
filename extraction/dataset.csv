@@ -1,27 +1,346 @@
 resume_id,skills,soft_skills,experience_years,education_degree,label,output_file
-0,"python, unity",,0,b.tech,0,.\output\resume\resume.txt
-1,"apache kafka, aws, docker, git, hadoop, nltk, pandas, python, sql, tensorflow",,0,,0,output\resume\amazon-data-science-resume-example.txt
-2,"data visualization, data wrangling, databases, deep learning, java, keras, mathematics, python, statistical analysis",,1.167,b.s.,0,output\resume\associate-data-scientist-resume-example.txt
-3,"apache spark, machine learning, nlp, nltk, sql",,11.833,b.s.,0,output\resume\data-science-consultant-resume-example.txt
-4,"aws, hadoop, nlp, python, tensorflow",,13.833,b.s.,0,output\resume\data-science-director-resume-example.txt
-5,"aws, big data, docker, git, hadoop, mysql, python, tensorflow",collaboration,0,,0,output\resume\data-science-engineer-resume-example.txt
-6,"flask, git, keras, mathematics, mysql, pandas, python, sql","accountability, decision making, leadership",9.417,b.s.,0,output\resume\data-science-manager-resume-example.txt
-7,,"collaboration, teamwork",0,,0,output\resume\data-science-project-resume-example.txt
-8,"apache spark, aws, pandas, python, sql",,0,,0,output\resume\data-science-student-resume-example.txt
-9,"aws, big data, databases, hadoop, machine learning, pandas, python, sql",organization,6.25,b.s.,0,output\resume\data-scientist-analytics-resume-example.txt
-10,"keras, mysql, sqlite",,0,,0,output\resume\data-scientist-intern-resume-example.txt
-11,"computer vision, databases, deep learning, keras, machine learning, model deployment, mysql, pytorch, sqlite",,0,master's,0,output\resume\data-scientist-machine-learning-resume-example.txt
-12,"aws, flask, git, keras, mysql, pandas, python, sql",,6.75,b.s.,0,output\resume\data-scientist-resume-example.txt
-13,"data visualization, python",,0,,0,output\resume\data-visualization-resume-example.txt
-14,"cybersecurity, hadoop, machine learning, python","collaboration, communication, critical thinking",0,master's,0,output\resume\educational-data-scientist-resume-example.txt
-15,"data visualization, mathematics, mysql, sql",,6.25,b.s.,0,output\resume\entry-level-data-scientist-resume-example.txt
-16,"aws, databases, git, hadoop, mathematics, mysql, nltk, pandas, python",,0,,0,output\resume\experienced-data-scientist-resume-example.txt
-17,"apache kafka, gcp, machine learning, postgresql, tensorflow",,0,,0,output\resume\google-data-scientist-resume-example.txt
-18,"aws, hadoop, machine learning, mysql, nltk, python, tensorflow",,0,,0,output\resume\healthcare-data-scientist-resume-example.txt
-19,"aws, hadoop, html5, machine learning, pandas, python, sql","decision making, integrity",3.667,b.s.,0,output\resume\metadata-scientist-resume-example.txt
-20,"aws, azure, flask, git, keras, mysql, nlp, pandas, python, sql",,12.25,phd,0,output\resume\nlp-data-scientist-resume-example.txt
-21,"aws, hadoop, machine learning, mysql, pandas, python, pytorch",,0,,0,output\resume\python-data-scientist-resume-example.txt
-22,"python, unity",,0,b.tech,0,output\resume\resume.txt
-23,"aws, big data, c++, cloud computing, deep learning, devops, docker, feature engineering, git, integration testing, machine learning, mathematics, nlp, pandas, python, pytorch, scrum, sql","collaboration, communication, leadership",0,phd,0,output\resume\resume7.txt
-24,"aws, big data, data visualization, git, hadoop, machine learning, mysql, opencv, python, sql, sqlite, tensorflow",communication,0,m.s.,0,output\resume\resume_juanjosecarin.txt
-25,"elasticsearch, flask, mathematics, mysql, pandas, python, sql",integrity,11.667,master's,0,output\resume\senior-data-scientist-resume-example.txt
+0,"apache kafka, aws, docker, git, hadoop, nltk, pandas, python, sql, tensorflow",,0,,0,output\resume\amazon-data-science-resume-example.txt
+1,"data visualization, data wrangling, databases, deep learning, java, keras, mathematics, python, statistical analysis",,1.167,b.s.,0,output\resume\associate-data-scientist-resume-example.txt
+2,git,,0,,0,output\resume\computer-engineering-resume-example.txt
+3,"linux, mysql, python",,0,,0,output\resume\computer-programming-resume-example.txt
+4,,,0,,0,output\resume\computer-repair-technician-resume-example.txt
+5,"c++, mongodb",communication,0,,0,output\resume\computer-science-design-resume-example.txt
+6,"aws, databases, git, javascript, mathematics, python, scrum","communication, leadership, patience",0,,0,output\resume\computer-science-engineering-teacher-resume-example.txt
+7,"computer vision, django, git, graphql, javascript, postgresql, python, rest apis, sql",,9.75,b.s.,0,output\resume\computer-science-internship-resume-example.txt
+8,"git, machine learning, postgresql, python, tensorflow",,0,,0,output\resume\computer-science-latex-resume-example.txt
+9,python,networking,1.0,b.s.,0,output\resume\computer-science-major-resume-example.txt
+10,"docker, git, javascript, selenium, tensorflow",communication,1.0,m.s.,0,output\resume\computer-science-no-experience-resume-example.txt
+11,"aws, data visualization, git, model deployment, postgresql, python, sql, tensorflow",,0,,0,output\resume\computer-science-research-resume-example.txt
+12,"django, git, javascript, postgresql, python, react, rest apis, sql",,3.417,b.s.,0,output\resume\computer-science-resume-example.txt
+13,"computer vision, git, java, sql","creativity, initiative, networking",10.0,b.s.,0,output\resume\computer-science-student-resume-example.txt
+14,"aws, cybersecurity, javascript, mongodb, postgresql, python, react",,3.667,,0,output\resume\computer-science-teaching-assistant-resume-example.txt
+15,"aws, cloud computing, django, git, javascript, mysql, postgresql, python, sql","confidence, critical thinking, initiative",1.833,,0,output\resume\computer-science-tutor-resume-example.txt
+16,"computer vision, deep learning, machine learning, networking, pytorch",,6.25,b.s.,0,output\resume\computer-scientist-resume-example.txt
+17,,,0,,0,output\resume\computer-technician-resume-example.txt
+18,"apache spark, machine learning, nlp, nltk, sql",,11.833,b.s.,0,output\resume\data-science-consultant-resume-example.txt
+19,"aws, hadoop, nlp, python, tensorflow",,13.833,b.s.,0,output\resume\data-science-director-resume-example.txt
+20,"aws, big data, docker, git, hadoop, mysql, python, tensorflow",collaboration,0,,0,output\resume\data-science-engineer-resume-example.txt
+21,"flask, git, keras, mathematics, mysql, pandas, python, sql","accountability, decision making, leadership",9.417,b.s.,0,output\resume\data-science-manager-resume-example.txt
+22,,"collaboration, teamwork",0,,0,output\resume\data-science-project-resume-example.txt
+23,"apache spark, aws, pandas, python, sql",,0,,0,output\resume\data-science-student-resume-example.txt
+24,"aws, big data, databases, hadoop, machine learning, pandas, python, sql",organization,6.25,b.s.,0,output\resume\data-scientist-analytics-resume-example.txt
+25,"keras, mysql, sqlite",,0,,0,output\resume\data-scientist-intern-resume-example.txt
+26,"computer vision, databases, deep learning, keras, machine learning, model deployment, mysql, pytorch, sqlite",,0,master's,0,output\resume\data-scientist-machine-learning-resume-example.txt
+27,"aws, flask, git, keras, mysql, pandas, python, sql",,6.75,b.s.,0,output\resume\data-scientist-resume-example.txt
+28,"data visualization, python",,0,,0,output\resume\data-visualization-resume-example.txt
+29,"cybersecurity, hadoop, machine learning, python","collaboration, communication, critical thinking",0,master's,0,output\resume\educational-data-scientist-resume-example.txt
+30,"aws, java, javascript, mysql, postgresql, react, rest apis",integrity,0.333,,0,output\resume\entry-level-android-developer-resume-example.txt
+31,"django, git, graphql, javascript, postgresql, python, rest apis, selenium, sql, unit testing",,0.833,m.s.,0,output\resume\entry-level-computer-science-resume-example.txt
+32,"data visualization, mathematics, mysql, sql",,6.25,b.s.,0,output\resume\entry-level-data-scientist-resume-example.txt
+33,"aws, databases, git, hadoop, mathematics, mysql, nltk, pandas, python",,0,,0,output\resume\experienced-data-scientist-resume-example.txt
+34,"apache kafka, gcp, machine learning, postgresql, tensorflow",,0,,0,output\resume\google-data-scientist-resume-example.txt
+35,"aws, hadoop, machine learning, mysql, nltk, python, tensorflow",,0,,0,output\resume\healthcare-data-scientist-resume-example.txt
+36,"aws, c++",communication,0,,0,output\resume\masters-in-computer-science-resume-example.txt
+37,"aws, hadoop, html5, machine learning, pandas, python, sql","decision making, integrity",3.667,b.s.,0,output\resume\metadata-scientist-resume-example.txt
+38,"aws, azure, flask, git, keras, mysql, nlp, pandas, python, sql",,12.25,phd,0,output\resume\nlp-data-scientist-resume-example.txt
+39,"aws, hadoop, machine learning, mysql, pandas, python, pytorch",,0,,0,output\resume\python-data-scientist-resume-example.txt
+40,"python, unity",,0,b.tech,0,output\resume\resume.txt
+41,"aws, big data, c++, cloud computing, deep learning, devops, docker, feature engineering, git, integration testing, machine learning, mathematics, nlp, pandas, python, pytorch, scrum, sql","collaboration, communication, leadership",0,phd,0,output\resume\resume7.txt
+42,"aws, big data, data visualization, git, hadoop, machine learning, mysql, opencv, python, sql, sqlite, tensorflow",communication,0,m.s.,0,output\resume\resume_juanjosecarin.txt
+43,"c++, computer vision, deep learning, machine learning, python, pytorch, sql",collaboration,8.083,b.s.,0,output\resume\senior-computer-vision-scientist-resume-example.txt
+44,"elasticsearch, flask, mathematics, mysql, pandas, python, sql",integrity,11.667,master's,0,output\resume\senior-data-scientist-resume-example.txt
+45,"Kibana, Pygame, OWASP Top 10, IntelliJ IDEA, nlp, Blockchain, TensorFlow, Metasploit, SQLite, JavaScript","Multitasking, Patience, Self-Awareness",4.23,Master's,0,generate_resume0.txt
+46,"Integration Testing, Bash Scripting, Solidity, Linux, Prometheus, Unity, Grafana, MongoDB, nlp","Active Listening, Presentation Skills, Stress Management, Organization, Growth Mindset",4.07,M.Tech,0,generate_resume1.txt
+47,Smart Contracts,"Persuasion, Accountability, Work Ethic",7.04,Bachelor's,0,generate_resume2.txt
+48,"Pandas, trasformers, Machine Learning, JavaScript, Playwright, Hadoop, databases, Redis, Deep Learning","Constructive Feedback, Public Speaking",5.55,PhD,0,generate_resume3.txt
+49,"Penetration Testing, Gradio, Cloud Computing, Redis, BERT, Unity, Grafana, Bash Scripting, tdd, gcp","Emotional Intelligence, Organization, Cultural Awareness, Dependability",9.04,MBA,0,generate_resume4.txt
+50,"JavaScript, Functional Programming, Bash Scripting, Ansible, Apache Spark, CSS3, Time Series Analysis","Negotiation, Learning Agility, Flexibility, Self-Motivation, Interpersonal Skills",6.67,B.S.,0,generate_resume5.txt
+51,Pandas,"Leadership, Positive Attitude",2.29,B.E.,0,generate_resume6.txt
+52,"SQLite, Machine Learning, Pygame, Keras, Azure, Flask, Time Series Analysis, DevOps, Model Deployment","Conflict Resolution, Attention to Detail",6.36,M.S.,0,generate_resume7.txt
+53,"MongoDB, Cloud Computing, OWASP Top 10, Hadoop, Burp Suite, Google Colab, OpenCV",Presentation Skills,9.4,B.Tech,0,generate_resume8.txt
+54,"TensorFlow, Solidity, Networking, SQLite, CI/CD Pipelines",Emotional Intelligence,3.49,B.E.,0,generate_resume9.txt
+55,"Google Colab, DevOps, Agile Methodologies, React, MLOps, Bash Scripting, Deep Learning, MySQL","Learning Agility, Leadership",5.07,PhD,0,generate_resume10.txt
+56,"REST APIs, Time Series Analysis, HTML5, Solidity, BERT, Statistical Analysis, Jupyter Notebooks, databases, PostgreSQL, MySQL","Initiative, Learning Agility, Emotional Intelligence, Resilience, Cultural Awareness",5.99,B.Sc,0,generate_resume11.txt
+57,"Bash Scripting, trasformers, oop, Kubernetes, Logstash, Streamlit, PostgreSQL, Scrum, LangChain, T5","Multitasking, Giving Feedback",2.87,MBA,0,generate_resume12.txt
+58,"Terraform, Machine Learning","Listening to Feedback, Problem-Solving, Time Management, Adaptability to Change",4.21,M.S.,0,generate_resume13.txt
+59,"GraphQL, Streamlit","Negotiation, Self-Awareness, Cultural Awareness",6.65,PhD,0,generate_resume14.txt
+60,"Smart Contracts, RabbitMQ, IntelliJ IDEA, Java, HTML5, Agile Methodologies, Metasploit, Apache Kafka",Responsibility,2.87,PhD,0,generate_resume15.txt
+61,"Selenium, Data Wrangling, Google Colab, Smart Contracts, Coding Interview Preparation, Metasploit, Java, IntelliJ IDEA","Positive Attitude, Accountability",4.47,Bachelor's,0,generate_resume16.txt
+62,"Ethical Hacking, Pygame",Problem-Solving,9.09,B.S.,0,generate_resume17.txt
+63,"Big Data, NLTK","Adaptability, Problem-Solving, Cultural Awareness, Active Listening, Team Building",7.73,M.S.,0,generate_resume18.txt
+64,"Gradio, SQLite, Software Testing, oop, Unit Testing, Cybersecurity, Scrum","Teamwork, Accountability",6.04,MBA,0,generate_resume19.txt
+65,"tdd, JavaScript",Public Speaking,9.04,Bachelor's,0,generate_resume20.txt
+66,Terraform,"Work Ethic, Emotional Intelligence",2.07,B.Tech,0,generate_resume21.txt
+67,"Integration Testing, Ethereum, Apache Kafka, DevOps, Git, Jupyter Notebooks","Accountability, Collaboration, Self-Motivation, Time Management",8.06,B.Tech,0,generate_resume22.txt
+68,"Data Engineering, Jupyter Notebooks, databases, Kubernetes, C++, Scikit-learn, SQLite, Keras","Empathy, Accountability, Attention to Detail, Collaboration, Teamwork",4.74,B.E.,0,generate_resume23.txt
+69,"Grafana, Java, OpenCV, Apache Spark, Penetration Testing, Solidity, NLTK, PyTorch","Networking, Positive Attitude, Negotiation, Work Ethic",3.53,MBA,0,generate_resume24.txt
+70,Reinforcement Learning,"Networking, Critical Thinking, Respectfulness, Goal Setting, Collaboration",8.48,PhD,0,generate_resume25.txt
+71,"Jupyter Notebooks, MongoDB, OWASP Top 10, Java, JavaScript, RabbitMQ, Integration Testing, Terraform","Confidence, Initiative, Collaboration",6.29,B.Sc,0,generate_resume26.txt
+72,Time Series Analysis,"Leadership, Time Management, Confidence, Accountability, Work Ethic",4.95,Master's,0,generate_resume27.txt
+73,"GraphQL, Ansible, Flask, GPT models, PyTorch","Professionalism, Stress Management, Listening to Feedback",6.07,Bachelor's,0,generate_resume28.txt
+74,MongoDB,"Patience, Public Speaking, Self-Motivation, Creativity",5.96,M.S.,0,generate_resume29.txt
+75,"Keras, Penetration Testing, IntelliJ IDEA","Team Building, Collaboration, Open-Mindedness, Work Ethic, Self-Motivation",7.51,M.Tech,0,generate_resume30.txt
+76,"Agile Methodologies, Selenium, Penetration Testing, Pygame, PostgreSQL, Git","Positive Attitude, Emotional Intelligence, Constructive Feedback, Self-Motivation",3.76,Master's,0,generate_resume31.txt
+77,"Unity, Data Wrangling, GraphQL","Work Ethic, Conflict Resolution, Flexibility",3.15,M.Tech,0,generate_resume32.txt
+78,"MongoDB, Terraform, PyTorch, Scrum, BERT, Data Visualization, Redis",Patience,6.87,PhD,0,generate_resume33.txt
+79,"GraphQL, oop","Work Ethic, Accountability",3.36,Bachelor's,0,generate_resume34.txt
+80,"TensorFlow, React, Scikit-learn, C++, Ansible, Networking","Emotional Intelligence, Listening to Feedback, Communication, Adaptability to Change, Goal Setting",6.55,Master's,0,generate_resume35.txt
+81,"Azure, Terraform, REST APIs, Integration Testing, Pandas, Metasploit, SQL, Streamlit",Accountability,5.92,Bachelor's,0,generate_resume36.txt
+82,"CI/CD Pipelines, Django, Feature Engineering","Resourcefulness, Initiative, Self-Awareness, Presentation Skills, Attention to Detail",9.38,M.S.,0,generate_resume37.txt
+83,"T5, Jupyter Notebooks, Prometheus, React, Big Data, Integration Testing","Teamwork, Confidence, Giving Feedback, Open-Mindedness, Emotional Intelligence",6.79,B.Tech,0,generate_resume38.txt
+84,"Machine Learning, Web3.js, Networking, Django, SQL, Apache Spark, OpenCV",Leadership,5.09,B.Tech,0,generate_resume39.txt
+85,"Terraform, Algorithms & Data Structures, Mathematics, Solidity, Deep Learning, React, Statistical Analysis, Linux","Problem-Solving, Open-Mindedness, Public Speaking, Constructive Feedback",7.76,Bachelor's,0,generate_resume40.txt
+86,"REST APIs, Algorithms & Data Structures, NLTK, SQL","Confidence, Empathy, Initiative",5.52,PhD,0,generate_resume41.txt
+87,"Grafana, Playwright, IntelliJ IDEA, Gradio, Computer Vision, Feature Engineering","Growth Mindset, Team Building, Patience, Time Management",2.94,PhD,0,generate_resume42.txt
+88,"Google Colab, Data Visualization, Networking, LangChain, Kibana, Ansible, Apache Spark, Scrum, Smart Contracts",Integrity,8.05,Bachelor's,0,generate_resume43.txt
+89,"Integration Testing, tdd, Elasticsearch, BERT, Data Engineering, Algorithms & Data Structures, Docker, Linux","Conflict Resolution, Adaptability to Change, Giving Feedback, Persuasion",4.7,M.S.,0,generate_resume44.txt
+90,"Metasploit, Google Colab, CSS3, Algorithms & Data Structures, Logstash, Solidity, Networking, MongoDB, Feature Engineering","Interpersonal Skills, Resilience, Active Listening, Creativity",2.91,Bachelor's,0,generate_resume45.txt
+91,"BERT, Time Series Analysis, Playwright, HTML5, Python, Hadoop","Critical Thinking, Listening to Feedback, Empathy",4.8,Master's,0,generate_resume46.txt
+92,"Blockchain, LangChain, gcp","Adaptability to Change, Persuasion",4.58,M.Tech,0,generate_resume47.txt
+93,"Pandas, MongoDB, T5, Gradio, Smart Contracts, Java","Public Speaking, Active Listening",5.78,PhD,0,generate_resume48.txt
+94,"databases, Bash Scripting","Initiative, Resourcefulness, Critical Thinking",6.78,B.S.,0,generate_resume49.txt
+95,"Functional Programming, trasformers, Metasploit, MLOps, Kubernetes, CI/CD Pipelines, Feature Engineering, Machine Learning, Linux","Open-Mindedness, Conflict Resolution, Interpersonal Skills, Creativity",8.51,B.S.,0,generate_resume50.txt
+96,"GPT models, Time Series Analysis, Java, Burp Suite, Computer Vision, Ethical Hacking, SQL, trasformers, databases","Self-Awareness, Problem-Solving, Decision Making, Teamwork",6.13,PhD,0,generate_resume51.txt
+97,Time Series Analysis,"Networking, Attention to Detail, Decision Making, Self-Awareness, Respectfulness",4.22,B.Tech,0,generate_resume52.txt
+98,"Ethereum, C++, LangChain, Git, Burp Suite, Scrum",Cultural Awareness,3.16,M.Tech,0,generate_resume53.txt
+99,"Ethical Hacking, Functional Programming, Django, Integration Testing, VS Code, DevOps, MLOps, SQL, React, Deep Learning","Respectfulness, Interpersonal Skills",5.58,M.S.,0,generate_resume54.txt
+100,"Keras, GPT models, MySQL",Accountability,6.58,PhD,0,generate_resume55.txt
+101,"Scrum, Metasploit, MLOps, Data Visualization, Logstash, GraphQL, xai, Kibana, Machine Learning","Giving Feedback, Resourcefulness, Dependability, Public Speaking",9.34,MBA,0,generate_resume56.txt
+102,"MySQL, Selenium, LangChain, Software Testing, Scikit-learn",Growth Mindset,2.65,Master's,0,generate_resume57.txt
+103,Scrum,Communication,3.85,B.Tech,0,generate_resume58.txt
+104,"MongoDB, Django, PyTorch, REST APIs, Git","Initiative, Interpersonal Skills, Decision Making, Communication",8.33,B.Tech,0,generate_resume59.txt
+105,"Data Wrangling, GPT models, CI/CD Pipelines, T5, Gradio","Emotional Intelligence, Flexibility",9.81,M.Tech,0,generate_resume60.txt
+106,"Flask, JavaScript, CI/CD Pipelines","Leadership, Flexibility, Respectfulness, Active Listening, Teamwork",3.96,B.Sc,0,generate_resume61.txt
+107,"Prometheus, Java, SQL, RabbitMQ, Apache Spark, OWASP Top 10, gcp, Selenium, Apache Kafka","Communication, Adaptability, Listening to Feedback, Adaptability to Change",6.13,Bachelor's,0,generate_resume62.txt
+108,"gcp, CSS3, Grafana","Learning Agility, Stress Management",6.78,B.Tech,0,generate_resume63.txt
+109,"Web3.js, C++, Bash Scripting, VS Code, Scikit-learn, OpenCV, Ethereum","Giving Feedback, Resilience, Constructive Feedback",9.23,MBA,0,generate_resume64.txt
+110,"xai, Linux, Logstash, Data Wrangling","Active Listening, Critical Thinking, Flexibility",8.15,B.S.,0,generate_resume65.txt
+111,"Deep Learning, Redis, Unit Testing, BERT, SQL, Kubernetes, databases","Dependability, Open-Mindedness",10.0,Master's,0,generate_resume66.txt
+112,"VS Code, OWASP Top 10, Azure, Blockchain, Functional Programming, Solidity, Software Testing","Interpersonal Skills, Active Listening, Respectfulness, Negotiation",3.66,B.Tech,0,generate_resume67.txt
+113,"Java, MySQL, AWS, Docker, SQL","Emotional Intelligence, Patience, Adaptability to Change, Constructive Feedback",9.88,M.Tech,0,generate_resume68.txt
+114,"Django, Data Visualization, Python, Burp Suite, Agile Methodologies, VS Code","Critical Thinking, Empathy",2.95,B.E.,0,generate_resume69.txt
+115,"Terraform, Java, Grafana, SQLite, C++","Accountability, Public Speaking",2.99,Bachelor's,0,generate_resume70.txt
+116,"Keras, Java, Streamlit, NLTK",Learning Agility,4.84,B.Tech,0,generate_resume71.txt
+117,"Scikit-learn, gcp, Redis, GPT models, C++, DevOps, Prometheus","Leadership, Creativity",7.79,PhD,0,generate_resume72.txt
+118,VS Code,Presentation Skills,9.19,Bachelor's,0,generate_resume73.txt
+119,"PyTorch, BERT, Networking, Docker, Kubernetes, Prometheus","Organization, Integrity, Confidence, Accountability, Adaptability",3.11,MBA,0,generate_resume74.txt
+120,"Networking, MongoDB, REST APIs, Logstash, Hadoop, PostgreSQL, Playwright, Coding Interview Preparation","Adaptability, Constructive Feedback",9.84,MBA,0,generate_resume75.txt
+121,"Statistical Analysis, Pygame, Cloud Computing, AWS, Ethereum, Jupyter Notebooks, Kibana, Hadoop, trasformers","Presentation Skills, Growth Mindset, Active Listening, Dependability, Organization",7.11,PhD,0,generate_resume76.txt
+122,"Flask, JavaScript","Flexibility, Confidence, Professionalism, Responsibility, Growth Mindset",4.96,M.Tech,0,generate_resume77.txt
+123,"Terraform, Scikit-learn","Networking, Team Building, Listening to Feedback, Creativity, Public Speaking",4.81,B.Tech,0,generate_resume78.txt
+124,"Integration Testing, Apache Spark, OWASP Top 10, Smart Contracts, Model Deployment, Agile Methodologies","Growth Mindset, Adaptability",6.08,B.E.,0,generate_resume79.txt
+125,"Solidity, AWS, Unit Testing, nlp",Leadership,2.36,B.E.,0,generate_resume80.txt
+126,Algorithms & Data Structures,"Empathy, Multitasking",4.43,B.Tech,0,generate_resume81.txt
+127,Cybersecurity,"Work Ethic, Integrity, Respectfulness, Decision Making",8.36,Master's,0,generate_resume82.txt
+128,"Cybersecurity, gcp, Grafana","Leadership, Self-Awareness, Problem-Solving",3.37,MBA,0,generate_resume83.txt
+129,"Statistical Analysis, Web3.js, Playwright, Keras",Resilience,5.52,B.Tech,0,generate_resume84.txt
+130,Smart Contracts,"Empathy, Giving Feedback",8.59,PhD,0,generate_resume85.txt
+131,"React, Computer Vision","Constructive Feedback, Dependability, Self-Awareness",3.52,B.E.,0,generate_resume86.txt
+132,"LangChain, GraphQL, MLOps, Hadoop, C++, GPT models, OWASP Top 10, CI/CD Pipelines, BERT","Goal Setting, Empathy",7.02,Master's,0,generate_resume87.txt
+133,"Scikit-learn, RabbitMQ, PyTorch, Cybersecurity, Unity","Time Management, Critical Thinking, Collaboration",7.2,Master's,0,generate_resume88.txt
+134,"MongoDB, Time Series Analysis, Ethical Hacking, Scrum, Cybersecurity, React",Leadership,2.06,M.Tech,0,generate_resume89.txt
+135,"Integration Testing, Prometheus, Software Testing, OWASP Top 10, Metasploit, Data Wrangling, Streamlit, Statistical Analysis, CI/CD Pipelines",Teamwork,3.68,B.S.,0,generate_resume90.txt
+136,"Feature Engineering, React, Ansible, Elasticsearch, Unit Testing, xai, Networking","Critical Thinking, Work Ethic",4.39,PhD,0,generate_resume91.txt
+137,"Bash Scripting, REST APIs, Blockchain","Problem-Solving, Responsibility, Creativity",4.86,B.E.,0,generate_resume92.txt
+138,"Agile Methodologies, Flask, Scrum","Growth Mindset, Flexibility, Negotiation",2.11,MBA,0,generate_resume93.txt
+139,"Mathematics, Flask, Deep Learning, Algorithms & Data Structures, MongoDB, Apache Spark, Feature Engineering, Data Engineering","Growth Mindset, Public Speaking, Work Ethic, Adaptability, Active Listening",7.14,PhD,0,generate_resume94.txt
+140,"tdd, Java, OWASP Top 10, databases, Elasticsearch, Jupyter Notebooks","Organization, Constructive Feedback, Resilience",8.61,M.Tech,0,generate_resume95.txt
+141,"Unity, PostgreSQL, Solidity, Django, Jupyter Notebooks, Deep Learning, Azure, Git, Blockchain","Time Management, Respectfulness, Decision Making",2.73,B.Sc,0,generate_resume96.txt
+142,"Functional Programming, NLTK, TensorFlow","Decision Making, Self-Awareness, Accountability, Constructive Feedback",3.68,Bachelor's,0,generate_resume97.txt
+143,"Google Colab, databases, SQL, DevOps, HTML5, BERT, Scrum, Ethereum","Creativity, Accountability",6.31,B.Sc,0,generate_resume98.txt
+144,"Grafana, Data Wrangling, Agile Methodologies, Solidity, RabbitMQ, Redis, tdd","Persuasion, Multitasking, Leadership, Networking, Work Ethic",2.85,PhD,0,generate_resume99.txt
+145,"Python, SQLite, Streamlit, GPT models, VS Code, Git, Prometheus, Linux, T5","Conflict Resolution, Constructive Feedback",5.14,MBA,0,generate_resume100.txt
+146,"Cybersecurity, tdd, Agile Methodologies, T5, Pygame, SQL, Apache Kafka, Bash Scripting",Conflict Resolution,5.41,B.E.,0,generate_resume101.txt
+147,"Keras, CSS3, Smart Contracts, T5, NLTK, OWASP Top 10","Teamwork, Decision Making, Critical Thinking, Cultural Awareness, Positive Attitude",4.16,Master's,0,generate_resume102.txt
+148,"Python, Unity, Docker, Networking, Bash Scripting, trasformers, BERT","Learning Agility, Patience, Critical Thinking, Open-Mindedness, Collaboration",5.35,M.S.,0,generate_resume103.txt
+149,Penetration Testing,"Learning Agility, Collaboration, Communication, Creativity, Adaptability",2.41,Master's,0,generate_resume104.txt
+150,"LangChain, oop, nlp, Penetration Testing",Resourcefulness,5.42,B.S.,0,generate_resume105.txt
+151,"OpenCV, Blockchain, Computer Vision, HTML5, Elasticsearch, Flask","Active Listening, Resourcefulness, Flexibility, Work Ethic, Networking",9.99,Master's,0,generate_resume106.txt
+152,"RabbitMQ, VS Code, TensorFlow",Multitasking,3.95,M.Tech,0,generate_resume107.txt
+153,"Flask, Selenium, Kibana","Time Management, Conflict Resolution, Patience, Flexibility, Self-Awareness",8.92,M.S.,0,generate_resume108.txt
+154,"Keras, BERT, Cybersecurity, Java, Model Deployment",Stress Management,6.94,Bachelor's,0,generate_resume109.txt
+155,"PostgreSQL, GraphQL, Docker, GPT models, CSS3, React, Unity, BERT, Redis","Resourcefulness, Interpersonal Skills",4.93,M.S.,0,generate_resume110.txt
+156,"BERT, Mathematics, Big Data, NLTK, Django, CSS3, Linux",Positive Attitude,7.15,Master's,0,generate_resume111.txt
+157,"Scrum, Smart Contracts, Networking, Bash Scripting, Data Wrangling, CI/CD Pipelines, Functional Programming, Penetration Testing, Ethical Hacking, Hadoop","Adaptability, Creativity, Adaptability to Change, Resilience, Open-Mindedness",4.63,M.Tech,0,generate_resume112.txt
+158,"Agile Methodologies, Unit Testing, Metasploit, CI/CD Pipelines, Algorithms & Data Structures","Listening to Feedback, Adaptability, Confidence, Time Management",4.96,M.Tech,0,generate_resume113.txt
+159,"Streamlit, Kibana, Grafana","Cultural Awareness, Resourcefulness",10.0,B.E.,0,generate_resume114.txt
+160,"Java, Algorithms & Data Structures, VS Code, RabbitMQ, Azure, Bash Scripting, LangChain, nlp, Elasticsearch, MySQL","Patience, Self-Motivation, Resourcefulness",9.15,MBA,0,generate_resume115.txt
+161,"Hadoop, RabbitMQ, Scikit-learn, Smart Contracts, Java, Prometheus, Elasticsearch, Networking, Blockchain","Resourcefulness, Growth Mindset",3.66,Master's,0,generate_resume116.txt
+162,"Machine Learning, Solidity, nlp, Blockchain, Mathematics","Goal Setting, Flexibility, Professionalism",4.83,PhD,0,generate_resume117.txt
+163,"Git, CSS3, Redis, React, IntelliJ IDEA, RabbitMQ, Ansible","Networking, Decision Making, Accountability, Professionalism, Collaboration",6.87,B.S.,0,generate_resume118.txt
+164,"Hadoop, Streamlit, Apache Kafka, Pandas, Ansible, Computer Vision, CSS3, IntelliJ IDEA, MySQL, Java","Constructive Feedback, Teamwork, Persuasion, Resilience",3.6,M.S.,0,generate_resume119.txt
+165,"JavaScript, trasformers, Ethical Hacking, Machine Learning, Terraform","Attention to Detail, Resilience, Open-Mindedness, Giving Feedback",6.18,Bachelor's,0,generate_resume120.txt
+166,"MLOps, Unit Testing, Algorithms & Data Structures, Ethereum","Resilience, Listening to Feedback, Public Speaking, Problem-Solving, Self-Motivation",4.68,M.S.,0,generate_resume121.txt
+167,"SQL, Functional Programming, Django, Scikit-learn, MongoDB, Smart Contracts, Networking, Solidity, Ansible","Active Listening, Stress Management, Confidence, Empathy",7.92,B.Sc,0,generate_resume122.txt
+168,"Apache Spark, Computer Vision, Data Engineering","Self-Motivation, Confidence, Flexibility, Leadership, Critical Thinking",2.49,M.Tech,0,generate_resume123.txt
+169,"Java, Burp Suite, Gradio, Docker","Stress Management, Patience",2.21,PhD,0,generate_resume124.txt
+170,"Deep Learning, trasformers, Integration Testing","Leadership, Constructive Feedback, Networking, Conflict Resolution, Collaboration",2.6,B.S.,0,generate_resume125.txt
+171,"Git, Grafana, Machine Learning, Coding Interview Preparation, trasformers, Solidity, PyTorch, Networking, GPT models","Decision Making, Communication, Teamwork",7.36,M.Tech,0,generate_resume126.txt
+172,"Google Colab, Linux, Pandas, Big Data, Networking, Ethical Hacking, Data Visualization, Streamlit, Keras","Persuasion, Creativity",9.81,B.Tech,0,generate_resume127.txt
+173,Big Data,"Listening to Feedback, Decision Making, Team Building, Attention to Detail, Initiative",4.56,Master's,0,generate_resume128.txt
+174,"BERT, Pandas, tdd, NLTK, Unit Testing, Cybersecurity, gcp, Scrum","Growth Mindset, Listening to Feedback, Professionalism, Self-Motivation, Patience",8.06,B.E.,0,generate_resume129.txt
+175,"Unit Testing, gcp, Streamlit, Google Colab","Open-Mindedness, Stress Management, Resourcefulness, Dependability",7.44,B.Tech,0,generate_resume130.txt
+176,"VS Code, Kubernetes, NLTK, AWS",Open-Mindedness,8.46,B.S.,0,generate_resume131.txt
+177,"Apache Spark, Penetration Testing, Time Series Analysis, Functional Programming, OpenCV, AWS, DevOps, Jupyter Notebooks, NLTK","Multitasking, Cultural Awareness, Constructive Feedback",4.14,M.S.,0,generate_resume132.txt
+178,"Keras, Penetration Testing","Professionalism, Cultural Awareness, Networking, Multitasking",5.3,B.Sc,0,generate_resume133.txt
+179,"Apache Kafka, Big Data",Active Listening,4.4,B.S.,0,generate_resume134.txt
+180,"OWASP Top 10, Ansible, Ethical Hacking, PyTorch, Python, Linux, SQLite, REST APIs, Cybersecurity, DevOps","Organization, Initiative",5.77,B.E.,0,generate_resume135.txt
+181,"React, Coding Interview Preparation, Smart Contracts, MySQL, C++, PyTorch, Jupyter Notebooks, Streamlit, Selenium","Resourcefulness, Work Ethic, Dependability, Negotiation",5.01,M.Tech,0,generate_resume136.txt
+182,"nlp, MongoDB, Agile Methodologies, Mathematics, Pandas, trasformers, Ethical Hacking, Algorithms & Data Structures, Data Visualization, gcp","Organization, Professionalism, Team Building, Adaptability to Change, Attention to Detail",3.3,B.Tech,0,generate_resume137.txt
+183,"Selenium, Networking, Linux, Google Colab, Solidity","Problem-Solving, Persuasion, Empathy, Interpersonal Skills, Work Ethic",2.92,M.Tech,0,generate_resume138.txt
+184,"Big Data, Cloud Computing, CI/CD Pipelines, Apache Spark, Coding Interview Preparation, MySQL, Google Colab, Apache Kafka, HTML5, MongoDB",Respectfulness,8.78,B.E.,0,generate_resume139.txt
+185,"TensorFlow, GPT models, Grafana, tdd, T5, Git, Logstash, Redis, Azure","Stress Management, Initiative, Interpersonal Skills",8.73,B.Sc,0,generate_resume140.txt
+186,"Unity, PostgreSQL, AWS, tdd, IntelliJ IDEA, T5, nlp",Confidence,3.57,PhD,0,generate_resume141.txt
+187,Apache Kafka,Creativity,9.18,B.S.,0,generate_resume142.txt
+188,"Google Colab, GraphQL, Reinforcement Learning","Learning Agility, Time Management",3.0,MBA,0,generate_resume143.txt
+189,"SQL, Bash Scripting","Negotiation, Conflict Resolution, Self-Motivation, Giving Feedback",3.8,M.Tech,0,generate_resume144.txt
+190,"Data Visualization, Pandas, Web3.js, Penetration Testing, Java, nlp, Burp Suite","Resilience, Active Listening, Integrity",9.19,MBA,0,generate_resume145.txt
+191,"PostgreSQL, OpenCV, C++, Web3.js",Giving Feedback,7.23,PhD,0,generate_resume146.txt
+192,GPT models,"Growth Mindset, Problem-Solving, Resilience, Interpersonal Skills, Critical Thinking",8.28,Bachelor's,0,generate_resume147.txt
+193,"Kibana, xai, Ethereum","Conflict Resolution, Giving Feedback, Active Listening",8.49,B.Sc,0,generate_resume148.txt
+194,"Terraform, Django","Cultural Awareness, Open-Mindedness, Listening to Feedback, Leadership",4.14,M.S.,0,generate_resume149.txt
+195,"REST APIs, Solidity, Apache Kafka, Cybersecurity, React, PyTorch","Time Management, Positive Attitude, Constructive Feedback",3.61,MBA,0,generate_resume150.txt
+196,"Terraform, oop, TensorFlow, Hadoop, Scikit-learn, Linux, Data Engineering, Algorithms & Data Structures, MySQL, Ansible","Resilience, Giving Feedback",9.75,MBA,0,generate_resume151.txt
+197,"Java, Google Colab, Ethereum, PyTorch, trasformers, T5, IntelliJ IDEA, Bash Scripting, CSS3","Resourcefulness, Public Speaking, Attention to Detail",5.67,M.Tech,0,generate_resume152.txt
+198,"Terraform, MySQL, Ethereum, Data Visualization","Communication, Time Management, Positive Attitude",3.73,M.Tech,0,generate_resume153.txt
+199,"Statistical Analysis, T5, Big Data, SQL, GPT models, REST APIs, Kubernetes","Goal Setting, Resourcefulness, Giving Feedback, Creativity, Listening to Feedback",4.47,B.E.,0,generate_resume154.txt
+200,DevOps,"Multitasking, Respectfulness, Communication, Adaptability, Teamwork",5.17,B.Sc,0,generate_resume155.txt
+201,"Docker, React, Solidity, Logstash, Apache Kafka, Scrum","Resourcefulness, Giving Feedback",3.95,MBA,0,generate_resume156.txt
+202,"Blockchain, Prometheus, SQLite, REST APIs, Time Series Analysis, Kubernetes",Integrity,7.01,M.Tech,0,generate_resume157.txt
+203,"Scikit-learn, Machine Learning, Burp Suite, Functional Programming, trasformers, IntelliJ IDEA, TensorFlow, Google Colab, OWASP Top 10",Giving Feedback,7.43,M.Tech,0,generate_resume158.txt
+204,"MySQL, MLOps, React, NLTK","Multitasking, Leadership, Responsibility",4.94,B.S.,0,generate_resume159.txt
+205,"nlp, Metasploit, Data Wrangling, JavaScript, Web3.js, Elasticsearch, Time Series Analysis, Scrum, Git",Confidence,6.46,Bachelor's,0,generate_resume160.txt
+206,"Feature Engineering, Cloud Computing, LangChain","Organization, Resilience, Work Ethic, Problem-Solving, Positive Attitude",9.7,Master's,0,generate_resume161.txt
+207,"REST APIs, tdd, RabbitMQ, Django, Bash Scripting, MySQL, trasformers, Python, Cloud Computing, TensorFlow","Responsibility, Public Speaking, Accountability, Work Ethic, Respectfulness",2.92,M.S.,0,generate_resume162.txt
+208,"Kibana, Data Visualization, Apache Kafka, Gradio, Data Wrangling, REST APIs, Mathematics, Software Testing, JavaScript","Self-Motivation, Positive Attitude, Confidence",9.5,Bachelor's,0,generate_resume163.txt
+209,Scrum,"Goal Setting, Interpersonal Skills, Problem-Solving, Giving Feedback",2.42,PhD,0,generate_resume164.txt
+210,"C++, Metasploit, MLOps, Gradio, OWASP Top 10, Selenium","Listening to Feedback, Goal Setting, Decision Making, Resourcefulness, Positive Attitude",2.28,B.Sc,0,generate_resume165.txt
+211,"Ethereum, OWASP Top 10, Data Engineering, BERT, SQL, gcp, Software Testing","Patience, Emotional Intelligence",9.92,MBA,0,generate_resume166.txt
+212,"Java, Machine Learning, Django, Web3.js, Solidity, Algorithms & Data Structures, Reinforcement Learning, Penetration Testing","Conflict Resolution, Learning Agility",7.78,Bachelor's,0,generate_resume167.txt
+213,"React, Ethereum","Listening to Feedback, Teamwork, Stress Management, Adaptability, Creativity",2.85,PhD,0,generate_resume168.txt
+214,"Data Visualization, Computer Vision, Terraform, Big Data, databases, C++, NLTK, Pandas, Kibana, React",Organization,7.41,M.Tech,0,generate_resume169.txt
+215,"Cybersecurity, SQLite, Statistical Analysis, nlp, Time Series Analysis, Bash Scripting, Smart Contracts, Apache Kafka, Computer Vision, IntelliJ IDEA","Networking, Open-Mindedness",3.74,B.Sc,0,generate_resume170.txt
+216,"Google Colab, Blockchain","Interpersonal Skills, Flexibility, Accountability",6.62,M.Tech,0,generate_resume171.txt
+217,"Machine Learning, Networking, Cybersecurity, gcp, SQLite, oop, Apache Spark, TensorFlow, AWS","Accountability, Self-Motivation, Self-Awareness, Patience, Communication",4.45,B.S.,0,generate_resume172.txt
+218,"Blockchain, MongoDB, Data Wrangling, TensorFlow, DevOps, Deep Learning, Coding Interview Preparation","Self-Motivation, Professionalism",8.06,M.S.,0,generate_resume173.txt
+219,"DevOps, Deep Learning, Software Testing","Networking, Flexibility, Giving Feedback, Self-Motivation, Work Ethic",5.63,B.E.,0,generate_resume174.txt
+220,"Big Data, MLOps, Jupyter Notebooks, Smart Contracts, Hadoop, Time Series Analysis, GraphQL","Attention to Detail, Goal Setting, Conflict Resolution, Empathy",2.71,B.Sc,0,generate_resume175.txt
+221,"SQL, Selenium, IntelliJ IDEA, Pandas","Conflict Resolution, Self-Motivation, Collaboration, Integrity, Emotional Intelligence",2.11,Master's,0,generate_resume176.txt
+222,"Selenium, Kibana, TensorFlow, Ethereum, Django, Solidity, Playwright, Unity","Attention to Detail, Growth Mindset, Flexibility, Critical Thinking, Adaptability",9.45,MBA,0,generate_resume177.txt
+223,"Unit Testing, Data Engineering",Teamwork,6.75,Master's,0,generate_resume178.txt
+224,"MLOps, C++, Networking, Cybersecurity, xai, Cloud Computing, Kibana, Keras",Conflict Resolution,9.63,PhD,0,generate_resume179.txt
+225,"Unit Testing, Terraform, Git, Ethereum, MLOps","Professionalism, Stress Management, Adaptability",7.45,B.E.,0,generate_resume180.txt
+226,"Mathematics, Statistical Analysis, Big Data, Scikit-learn, Kubernetes, OpenCV, Agile Methodologies","Goal Setting, Positive Attitude, Professionalism, Creativity",6.92,Master's,0,generate_resume181.txt
+227,"Feature Engineering, Apache Spark, Streamlit, Data Engineering, Docker, Model Deployment, Keras, Gradio, GraphQL","Learning Agility, Networking",5.27,MBA,0,generate_resume182.txt
+228,"Scrum, Pygame, Machine Learning, Docker, databases, Mathematics, SQL","Work Ethic, Cultural Awareness",5.83,B.Sc,0,generate_resume183.txt
+229,"Java, Pygame, nlp, Cloud Computing, Ansible, Django","Dependability, Accountability",3.45,B.Tech,0,generate_resume184.txt
+230,"oop, Ethical Hacking","Team Building, Collaboration",3.44,Master's,0,generate_resume185.txt
+231,"databases, GPT models, tdd","Initiative, Conflict Resolution, Learning Agility, Patience, Work Ethic",4.49,B.E.,0,generate_resume186.txt
+232,"Computer Vision, CI/CD Pipelines, Apache Spark, oop, REST APIs, HTML5",Growth Mindset,9.44,B.S.,0,generate_resume187.txt
+233,"DevOps, Kubernetes, Git, Ethereum, AWS","Negotiation, Self-Motivation, Decision Making, Adaptability",5.42,M.S.,0,generate_resume188.txt
+234,Hadoop,"Problem-Solving, Goal Setting, Creativity, Adaptability, Public Speaking",8.67,MBA,0,generate_resume189.txt
+235,"React, trasformers","Responsibility, Attention to Detail, Leadership",6.36,MBA,0,generate_resume190.txt
+236,"OWASP Top 10, Functional Programming, SQLite, Kibana, Elasticsearch, PyTorch, Software Testing","Work Ethic, Networking, Time Management, Organization, Accountability",5.97,B.Tech,0,generate_resume191.txt
+237,"MongoDB, nlp, CI/CD Pipelines, Integration Testing","Flexibility, Organization, Patience",9.35,B.E.,0,generate_resume192.txt
+238,"MLOps, DevOps","Networking, Growth Mindset, Open-Mindedness, Time Management, Team Building",5.05,M.Tech,0,generate_resume193.txt
+239,"Software Testing, Reinforcement Learning, IntelliJ IDEA, SQL, Java, JavaScript, Terraform, Cybersecurity","Team Building, Positive Attitude, Goal Setting",3.69,B.E.,0,generate_resume194.txt
+240,"Unity, Elasticsearch, Python, SQLite, databases, Solidity","Leadership, Critical Thinking, Self-Awareness",5.81,Bachelor's,0,generate_resume195.txt
+241,"Web3.js, Scrum, OpenCV, Docker, Time Series Analysis, Cybersecurity","Negotiation, Growth Mindset, Resourcefulness",8.77,M.Tech,0,generate_resume196.txt
+242,"Scikit-learn, xai, Web3.js, MongoDB","Goal Setting, Initiative",6.34,B.Sc,0,generate_resume197.txt
+243,"Redis, RabbitMQ, Ansible, Data Wrangling, OpenCV, Ethereum","Negotiation, Responsibility, Cultural Awareness, Integrity",4.39,B.Sc,0,generate_resume198.txt
+244,"Docker, IntelliJ IDEA, gcp, T5, Prometheus, Pandas, JavaScript","Responsibility, Negotiation, Patience",9.22,M.Tech,0,generate_resume199.txt
+245,"Pygame, Scrum, Unit Testing, Algorithms & Data Structures, Functional Programming","Time Management, Negotiation",7.35,Master's,0,generate_resume200.txt
+246,"Kubernetes, Agile Methodologies, Time Series Analysis, Big Data, Django, Unity","Presentation Skills, Collaboration",4.56,MBA,0,generate_resume201.txt
+247,"Model Deployment, DevOps, Mathematics, HTML5, PostgreSQL, Computer Vision, Gradio, Linux, Smart Contracts, Unit Testing","Presentation Skills, Public Speaking",4.64,Master's,0,generate_resume202.txt
+248,"Bash Scripting, GPT models","Accountability, Multitasking, Teamwork, Communication",5.98,B.Tech,0,generate_resume203.txt
+249,"MySQL, Grafana, Ansible","Growth Mindset, Public Speaking",5.92,MBA,0,generate_resume204.txt
+250,"OpenCV, Bash Scripting, Networking, Machine Learning","Self-Awareness, Creativity, Goal Setting",4.64,B.Tech,0,generate_resume205.txt
+251,"Java, oop, Apache Spark, Unity, Python, IntelliJ IDEA, Ethereum","Active Listening, Cultural Awareness, Presentation Skills, Adaptability, Stress Management",8.53,PhD,0,generate_resume206.txt
+252,"Penetration Testing, Kubernetes","Respectfulness, Resourcefulness, Multitasking, Conflict Resolution",3.38,Bachelor's,0,generate_resume207.txt
+253,"Coding Interview Preparation, Web3.js, Redis, DevOps, CI/CD Pipelines, Apache Spark","Time Management, Work Ethic",2.39,B.Sc,0,generate_resume208.txt
+254,"Data Wrangling, Penetration Testing, Data Visualization","Resourcefulness, Cultural Awareness, Growth Mindset, Empathy",3.13,B.Tech,0,generate_resume209.txt
+255,"Time Series Analysis, NLTK, databases",Creativity,8.36,Bachelor's,0,generate_resume210.txt
+256,"Machine Learning, gcp, Agile Methodologies",Flexibility,9.05,B.Tech,0,generate_resume211.txt
+257,"PostgreSQL, tdd, Pygame, HTML5, RabbitMQ, PyTorch, Scikit-learn, Redis","Empathy, Negotiation",9.43,Master's,0,generate_resume212.txt
+258,"Hadoop, Kubernetes, REST APIs, Python","Presentation Skills, Emotional Intelligence, Attention to Detail, Resourcefulness, Collaboration",9.94,PhD,0,generate_resume213.txt
+259,"Coding Interview Preparation, Git, Mathematics, Docker, Google Colab","Professionalism, Active Listening, Creativity",9.98,Bachelor's,0,generate_resume214.txt
+260,"GPT models, LangChain",Dependability,6.81,Master's,0,generate_resume215.txt
+261,"Cybersecurity, IntelliJ IDEA, Mathematics, Django, Agile Methodologies, Data Engineering, MySQL, Docker, Solidity","Open-Mindedness, Integrity, Leadership",6.31,MBA,0,generate_resume216.txt
+262,"Elasticsearch, Deep Learning, Python, Data Wrangling, trasformers, GPT models, Burp Suite, Pygame, Streamlit","Adaptability to Change, Time Management, Attention to Detail",6.71,PhD,0,generate_resume217.txt
+263,"Algorithms & Data Structures, Data Wrangling, Grafana, Machine Learning, Linux, Solidity, Python","Interpersonal Skills, Negotiation, Integrity",4.22,M.S.,0,generate_resume218.txt
+264,"Software Testing, JavaScript, Ansible, Apache Spark, React","Active Listening, Accountability",8.52,MBA,0,generate_resume219.txt
+265,"Flask, Keras, GraphQL, MySQL, Networking, Docker, Model Deployment, Feature Engineering, Bash Scripting","Adaptability to Change, Integrity, Active Listening, Patience, Work Ethic",6.51,M.S.,0,generate_resume220.txt
+266,"xai, T5, Ansible, LangChain, Model Deployment","Growth Mindset, Interpersonal Skills, Adaptability",4.95,B.Tech,0,generate_resume221.txt
+267,Hadoop,"Stress Management, Responsibility, Positive Attitude",4.88,PhD,0,generate_resume222.txt
+268,"Streamlit, Statistical Analysis","Learning Agility, Organization, Adaptability, Dependability",6.42,B.E.,0,generate_resume223.txt
+269,"Blockchain, tdd, Streamlit, Unity, Elasticsearch, Google Colab, Web3.js, HTML5, GraphQL, Kubernetes","Growth Mindset, Dependability, Networking",5.36,PhD,0,generate_resume224.txt
+270,"Coding Interview Preparation, SQL, Feature Engineering, Jupyter Notebooks, Docker, Machine Learning, Smart Contracts","Persuasion, Critical Thinking, Multitasking, Initiative",2.74,PhD,0,generate_resume225.txt
+271,"Data Engineering, JavaScript, Jupyter Notebooks, Redis, Docker, tdd, NLTK, Hadoop, gcp, Coding Interview Preparation",Emotional Intelligence,4.36,Master's,0,generate_resume226.txt
+272,"Pandas, Machine Learning, Playwright, Java, Unit Testing","Attention to Detail, Growth Mindset",8.69,PhD,0,generate_resume227.txt
+273,Git,"Multitasking, Self-Awareness, Emotional Intelligence, Empathy, Positive Attitude",4.52,Master's,0,generate_resume228.txt
+274,"Elasticsearch, Algorithms & Data Structures, oop","Interpersonal Skills, Problem-Solving, Teamwork",4.48,MBA,0,generate_resume229.txt
+275,"Kibana, SQL, Metasploit, OWASP Top 10, Grafana, React","Growth Mindset, Accountability, Giving Feedback, Work Ethic, Multitasking",9.49,Master's,0,generate_resume230.txt
+276,"Terraform, Azure, MySQL, Data Visualization, Kibana, T5, C++, Playwright, Elasticsearch, Blockchain","Giving Feedback, Confidence, Emotional Intelligence, Respectfulness",8.0,M.S.,0,generate_resume231.txt
+277,"Blockchain, GraphQL, Statistical Analysis, T5, Kubernetes, Data Visualization, Computer Vision, AWS","Organization, Creativity, Collaboration, Interpersonal Skills",6.32,MBA,0,generate_resume232.txt
+278,"Agile Methodologies, Metasploit, Data Wrangling, Apache Spark, NLTK",Persuasion,3.91,PhD,0,generate_resume233.txt
+279,"xai, OpenCV, Scrum, Deep Learning, Logstash, RabbitMQ, Jupyter Notebooks, trasformers, Terraform",Goal Setting,4.84,Bachelor's,0,generate_resume234.txt
+280,"Bash Scripting, Logstash, HTML5, DevOps, xai, Web3.js, TensorFlow, C++","Accountability, Resourcefulness, Attention to Detail, Cultural Awareness, Self-Motivation",2.79,Bachelor's,0,generate_resume235.txt
+281,"Hadoop, Penetration Testing, Linux, trasformers, nlp, Pandas, Ethereum, Algorithms & Data Structures, Time Series Analysis",Communication,4.45,M.Tech,0,generate_resume236.txt
+282,"trasformers, Gradio","Cultural Awareness, Creativity, Conflict Resolution, Professionalism, Collaboration",7.9,M.Tech,0,generate_resume237.txt
+283,"Terraform, Agile Methodologies, GraphQL, NLTK, Big Data","Creativity, Communication",5.2,Bachelor's,0,generate_resume238.txt
+284,"Python, Blockchain, GPT models, LangChain, TensorFlow, Big Data, SQLite, Data Visualization, Pygame","Accountability, Listening to Feedback, Organization, Adaptability to Change, Responsibility",5.34,B.E.,0,generate_resume239.txt
+285,"Keras, Integration Testing, Pygame, REST APIs, OWASP Top 10, NLTK, Google Colab, Data Engineering, HTML5, SQL","Flexibility, Adaptability to Change, Adaptability, Positive Attitude",2.3,B.Sc,0,generate_resume240.txt
+286,"Functional Programming, Integration Testing, LangChain, Penetration Testing, VS Code, Cybersecurity, Model Deployment","Critical Thinking, Communication, Dependability, Growth Mindset",2.44,PhD,0,generate_resume241.txt
+287,"Azure, Ethereum","Growth Mindset, Emotional Intelligence",5.84,B.E.,0,generate_resume242.txt
+288,Gradio,"Emotional Intelligence, Collaboration, Conflict Resolution, Teamwork",4.4,PhD,0,generate_resume243.txt
+289,"Machine Learning, Flask","Confidence, Growth Mindset",6.53,B.S.,0,generate_resume244.txt
+290,"trasformers, Reinforcement Learning, SQLite, Blockchain, xai, Software Testing","Presentation Skills, Organization, Adaptability, Leadership, Attention to Detail",7.36,MBA,0,generate_resume245.txt
+291,"HTML5, nlp, Computer Vision, Pygame, GPT models, Solidity, Deep Learning","Listening to Feedback, Resourcefulness, Cultural Awareness, Interpersonal Skills",4.62,PhD,0,generate_resume246.txt
+292,Pandas,"Patience, Stress Management, Conflict Resolution, Constructive Feedback, Integrity",2.42,MBA,0,generate_resume247.txt
+293,Google Colab,"Work Ethic, Critical Thinking, Active Listening",8.02,M.S.,0,generate_resume248.txt
+294,"databases, Cloud Computing, Feature Engineering, Playwright, VS Code, Kibana, REST APIs","Responsibility, Accountability, Dependability, Decision Making, Interpersonal Skills",4.46,B.Tech,0,generate_resume249.txt
+295,"Cloud Computing, Unit Testing, React, GPT models, SQLite","Leadership, Patience, Collaboration, Communication, Accountability",9.59,B.E.,0,generate_resume250.txt
+296,"Git, Prometheus","Professionalism, Persuasion, Collaboration, Responsibility",6.33,M.Tech,0,generate_resume251.txt
+297,"trasformers, Ethereum, GraphQL, Azure, Integration Testing, PyTorch, MLOps","Patience, Initiative, Responsibility, Dependability",5.9,MBA,0,generate_resume252.txt
+298,"Scikit-learn, Machine Learning, C++, Functional Programming, GPT models, Prometheus, Gradio, trasformers, Blockchain, Git","Patience, Conflict Resolution, Open-Mindedness",9.38,B.Tech,0,generate_resume253.txt
+299,"Flask, Logstash","Learning Agility, Confidence, Conflict Resolution, Resourcefulness",6.49,M.S.,0,generate_resume254.txt
+300,"Blockchain, gcp, MySQL, Python, Statistical Analysis, Google Colab, PostgreSQL, IntelliJ IDEA, Cybersecurity","Accountability, Adaptability, Learning Agility, Work Ethic, Persuasion",5.45,B.E.,0,generate_resume255.txt
+301,"xai, VS Code, Time Series Analysis, Scikit-learn, TensorFlow, Cybersecurity","Cultural Awareness, Self-Motivation",5.03,M.Tech,0,generate_resume256.txt
+302,"Logstash, DevOps, xai, Deep Learning, Web3.js, REST APIs, Elasticsearch, Data Engineering, Algorithms & Data Structures",Positive Attitude,3.6,B.S.,0,generate_resume257.txt
+303,"MySQL, Web3.js, LangChain, OpenCV, Keras, Grafana","Flexibility, Growth Mindset, Initiative",5.9,PhD,0,generate_resume258.txt
+304,"PyTorch, OWASP Top 10, Model Deployment, Terraform, Prometheus, Bash Scripting","Cultural Awareness, Active Listening",5.56,B.S.,0,generate_resume259.txt
+305,Jupyter Notebooks,"Stress Management, Cultural Awareness, Time Management, Attention to Detail",4.85,B.S.,0,generate_resume260.txt
+306,"REST APIs, React, Elasticsearch, Metasploit, trasformers, MongoDB","Conflict Resolution, Persuasion, Organization",2.19,MBA,0,generate_resume261.txt
+307,"Java, Smart Contracts, Metasploit, Cybersecurity, Web3.js, PyTorch, Git, Coding Interview Preparation, Penetration Testing, GPT models","Integrity, Learning Agility",4.62,MBA,0,generate_resume262.txt
+308,"Pandas, Reinforcement Learning, GPT models, Cloud Computing, DevOps, Google Colab","Accountability, Confidence, Listening to Feedback, Adaptability",3.06,B.S.,0,generate_resume263.txt
+309,"SQLite, tdd, Playwright, Scrum, Burp Suite, Big Data, Ethical Hacking, Networking, Metasploit","Initiative, Integrity",7.08,Bachelor's,0,generate_resume264.txt
+310,"Coding Interview Preparation, C++, GPT models, TensorFlow, Smart Contracts, Pandas","Self-Motivation, Respectfulness, Interpersonal Skills, Leadership, Adaptability to Change",4.07,B.E.,0,generate_resume265.txt
+311,"Web3.js, Gradio, LangChain, Git, Azure, Data Wrangling, trasformers, Deep Learning, Pygame, T5","Positive Attitude, Time Management, Public Speaking, Cultural Awareness, Collaboration",8.95,M.Tech,0,generate_resume266.txt
+312,"IntelliJ IDEA, PyTorch, Burp Suite, Gradio, Kubernetes, Solidity, Data Wrangling, Big Data","Stress Management, Responsibility, Public Speaking",8.06,Bachelor's,0,generate_resume267.txt
+313,"C++, Selenium","Active Listening, Problem-Solving, Stress Management, Growth Mindset",8.28,M.S.,0,generate_resume268.txt
+314,"Model Deployment, Linux","Flexibility, Leadership, Active Listening, Work Ethic, Self-Awareness",5.96,B.E.,0,generate_resume269.txt
+315,"C++, MySQL, TensorFlow, OWASP Top 10, Kibana, Computer Vision","Cultural Awareness, Active Listening",6.86,B.E.,0,generate_resume270.txt
+316,"Feature Engineering, Burp Suite, Blockchain, Functional Programming, Algorithms & Data Structures, Prometheus, MySQL",Teamwork,8.54,Bachelor's,0,generate_resume271.txt
+317,"VS Code, NLTK, Redis, databases, Burp Suite, Computer Vision, gcp, Kibana",Teamwork,4.31,M.Tech,0,generate_resume272.txt
+318,"Metasploit, HTML5, Mathematics, RabbitMQ, Data Wrangling, JavaScript","Adaptability, Teamwork, Self-Motivation, Empathy",7.35,M.S.,0,generate_resume273.txt
+319,"xai, Jupyter Notebooks, gcp, Algorithms & Data Structures, Python, NLTK, tdd, Hadoop","Resourcefulness, Confidence, Conflict Resolution",8.32,Bachelor's,0,generate_resume274.txt
+320,"Feature Engineering, C++, xai, Prometheus, Apache Kafka, Unit Testing, Keras","Conflict Resolution, Attention to Detail, Persuasion, Goal Setting",3.98,Bachelor's,0,generate_resume275.txt
+321,"Scrum, Flask, Terraform, Machine Learning, Agile Methodologies, Playwright, Pandas","Presentation Skills, Resourcefulness, Active Listening, Attention to Detail",7.26,M.Tech,0,generate_resume276.txt
+322,"Networking, Pygame, Django, Azure","Stress Management, Open-Mindedness, Emotional Intelligence, Multitasking",9.82,PhD,0,generate_resume277.txt
+323,"Redis, nlp",Learning Agility,7.78,B.Tech,0,generate_resume278.txt
+324,tdd,Emotional Intelligence,5.12,B.Sc,0,generate_resume279.txt
+325,"trasformers, Keras","Constructive Feedback, Adaptability to Change, Presentation Skills, Integrity",3.35,B.E.,0,generate_resume280.txt
+326,"GPT models, Burp Suite","Problem-Solving, Constructive Feedback, Networking, Multitasking",2.3,M.S.,0,generate_resume281.txt
+327,"databases, Solidity, SQLite, OpenCV, Hadoop, Keras, Pygame, Docker, VS Code, Cybersecurity","Integrity, Public Speaking",5.0,Bachelor's,0,generate_resume282.txt
+328,"Python, Networking, IntelliJ IDEA, Agile Methodologies, Deep Learning","Integrity, Confidence, Adaptability",8.41,M.S.,0,generate_resume283.txt
+329,"Metasploit, IntelliJ IDEA, Logstash, Unity, Playwright, Python","Giving Feedback, Work Ethic, Presentation Skills",5.06,M.Tech,0,generate_resume284.txt
+330,Software Testing,"Patience, Growth Mindset, Presentation Skills, Stress Management",9.36,B.S.,0,generate_resume285.txt
+331,"Software Testing, Playwright, NLTK, Mathematics, Web3.js, oop, Solidity, nlp, Redis","Negotiation, Presentation Skills, Stress Management, Integrity, Responsibility",2.87,B.Sc,0,generate_resume286.txt
+332,"Ethereum, MLOps, CI/CD Pipelines, Python, Data Wrangling","Integrity, Self-Motivation, Constructive Feedback, Growth Mindset, Presentation Skills",9.91,M.S.,0,generate_resume287.txt
+333,"Data Visualization, PostgreSQL","Dependability, Empathy, Problem-Solving, Giving Feedback",4.89,Master's,0,generate_resume288.txt
+334,"Deep Learning, trasformers, Django, Networking, Solidity, Data Visualization, JavaScript, SQLite, Selenium","Listening to Feedback, Self-Awareness, Leadership",8.94,M.Tech,0,generate_resume289.txt
+335,"Metasploit, nlp, RabbitMQ, Unit Testing, Kubernetes, Git, MongoDB, Solidity","Open-Mindedness, Active Listening",3.58,B.Tech,0,generate_resume290.txt
+336,"xai, Agile Methodologies, Elasticsearch, Algorithms & Data Structures, C++, DevOps, Google Colab, oop","Multitasking, Initiative, Adaptability, Open-Mindedness",8.23,PhD,0,generate_resume291.txt
+337,"Django, Coding Interview Preparation, Data Wrangling, React, Kibana, Jupyter Notebooks, Prometheus, Penetration Testing, Apache Kafka",Open-Mindedness,2.4,M.Tech,0,generate_resume292.txt
+338,"REST APIs, Streamlit, React, Kibana, CSS3","Listening to Feedback, Resourcefulness, Accountability, Networking",4.04,PhD,0,generate_resume293.txt
+339,"HTML5, gcp, VS Code, Linux, Apache Kafka, Big Data, CSS3","Collaboration, Cultural Awareness, Work Ethic, Patience",2.94,PhD,0,generate_resume294.txt
+340,"Statistical Analysis, PostgreSQL, CSS3, Deep Learning, Big Data",Communication,4.99,M.S.,0,generate_resume295.txt
+341,"OpenCV, Gradio, xai, TensorFlow, databases, Agile Methodologies, Streamlit, Statistical Analysis",Multitasking,3.49,B.E.,0,generate_resume296.txt
+342,"Grafana, Ethical Hacking, Solidity, Blockchain","Cultural Awareness, Resourcefulness",3.02,Master's,0,generate_resume297.txt
+343,"MySQL, HTML5, Apache Kafka, Terraform, Penetration Testing","Self-Motivation, Listening to Feedback, Patience, Initiative",8.08,PhD,0,generate_resume298.txt
+344,"Scikit-learn, HTML5, Deep Learning, IntelliJ IDEA, Apache Kafka, databases, Functional Programming","Self-Awareness, Time Management, Cultural Awareness, Multitasking",9.41,M.Tech,0,generate_resume299.txt

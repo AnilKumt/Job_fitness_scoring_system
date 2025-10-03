@@ -1,0 +1,67 @@
+MIGUEL MENDOZA
+Computer Science Teaching Assistant
+CONTACT
+Migmen@email.com
+(123) 456-7890
+San Jose, CA
+LinkedIn
+Github
+EDUCATION
+Bachelor of Science
+Computer Science
+San Jose State University
+September 2017 - May 2021
+San Jose, CA
+SKILLS
+HTML
+CSS
+Javascript
+React.JS
+Redux
+Angular.JS
+Node.js
+MaterialUI
+WebGL
+Bootstrap
+MongoDB
+Python
+Ruby on Rails
+PostgreSQL
+jQuery
+CERTIFICATIONS
+AWS
+WORK EXPERIENCE
+Computer Science Teaching Assistant
+San Jose State University
+January 2018 - current / San Jose, CA
+· Taught basic and upper-level undergraduate computer science and
+cybersecurity courses with class sizes averaging 35 students
+· Conducted 1,000+ hours of scholarship research per departmental
+promotion and tenure guidelines
+· Engaged with industry to maintain 100% fluency in focus and to
+provide opportunities for students to work on industry projects
+· Assessed, assisted, and guided 30+ online adjunct CIS/CS faculty
+under the direction of the department chair
+· Engaged in 1,000+ hours of professional development, following
+departmental guidelines
+PROJECTS
+StudyBuddyPlus
+Creator
+- current
+· Directed user log-ins, ensuring they were presented with a
+dashboard displaying all study sets
+· Supervised users, ensuring they had the ability to view their study
+sets and folders, in addition to creating new folders and study sets
+· Built using Ruby on Rails, PostgreSQL, React.js, Redux, and jQuery
+MolecularLegos
+Creator
+- current
+· Designed full-stack web application that allowed students to build
+molecules through 3-D modeled atoms
+· Created machine-learning database to predict and suggest
+completed molecules based on the number of specific atoms
+selected
+· Used by K-12 and college professors to demonstrate molecular
+construction without the expense and hassle of physical pieces
+· Built using Javascript, WebGL, HTML, CSS, Bootstrap, MaterialUI,
+and MongoDB

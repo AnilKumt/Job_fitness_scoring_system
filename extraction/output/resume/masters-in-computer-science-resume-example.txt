@@ -1,0 +1,75 @@
+EIRA VAUGHN
+High-Performance
+Computing Specialist
+e.vaughn@email.com
+(123) 456-7890
+Alpharetta, GA
+LinkedIn
+EDUCATION
+Master of Science
+Computational Science and
+Engineering
+Georgia Institute of
+Technology
+2016 - 2018
+Atlanta, GA
+Bachelor of Science
+Computer Science and
+Engineering
+Massachusetts Institute of
+Technology
+2012 - 2016
+Cambridge, MA
+SKILLS
+MPI; Slurm; Lustre; CUDA; Vampir
+; Intel Parallel Studio XE; Fortran;
+BLAS; AWS ParallelCluster;
+ParaView
+CERTIFICATIONS
+Certified HPC Professional
+(CHPC) 
+WORK EXPERIENCE
+High-Performance Computing Specialist
+Hewlett Packard Enterprise
+2021 - current
+Alpharetta, GA
+Upgraded storage infrastructure with Lustre, enabling seamless
+data throughput of 1.2 TB/hour for genomic sequencing
+workflows
+Improved application runtime monitoring with Vampir,
+identifying bottlenecks and reducing code execution delays by
+2.3 hours per iteration
+Developed advanced numerical algorithms using Fortran for
+weather modeling, reducing simulation processing time by 13
+hours for daily forecasts
+Integrated Intel Parallel Studio XE’s compilers for C++ and
+Fortran, reducing job completion time by 17% across 152 nodes
+and saving $14.3K per year in upgrades
+Software Developer
+Honeywell
+2018 - 2021
+Atlanta, GA
+Expanded application scalability by optimizing GPU acceleration
+using CUDA, enabling support for 1.2k concurrent users
+Analyzed API performance for distributed systems, enhancing
+inter-node communication with MPI, cutting latency by nine
+milliseconds
+Designed cross-platform simulation tools using Lustre, enabling
+seamless data access for 643+ global users, improving data
+sharing efficiency
+Processed 196TB of simulation data monthly using AWS
+ParallelCluster, saving $44k yearly on cloud infrastructure costs
+IT Support Technician
+IBM
+2016 - 2018
+Atlanta, GA
+Spearheaded the deployment of Slurm across new clusters,
+reducing job scheduling setup time by 12 hours per cluster
+Overhauled GPU resource management using CUDA,
+accelerating rendering times 8X for multimedia applications
+Approved the adoption of BLAS-based libraries in 12 analytical
+tools, improving matrix operation processing times for finance
+and logistics teams
+Monitored visualization tools like ParaView for real-time support
+during client presentations, enhancing presentation reliability by
+96%
