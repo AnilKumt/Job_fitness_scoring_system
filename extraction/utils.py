@@ -46,10 +46,11 @@ def write_to_csv(data, output_file):
             if output_file != 'dataset.csv':
                 writer.writerow(['id', 'skills', 'experience_years', 'education_degree', 'label', 'output_file'])
             else:
-                writer.writerow(['resume_id', 'skills', 'experience_years', 'education_degree', 'label', 'output_file'])
+                writer.writerow(['resume_id', 'skills', 'soft_skills', 'experience_years', 'education_degree', 'label', 'output_file'])
 
         writer.writerow([data['resume_id'],
                         ', '.join(data['skills']),
+                        ', '.join(data['soft_skills']),
                         data['experience'],
                         data['highest_degree'],
                         0,
