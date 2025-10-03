@@ -32,6 +32,11 @@ class IntegratedJobFitnessScorer:
         if os.path.exists(engineer_path):
             self.feature_engineer = joblib.load(engineer_path)
             print(f"Loaded feature engineer from {engineer_path}")
+            # Debug: Check scaler state
+            if hasattr(self.feature_engineer.scaler, 'n_features_in_'):
+                print(f"Scaler was fitted on {self.feature_engineer.scaler.n_features_in_} features")
+            else:
+                print("Scaler not fitted yet")
         else:
             print(f"Warning: Feature engineer not found at {engineer_path}")
             print("Using fresh feature engineer (scaler not fitted)")
@@ -130,13 +135,19 @@ class IntegratedJobFitnessScorer:
             X_final: DataFrame with engineered features
             
         Returns:
-            DataFrame with aligned features
+            DataFrame with aligned features in the exact order as training
         """
         if self.expected_features is None:
             return X_final
         
         # Create a DataFrame with all expected features initialized to 0
-        X_aligned = pd.DataFrame(0, index=X_final.index, columns=self.expected_features)
+        # Use the EXACT column order from training
+        X_aligned = pd.DataFrame(
+            0, 
+            index=X_final.index, 
+            columns=self.expected_features,
+            dtype=float  # Ensure all columns are float type
+        )
         
         # Fill in the values for features that exist
         for col in X_final.columns:

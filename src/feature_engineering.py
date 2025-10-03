@@ -1,5 +1,5 @@
 """
-Feature Engineering Module - FIXED VERSION (No Warnings)
+Feature Engineering Module - FIXED VERSION (No Warnings + Feature Alignment)
 Extracts and engineers features from resume data for ML model
 """
 
@@ -112,24 +112,38 @@ class FeatureEngineer:
 
     def encode_job_role(self, df: pd.DataFrame) -> pd.DataFrame:
         """
-        One-hot encode job roles, always including all possible roles.
+        One-hot encode job roles, ALWAYS including all possible roles.
+        This ensures consistent features during training and inference.
+        
+        Args:
+            df: DataFrame with 'Job Role' column
+            
+        Returns:
+            DataFrame with one-hot encoded job roles (all 4 columns always present)
         """
         df = df.copy()
-        ALL_JOB_ROLES = ['Data Scientist', 'Software Engineer', 'AI Researcher', 'Cybersecurity Analyst']
-        job_role_dummies = pd.get_dummies(df['Job Role'], prefix='role')
-        # Ensure all possible role columns exist
+        
+        # CRITICAL: Define all possible job roles
+        ALL_JOB_ROLES = ['AI Researcher', 'Cybersecurity Analyst', 'Data Scientist', 'Software Engineer']
+        
+        # Create one-hot encoding for existing roles
+        job_role_dummies = pd.get_dummies(df['Job Role'], prefix='role', dtype=int)  # ← ADD dtype=int HERE
+        
+        # CRITICAL: Ensure ALL possible role columns exist, even if not in current data
         for role in ALL_JOB_ROLES:
             col = f'role_{role}'
             if col not in job_role_dummies.columns:
                 job_role_dummies[col] = 0
-        # Ensure column order is always the same
-        job_role_dummies = job_role_dummies[[f'role_{role}' for role in ALL_JOB_ROLES]]
+        
+        # CRITICAL: Ensure column order is ALWAYS the same (alphabetical)
+        role_columns = sorted([f'role_{role}' for role in ALL_JOB_ROLES])
+        job_role_dummies = job_role_dummies[role_columns]
+        
+        # Add to dataframe
         df = pd.concat([df, job_role_dummies], axis=1)
+        
         return df
     
-
-       
-
     def create_interaction_features(self, df: pd.DataFrame) -> pd.DataFrame:
         """
         Create interaction features between different variables
@@ -186,7 +200,7 @@ class FeatureEngineer:
         X = self.encode_education(X)
         print(f"✓ Encoded education levels")
 
-        # Encode job roles
+        # Encode job roles (ALL 4 columns always created)
         X = self.encode_job_role(X)
         print(f"✓ Encoded job roles")
 
@@ -230,12 +244,15 @@ class FeatureEngineer:
             Scaled feature DataFrame
         """
         X = X.copy()
-        numerical_cols = X.select_dtypes(include=[np.number]).columns
-
+        numerical_cols = X.select_dtypes(include=[np.number]).columns.tolist()
+        
         if fit:
+            # Fit and transform during training
             X[numerical_cols] = self.scaler.fit_transform(X[numerical_cols])
         else:
-            X[numerical_cols] = self.scaler.transform(X[numerical_cols])
+            # Transform during inference - use numpy to avoid feature name validation issues
+            X_scaled = self.scaler.transform(X[numerical_cols].values)
+            X[numerical_cols] = X_scaled
 
         return X
 
@@ -245,7 +262,7 @@ if __name__ == "__main__":
     from data_parser import DataParser
 
     # Load data
-    parser = DataParser('data/raw/AI_RESUME_SCREENING_AUGMENTED.csv')
+    parser = DataParser('../data/raw/AI_RESUME_SCREENING_AUGMENTED.csv')
     df = parser.load_data()
     df = parser.clean_data()
     X, y = parser.prepare_for_modeling()
