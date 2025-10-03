@@ -4,7 +4,7 @@ import subprocess
 
 def main():
     if len(sys.argv) < 3:
-        print("Error")
+        print("path, output file")
         return
     
     path = sys.argv[1]

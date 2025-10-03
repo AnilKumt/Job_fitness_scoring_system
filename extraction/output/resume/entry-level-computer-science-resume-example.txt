@@ -1,0 +1,41 @@
+Chandra Finn
+c.finn@email.com
+(123) 456-7890
+Portland, OR
+LinkedIn
+Flexible, autonomous graduate with an MS in Computer Science looking to leverage experience building
+responsive and scalable web apps to solve problems that delight end-users. Motivated to learn from senior
+engineers while sharing innovative ideas in an environment like Odoo that values personal growth.
+WORK EXPERIENCE
+FreshDirect - Full Stack Engineer Intern
+April 2018 - September 2018
+Portland, OR
+· Constructed Angular components for customer-facing web app, improving users' page time by 3 minutes
+· Worked within agile team to prioritize and scope feature requests, placing biggest impacts at top
+· Built extensive test coverage for new features, which reduced customer complaints by 23%
+· Created database schemas, saving company more than $7K in implementation costs
+Marketing Science Associates - Full Stack Engineer Intern
+April 2017 - September 2017
+Pittsburgh PA
+· Implemented RESTful APIs in Django, enabling analytics team to increase reporting speed by 22%
+· Built out a unit testing infrastructure for a client web application using Selenium that reduced the number
+of bugs reported by the client by 14% month over month
+· Updated documentation while working to triage user problems, increasing efficiency by 10%
+· Participated in code reviews, advising against changes that would hinder scalability
+PROJECTS
+Poker Simulation - Creator
+· Built a full-stack web app to allow users to simulate and visualize outcomes of poker hands against
+opponents of different play styles using open source cards.js on the front-end
+· Utilized sci-kit learn in Python to simulate possible outcomes under different scenarios
+Cryptocurrency Price Tracker - Creator
+· Incorporated API calls to several applications, and stored data in PostgreSQL backend
+· Utilized D3.js to allow users to dynamically visualize price movements over time periods
+EDUCATION
+Portland State University - M.S., Computer Science
+2018 - 2020
+Portland, OR
+University of Pittsburgh - B.S., Computer Science
+2014 - 2018
+Pittsburgh, PA
+SKILLS
+JavaScript (Angular); HTML/ CSS; Python (Django); SQL (PostgreSQL, Oracle); REST APIs (GraphQL); Git

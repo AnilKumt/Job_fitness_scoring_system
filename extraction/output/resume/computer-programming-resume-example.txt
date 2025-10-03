@@ -1,0 +1,67 @@
+EVADNE
+BEAUMONT
+Computer Programmer
+e.beaumont@email.com
+(123) 456-7890
+Westlake, TX
+LinkedIn
+EDUCATION
+Bachelor of Science
+Computer Science
+University of Texas
+2011 - 2015
+Austin, TX
+SKILLS
+Python
+LeetCode
+GDB
+GitHub
+HTML
+MySQL
+Lucidchart
+Postman
+OWASP ZAP
+Jira
+WORK EXPERIENCE
+Computer Programmer
+Charles Schwab
+2020 - current
+Westlake, TX
+Utilized Python to automate repetitive tasks, saving 8 hours
+per week and reducing operational costs by $4, 689.
+Led a team of 4 developers in implementing Agile
+methodologies, resulting in an increase in project efficiency
+and on-time delivery.
+Resolved complex software issues using GDB, reducing
+system downtime by 17%.
+Maintained and improved the codebase on GitHub, resulting
+in a 21% reduction in bugs and enhanced code readability.
+Systems Administrator
+Sysco
+2017 - 2020
+Houston, TX
+Administered a Windows and Linux server environment,
+consistently achieving 99.97% uptime.
+Reduced server provisioning time by 12 minutes by
+implementing a standardized build process and automation
+using PowerShell.
+Implemented security best practices, resulting in a 32%
+decrease in security incidents.
+Monitored and maintained network performance, reducing
+latency by 19% and improving user satisfaction.
+Help Desk Technician
+Accenture
+2015 - 2017
+Austin, TX
+Improved first-call resolution rate by 24% through effective
+troubleshooting and remote support, resulting in a decrease
+in user downtime.
+Led the migration project from on-premises email to Office
+365, completing it 2 weeks ahead of schedule, saving the
+company $5.4K in project costs.
+Conducted regular security audits using OWASP ZAP,
+identifying and mitigating 20+ critical vulnerabilities,
+ensuring a 41% increase in system security.
+Used Jira for tracking and managing IT projects, consistently
+meeting project deadlines and reducing project overruns
+by 11%.

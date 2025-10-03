@@ -1,0 +1,77 @@
+JORDAN WOOD
+Computer Repair
+Technician
+j.wood@email.com
+(123) 456-7890
+Euclid, OH
+LinkedIn
+EDUCATION
+Associate of Applied
+Science
+Electronics and Computer
+Technology
+DeVry University
+2014 - 2018
+Columbus, OH
+SKILLS
+iFixit Pro Tech Toolkit
+PassMark MemTest86
+Malwarebytes
+Recuva
+Ultimate Boot CD (UBCD)
+Windows Installation
+USB/DVD
+TeamViewer
+Driver Booster
+Falcon Dust-Off Compressed
+Gas Duster
+Fluke 115 Compact True-RMS
+Digital Multimeter
+WORK EXPERIENCE
+Computer Repair Technician
+YZA Technologies
+2022 - current
+Euclid, OH
+Implemented the iFixit Pro Tech Toolkit for advanced device
+repairs, reducing repair time by an average of 17 minutes
+per device across 238 repairs
+Diagnosed and fixed over 122 hardware issues using the
+Fluke 115 Compact True-RMS Digital Multimeter
+Upgraded over 362 computers to the latest OS using
+Windows Installation USB/DVD, enhancing system stability
+and security for the entire company
+Executed data recovery operations with Recuva on 75+ failed
+hard drives, retrieving important company data valued at
+over $15K
+Computer Technician
+Sherwin-Williams
+2020 - 2022
+Cleveland, OH
+Optimized the performance of company computers using
+Driver Booster, reducing system crashes by 47% across 158
+devices
+Streamlined the use of PassMark MemTest86 for memory
+testing, identifying critical failures in 3.2% of company
+computers, preempting system failures
+Organized a company-wide cleanup of desktop and laptop
+vents using Falcon Dust-Off Compressed Gas Duster,
+resulting in a noticeable decrease in device failures
+Monitored systems using the Ultimate Boot CD to
+troubleshoot and repair boot issues, saving an estimated
+$8,784 in IT support costs
+Help Desk Technician
+OhioHealth
+2018 - 2020
+Columbus, OH
+Expanded the use of TeamViewer to facilitate remote
+support for 1,472 end-users, reducing physical intervention
+by 40% and increasing ticket resolution speed
+Transformed IT operations by writing guidelines for the iFixit
+Pro Tech Toolkit, sharpening the skill set of the tech team of
+six
+Revitalized the entire network's security posture by
+managing the rollout of Malwarebytes, cutting down
+malware-related tickets by 74%
+Introduced a system for regular health checks on IT
+equipment using comprehensive technical evaluations,
+fostering a 36% reduction in unexpected device failures

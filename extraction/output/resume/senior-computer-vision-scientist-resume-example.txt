@@ -1,0 +1,66 @@
+Justine Hendrickson
+Senior Computer Vision Scientist
+Senior Computer Vision Scientist with 10+ years of experience
+working with data and data sets of varying size and complexity. As a
+seasoned Computer Scientist, I am looking to continue my career in a
+senior or director-level position with AbCellera.
+JustH@email.com
+(123) 456-7890
+Vancouver, BC
+LinkedIn
+Twitter
+WORK EXPERIENCE
+AbCellera
+Computer Vision Scientist
+Remote | July 2014 - current
+Developed 13+ monitoring features using computer vision and a
+variety of other machine learning methods
+Designed data collection protocols and annotation guidelines in
+collaboration with 3 data teams
+Investigated tradeoffs between accuracy and computational
+efficiency for edge/embedded environments
+Developed and maintained KPI reports for 6 teams to measure and
+analyze model performance
+Contributed to Smart Eye’s shared machine learning infrastructure,
+including data preparation, and model training
+Microsoft
+IT Data Scientist
+Vancouver, BC | January 2012 - June 2014
+Designed 6 predictive modeling projects to address specific business
+problems determined by consultation with business partners
+Worked with 1,100+ data sets of varying degrees of size and
+complexity, including both structured and unstructured data
+Developed 36+ proprietary algorithms to build customized solutions
+that led to innovative solutions
+Developed 70+ sophisticated visualizations of analysis outputs for
+key business users and stakeholders
+Swiss Re
+Associate Data Scientist
+Toronto, Canada | May 2012 - May 2014
+Developed skills that leveraged data science methodologies to solve
+6 business problems and provide strategic insights
+Designed and developed 34+ algorithms and models to use against
+large datasets to create business insights
+Supported 17+ data science projects by conducting effective analyses
+to solve business problems
+Communicated insights and recommendations to both technical and
+non-technical audiences
+SKILLS
+Snowflake
+Python
+C++
+R
+SQL
+Tableau
+PyTorch
+EDUCATION
+B.S.
+Engineering
+University of British
+Columbia
+September 2009 - May 2013
+Vancouver, BC
+CERTIFICATIONS
+Master Deep Learning
+CNN, SSD, YOLO, GANS
+Computer Vision A-Z
