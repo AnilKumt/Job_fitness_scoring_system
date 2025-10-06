@@ -1,0 +1,71 @@
+BARRETT
+LARAMIE
+Computer Scientist
+Ebar@email.com
+(123) 456-7890
+Greer, SC
+LinkedIn
+Github
+EDUCATION
+B.S.
+Computer Science
+Bob Jones University
+September 2014 - June 2018
+Greenville, SC
+GPA: 3.8
+SKILLS
+Computer System Building
+and Repair
+Hardware and Software
+Installation
+Diagnostic Software Utilities,
+Remote Access, Networking,
+Computer Management
+CNNs
+LSTMs
+PyTorch
+WORK EXPERIENCE
+Computer Scientist
+Collins Aerospace
+December 2020 - current
+Remote
+Managed 100% of system and network procurement,
+installation, administration, and security
+Designed and implemented 4 new custom tools and
+methods to troubleshoot and modify 12 existing tools
+Developed and used computing environments for analysis
+Provided technical assistance in conducting 215+ interviews,
+searches, and other investigative and operational activities
+Drafted 40+ documents on technical and other professional
+matters in varying degrees of difficulty
+Utilized machine learning best practices to drive system
+automation, software quality, and development of 4
+internal research teams
+Machine Learning Scientist
+Aeronix Inc.
+November 2019 - December 2020
+Greenville, SC
+Designed 17+ Deep Learning and Computer Vision
+algorithms to detect objects of interest, issues, and defects
+Developed and implemented 8 Machine Learning models
+and techniques to solve 11 business problems, saving
+$56,000+
+Evaluated the accuracy and quality of 210+ data sources and
+designed models
+Maintained and improved skill proficiency levels within the
+modeling, technology, and industry best practices
+Entry-Level Computer Support Specialist
+Netalytics
+June 2018 - November 2019
+Greer, SC
+Analyzed 410+ computer and network-related problems
+reported by end-users
+Identified, troubleshot, and resolved 360+ hardware,
+software, and network-related problems
+Established a new tracking system to log requests, monitor
+progress, track problem resolutions, and identify 100% of
+failure patterns
+Communicated with 12+ supervisors and managers
+regarding unresolved issues and inefficient tracking
+Maintained inventory of deployed, loaned, recycled, and
+stored IT equipment (over 3,000 units)

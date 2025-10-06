@@ -1,0 +1,60 @@
+HANANI AMIR
+Full Stack Developer
+CONTACT
+hanani.amir@email.com
+(123) 456-7890
+Pittsburgh, PA
+LinkedIn
+Github
+EDUCATION
+B.S.
+Computer Science
+University of Pittsburgh
+September 2017 - May 2021
+Pittsburgh, PA
+GPA: 3.91
+Presidential Scholarship
+Cum Laude Society
+Dean's List (5/8 semesters)
+RELEVANT COURSES
+Data Structures
+Algorithm Design
+Database Management
+Systems
+Computer Vision
+Software Design Methodology
+SKILLS
+Advanced: Java, Unix, Git
+Familiar: Swift, SQL, HTML/CSS
+CAREER OBJECTIVE
+Industrious recent computer science graduate with a zeal for
+innovation. Seeking a position at Sikka Software, where the
+strategic focus on delighting users aligns with my creativity and
+desire to enhance social events through technology.
+PROJECTS
+Party Playlist Votes
+Creator
+· Built a native mobile app for Android and iOS that allows a
+party host to invite party attendees to vote on event music,
+which reduced decision times by 45 minutes on average
+· Started with a mobile app for Android, and then learned
+Swift to port it to iOS
+· Utilized the Spotify API, and built an interactive, real-time
+voting function on top of it
+· Used Swift, Java, SQL, HTML/CSS in creation and
+maintenance, implementing user feedback
+Student Coder Group
+Mentor
+September 2018 - May 2021
+· Mentored 13 incoming computer science freshmen,
+providing guidance on challenging classes and performing
+code review for their first CS projects
+· Collaborated with fourth-year CS students to organize
+networking events for connecting with local developers
+University of Pittsburgh Soccer
+Captain
+September 2017 - May 2021
+· Communicated practices and events to team, working in
+partnership with coaches to streamline team information
+· Led initiative to mentor and coach local youth soccer
+teams in the community for 12 hours each summer month

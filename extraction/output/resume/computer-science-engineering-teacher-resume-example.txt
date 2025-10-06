@@ -1,0 +1,81 @@
+YVONNE
+GEORGIEVA
+Computer Science &
+Engineering Teacher
+y.georgieva@email.com
+(123) 456-7890
+Trenton, NJ
+LinkedIn
+EDUCATION
+Master of Science
+Computer Science
+Princeton International
+School of Mathematics and
+Science
+2013 - 2015
+Princeton, NJ
+Bachelor of Science
+Computer Science
+New York University
+2008 - 2012
+New York, NY
+SKILLS
+HTML
+CSS
+JavaScript (Angular)
+Python
+Git
+Algorithm Design
+Technical Writing
+Data Analysis
+Interpersonal Communication
+Patience
+CERTIFICATIONS
+AWS
+CSM
+CAREER SUMMARY
+Dedicated and well-rounded software engineer with a passion for
+math, computer science, and elite education. Bringing 12+ years of
+teaching expertise to help Amazon's Career Fulfillment students feel
+the same joy and pride in my comprehensive JavaScript computer
+science program as my past 150+ high school students. Eager to
+teach the basics, get students the tools they need, and foster their
+passion to reach their goals.
+WORK EXPERIENCE
+Computer Science Teacher
+Princeton International School of Mathematics and Science
+2017 - current
+Princeton, NJ
+Coordinated meetings with 13 program leadership staff to
+determine new objectives for the computer science program
+Assisted with the development and implementation of 20+ new
+program protocols, procedures, and operating policies
+Lectured and supervised intellectual development of 1,000+
+undergraduate student(s) in 3+ classes
+Created, administered, graded, and returned exams to students
+within 7 days, improving student feedback by 27%
+Software Engineer
+HKA Enterprises
+2014 - 2017
+Remote
+Collaborated with support administrators to resolve 100+
+technical support challenges, increasing efficiency by 31%
+Designed 2 physical and logical databases
+Designed 25+ software tests to find 7+ kinds of errors, reducing
+delays and client complaints by 29%
+Developed and supported 80+ software applications, database
+integrations, and new functionality enhancements
+Supported a small team of 3 junior front-end developers in
+learning company Agile and Scrum best practices
+Junior Software Engineer
+Academy of Mine
+2012 - 2014
+Cherry Hill, NJ
+Designed and implemented solutions using Agile/Scrum
+processes to resolve issues with data products and features,
+reducing client complaints by 32%
+Wrote 1,000+ lines of efficient, maintainable, high-quality code
+Automated 4 deployments using repeatable CICD and security
+standard methodologies
+Collaborated with a team of 14 engineers to resolve client and
+system issues, increasing client satisfaction scores by 12%

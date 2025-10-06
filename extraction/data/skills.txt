@@ -1,16 +1,100 @@
-pygame
-unity
-java
-networking
-nlp
-machine learning
-python
-sql
-ethical hacking
-cybersecurity
-tensorflow
-pytorch
-deep learning
-react
-linux
-c++
+Pygame  
+Unity  
+Java  
+Networking  
+nlp 
+Machine Learning  
+Python  
+SQL  
+Ethical Hacking  
+Cybersecurity  
+TensorFlow  
+PyTorch  
+Deep Learning  
+React  
+Linux  
+C++  
+Pandas  
+NLTK  
+Apache Kafka  
+Git  
+Docker  
+Statistical Analysis  
+Data Visualization  
+Mathematics  
+Data Wrangling  
+Computer Vision  
+Scikit-learn  
+Keras  
+JavaScript  
+HTML5  
+CSS3  
+Flask  
+Django  
+REST APIs  
+GraphQL  
+Bash Scripting  
+Kubernetes  
+DevOps  
+CI/CD Pipelines  
+Cloud Computing  
+AWS  
+Azure  
+gcp
+Blockchain  
+Solidity  
+Web3.js  
+Ethereum  
+Smart Contracts  
+Penetration Testing  
+Metasploit  
+Burp Suite  
+OWASP Top 10  
+Ansible  
+Terraform  
+Prometheus  
+Grafana  
+Elasticsearch  
+Logstash  
+Kibana  
+MongoDB  
+PostgreSQL  
+MySQL  
+SQLite  
+Redis  
+RabbitMQ  
+Apache Spark  
+Hadoop  
+Big Data  
+Data Engineering  
+Feature Engineering  
+Model Deployment  
+MLOps  
+xai
+Time Series Analysis  
+Reinforcement Learning  
+OpenCV  
+trasformers 
+BERT  
+GPT models  
+T5  
+LangChain  
+databases 
+Streamlit  
+Gradio  
+Jupyter Notebooks  
+Google Colab  
+VS Code  
+IntelliJ IDEA  
+Agile Methodologies  
+Scrum  
+Software Testing  
+Unit Testing  
+Integration Testing  
+Selenium  
+Playwright  
+tdd
+Functional Programming  
+oop 
+Algorithms & Data Structures  
+Coding Interview Preparation  

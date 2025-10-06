@@ -1,0 +1,63 @@
+ISAAC WALKER
+Systems Designer
+i.walker@email.com
+(123) 456-7890
+Falls Church, VA
+LinkedIn
+WORK EXPERIENCE
+Systems Designer
+General Dynamics Information Technology
+2023 - current
+Falls Church, VA
+Architected a new cloud-based infrastructure on Oracle
+Cloud, ensuring smoother operations for over 1,088 clients
+Achieved a major milestone in system scaling by leveraging
+Xcode for seamless integration of iOS applications
+Maximized the effectiveness of the CI/CD pipeline by
+integrating GitLab, reducing code deployment times by
+seven hours per week
+Worked with four cross-functional teams to design user-
+centric solutions, increasing user adoption rates by 46%
+Web Developer
+Revalize
+2021 - 2023
+Charlottesville, VA
+Amplified system efficiency using VMware vSphere for
+virtualization, reducing server load by 39%
+Initiated a new feature development cycle using C++ for
+backend systems, reducing server response time by 13
+milliseconds per request
+Monitored server health using Nessus, detecting 127
+vulnerabilities and preventing $56.4K in potential data loss
+Created APIs integrated with MongoDB, enabling real-time
+data updates and slashing page refresh rates by 31%
+IT Support Specialist
+Cvent
+2019 - 2021
+Charlottesville, VA
+Coordinated IT support across multiple locations via Slack,
+bolstering team communication and resolving 98% of
+critical issues in four hours
+Assisted in the setup and configuration of Cvent’s event
+management software for large-scale conferences
+Directed the training of 57 employees on new system
+updates using Lucidchart diagrams
+Orchestrated the resolution of IT support tickets via Jira,
+cutting ticket resolution time from 24 hours to seven hours
+EDUCATION
+Bachelor of Science
+Computer Science
+University of Virginia
+2015 - 2019
+Charlottesville, VA
+SKILLS
+Lucidchart
+C++
+MongoDB
+Oracle Cloud
+Xcode
+GitLab
+VMware vSphere
+Slack
+Jira
+Nessus

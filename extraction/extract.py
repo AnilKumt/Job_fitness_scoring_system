@@ -22,11 +22,16 @@ def main(file_name):
     skills_path = os.path.join(script_dir, 'data', 'skills.txt')
     education_path = os.path.join(script_dir, 'data', 'education.txt')
 
-    # Ensure files exist
-    if not os.path.exists(skills_path):
-        raise FileNotFoundError(f"Skills file not found: {skills_path}")
-    if not os.path.exists(education_path):
-        raise FileNotFoundError(f"Education file not found: {education_path}")
+
+
+    with open('data/soft_skills.txt', 'r') as f:
+        soft_skills = f.readlines()
+    soft_skills = [skill.strip() for skill in soft_skills]
+
+    with open('data/education.txt', 'r') as f:
+        education = f.readlines()
+    education = [edu.strip() for edu in education]
+
 
     # Read skills
     with open(skills_path, 'r', encoding='utf-8', errors='ignore') as f:
@@ -44,6 +49,11 @@ def main(file_name):
         pattern = [{"LOWER": token.lower()} for token in tokens]
         patterns.append({"label": "SKILL", "pattern": pattern})
 
+    for s in soft_skills:
+        tokens = s.split()
+        pattern = [{"LOWER": token.lower()} for token in tokens]
+        patterns.append({"label": "SOFT_SKILL", "pattern": pattern})
+
     for edu in education:
         tokens = edu.split()
         pattern = [{"LOWER": token.lower()} for token in tokens]
@@ -56,14 +66,18 @@ def main(file_name):
 
     # Initialize result dictionary
     d = {
-        'education': [],
-        'skills': [],
-        'experience': 0.0,
-        'highest_degree': None
+
+    'education': [],
+    'skills': [],
+    'experience': 0.0,
+    'highest_degree': None,
+    'soft_skills': []
     }
 
-    skills_set = set()
-    edu_set = set()
+    skills = set()
+    edu = set()
+    soft = set()
+
 
     for ent in doc.ents:
         label = ent.label_.lower()
@@ -71,8 +85,16 @@ def main(file_name):
             edu_set.add(ent.text.lower())
             d['education'].append(ent.text.lower())
         elif label == 'skill':
-            skills_set.add(ent.text.lower())
 
+            skills.add(ent.text.lower())
+        elif label == 'soft_skill':
+            soft.add(ent.text.lower())
+        
+    d['skills'] = sorted(list(skills))
+    d['experience'] = extract_experience(text)
+    # Liberty taken than user keeps his degrees from highest to lowest.
+    d['highest_degree'] = d['education'][0] if d['education'] else None
+    d['soft_skills'] = sorted(list(soft))
     d['skills'] = sorted(list(skills_set))
     d['experience'] = extract_experience(text)  # from utils.py
     d['highest_degree'] = d['education'][0] if d['education'] else None
