@@ -14,7 +14,7 @@ python ./batch_run_resume.py
 ## extract.py
 - Extracts the .txt and saves into given output csv
 ```bash
-python .\extract.py .\output\resume\resume.txt
+python .\extract.py .\output\resume\resume.txt ./dataset.csv
 ```
 ## extract_text_from_pdf.py
 - Extracts the .txt from the given pdf file
