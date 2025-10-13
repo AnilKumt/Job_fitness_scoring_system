@@ -24,11 +24,11 @@ def main(file_name):
 
 
 
-    with open('data/soft_skills.txt', 'r') as f:
+    with open('extraction/data/soft_skills.txt', 'r') as f:
         soft_skills = f.readlines()
     soft_skills = [skill.strip() for skill in soft_skills]
 
-    with open('data/education.txt', 'r') as f:
+    with open('extraction/data/education.txt', 'r') as f:
         education = f.readlines()
     education = [edu.strip() for edu in education]
 
@@ -77,6 +77,7 @@ def main(file_name):
     skills = set()
     edu = set()
     soft = set()
+    edu_set = set()
 
 
     for ent in doc.ents:
@@ -95,7 +96,7 @@ def main(file_name):
     # Liberty taken than user keeps his degrees from highest to lowest.
     d['highest_degree'] = d['education'][0] if d['education'] else None
     d['soft_skills'] = sorted(list(soft))
-    d['skills'] = sorted(list(skills_set))
+    d['skills'] = sorted(list(skills_path))
     d['experience'] = extract_experience(text)  # from utils.py
     d['highest_degree'] = d['education'][0] if d['education'] else None
     d['output_file'] = file_name
