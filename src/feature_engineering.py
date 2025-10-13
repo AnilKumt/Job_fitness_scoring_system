@@ -1,41 +1,25 @@
 """
-Feature Engineering Module - FIXED VERSION (No Warnings + Feature Alignment)
+Feature Engineering Module - FINAL VERSION
 Extracts and engineers features from resume data for ML model
 """
 
 import pandas as pd
 import numpy as np
-from sklearn.preprocessing import LabelEncoder, StandardScaler
-from typing import List, Dict, Tuple
-import re
-
+from sklearn.preprocessing import StandardScaler
 
 class FeatureEngineer:
     def __init__(self):
         """Initialize the Feature Engineer"""
-        self.education_encoder = LabelEncoder()
-        self.role_encoder = LabelEncoder()
         self.scaler = StandardScaler()
-        self.skill_list = None
 
     def extract_skill_features(self, df: pd.DataFrame) -> pd.DataFrame:
-        """
-        Extract skill-based features from the Skills column
-
-        Args:
-            df: DataFrame with 'Skills' column
-
-        Returns:
-            DataFrame with skill features
-        """
+        """Extract skill-based features from the Skills column"""
         df = df.copy()
-
-        # Count number of skills
+        
         df['skill_count'] = df['Skills'].apply(
             lambda x: len([s.strip() for s in str(x).split(',') if s.strip()])
         )
-
-        # Extract specific skill categories
+        
         df['has_python'] = df['Skills'].str.contains('Python', case=False, na=False).astype(int)
         df['has_ml'] = df['Skills'].str.contains('Machine Learning|ML|Deep Learning', case=False, na=False).astype(int)
         df['has_sql'] = df['Skills'].str.contains('SQL|Database', case=False, na=False).astype(int)
@@ -47,26 +31,15 @@ class FeatureEngineer:
         return df
 
     def extract_certification_features(self, df: pd.DataFrame) -> pd.DataFrame:
-        """
-        Extract features from Certifications column
-
-        Args:
-            df: DataFrame with 'Certifications' column
-
-        Returns:
-            DataFrame with certification features
-        """
+        """Extract features from Certifications column"""
         df = df.copy()
-
-        # Has any certification
+        
         df['has_certification'] = (df['Certifications'] != 'None').astype(int)
-
-        # Count certifications
+        
         df['cert_count'] = df['Certifications'].apply(
             lambda x: 0 if x == 'None' else len([c.strip() for c in str(x).split(',') if c.strip()])
         )
-
-        # Specific certification types
+        
         df['has_google_cert'] = df['Certifications'].str.contains('Google', case=False, na=False).astype(int)
         df['has_aws_cert'] = df['Certifications'].str.contains('AWS', case=False, na=False).astype(int)
         df['has_dl_cert'] = df['Certifications'].str.contains('Deep Learning', case=False, na=False).astype(int)
@@ -74,38 +47,16 @@ class FeatureEngineer:
         return df
 
     def encode_education(self, df: pd.DataFrame) -> pd.DataFrame:
-        """
-        Encode education level as ordinal variable
-
-        Args:
-            df: DataFrame with 'Education' column
-
-        Returns:
-            DataFrame with encoded education
-        """
+        """Encode education level as ordinal variable"""
         df = df.copy()
-
-        # Define education hierarchy
-        education_map = {
-            'B.Sc': 1,
-            'B.Tech': 1,
-            'Bachelor': 1,
-            'b.s.': 1,
-            'MBA': 2,
-            'M.Sc': 2,
-            'M.Tech': 2,
-            'Master': 2,
-            "Master's": 2,
-            'master\'s': 2,
-            'PhD': 3,
-            'Ph.D': 3,
-            'phd': 3
-        }
-
-        # Map education to ordinal values - FIXED: No more inplace warning
-        df['education_level'] = df['Education'].map(education_map)
         
-        # Fill any unmapped values with 1 (Bachelor equivalent)
+        education_map = {
+            'B.Sc': 1, 'B.Tech': 1, 'Bachelor': 1, 'b.s.': 1,
+            'MBA': 2, 'M.Sc': 2, 'M.Tech': 2, 'Master': 2, "Master's": 2, 'master\'s': 2,
+            'PhD': 3, 'Ph.D': 3, 'phd': 3
+        }
+        
+        df['education_level'] = df['Education'].map(education_map)
         df['education_level'] = df['education_level'].fillna(1)
 
         return df
@@ -113,61 +64,42 @@ class FeatureEngineer:
     def encode_job_role(self, df: pd.DataFrame) -> pd.DataFrame:
         """
         One-hot encode job roles, ALWAYS including all possible roles.
-        This ensures consistent features during training and inference.
-        
-        Args:
-            df: DataFrame with 'Job Role' column
-            
-        Returns:
-            DataFrame with one-hot encoded job roles (all 4 columns always present)
+        CRITICAL FIX: dtype=int ensures columns are integers, not booleans
         """
         df = df.copy()
         
-        # CRITICAL: Define all possible job roles
+        # Define all possible job roles
         ALL_JOB_ROLES = ['AI Researcher', 'Cybersecurity Analyst', 'Data Scientist', 'Software Engineer']
         
-        # Create one-hot encoding for existing roles
-        job_role_dummies = pd.get_dummies(df['Job Role'], prefix='role', dtype=int)  # ← ADD dtype=int HERE
+        # Create one-hot encoding with dtype=int (CRITICAL!)
+        job_role_dummies = pd.get_dummies(df['Job Role'], prefix='role', dtype=int)
         
-        # CRITICAL: Ensure ALL possible role columns exist, even if not in current data
+        # Ensure ALL possible role columns exist
         for role in ALL_JOB_ROLES:
             col = f'role_{role}'
             if col not in job_role_dummies.columns:
                 job_role_dummies[col] = 0
         
-        # CRITICAL: Ensure column order is ALWAYS the same (alphabetical)
+        # Ensure consistent column order (alphabetical)
         role_columns = sorted([f'role_{role}' for role in ALL_JOB_ROLES])
         job_role_dummies = job_role_dummies[role_columns]
         
-        # Add to dataframe
         df = pd.concat([df, job_role_dummies], axis=1)
         
         return df
-    
+
     def create_interaction_features(self, df: pd.DataFrame) -> pd.DataFrame:
-        """
-        Create interaction features between different variables
-
-        Args:
-            df: DataFrame with base features
-
-        Returns:
-            DataFrame with interaction features
-        """
+        """Create interaction features between variables"""
         df = df.copy()
 
-        # Experience * Projects
         df['exp_projects_interaction'] = df['Experience (Years)'] * df['Projects Count']
-
-        # Experience * Education
+        
         if 'education_level' in df.columns:
             df['exp_education_interaction'] = df['Experience (Years)'] * df['education_level']
-
-        # Skills * Projects
+        
         if 'skill_count' in df.columns:
             df['skills_projects_interaction'] = df['skill_count'] * df['Projects Count']
-
-        # Experience bins (junior, mid, senior)
+        
         df['experience_level'] = pd.cut(
             df['Experience (Years)'],
             bins=[0, 2, 5, 100],
@@ -177,34 +109,21 @@ class FeatureEngineer:
         return df
 
     def create_all_features(self, X: pd.DataFrame) -> pd.DataFrame:
-        """
-        Create all engineered features
-
-        Args:
-            X: Raw feature DataFrame
-
-        Returns:
-            Fully engineered feature DataFrame
-        """
+        """Create all engineered features"""
         print("Starting feature engineering...")
 
-        # Extract skill features
         X = self.extract_skill_features(X)
         print(f"✓ Extracted skill features")
 
-        # Extract certification features
         X = self.extract_certification_features(X)
         print(f"✓ Extracted certification features")
 
-        # Encode education
         X = self.encode_education(X)
         print(f"✓ Encoded education levels")
 
-        # Encode job roles (ALL 4 columns always created)
         X = self.encode_job_role(X)
         print(f"✓ Encoded job roles")
 
-        # Create interaction features
         X = self.create_interaction_features(X)
         print(f"✓ Created interaction features")
 
@@ -213,18 +132,8 @@ class FeatureEngineer:
         return X
 
     def get_model_features(self, X: pd.DataFrame) -> pd.DataFrame:
-        """
-        Select and prepare final features for modeling
-
-        Args:
-            X: Engineered feature DataFrame
-
-        Returns:
-            Clean feature DataFrame ready for modeling
-        """
-        # Drop original text columns and categorical variables
+        """Select and prepare final features for modeling"""
         drop_cols = ['Skills', 'Certifications', 'Job Role', 'Education', 'experience_level']
-
         X_model = X.drop(columns=[col for col in drop_cols if col in X.columns])
 
         print(f"\nFinal model features ({X_model.shape[1]}):")
@@ -233,24 +142,14 @@ class FeatureEngineer:
         return X_model
 
     def scale_features(self, X: pd.DataFrame, fit: bool = True) -> pd.DataFrame:
-        """
-        Scale numerical features
-
-        Args:
-            X: Feature DataFrame
-            fit: Whether to fit the scaler (True for training, False for test)
-
-        Returns:
-            Scaled feature DataFrame
-        """
+        """Scale numerical features"""
         X = X.copy()
         numerical_cols = X.select_dtypes(include=[np.number]).columns.tolist()
         
         if fit:
-            # Fit and transform during training
             X[numerical_cols] = self.scaler.fit_transform(X[numerical_cols])
         else:
-            # Transform during inference - use numpy to avoid feature name validation issues
+            # Use .values to bypass sklearn's feature name validation
             X_scaled = self.scaler.transform(X[numerical_cols].values)
             X[numerical_cols] = X_scaled
 
@@ -258,16 +157,13 @@ class FeatureEngineer:
 
 
 if __name__ == "__main__":
-    # Example usage
     from data_parser import DataParser
 
-    # Load data
     parser = DataParser('../data/raw/AI_RESUME_SCREENING_AUGMENTED.csv')
     df = parser.load_data()
     df = parser.clean_data()
     X, y = parser.prepare_for_modeling()
 
-    # Engineer features
     engineer = FeatureEngineer()
     X_engineered = engineer.create_all_features(X)
     X_final = engineer.get_model_features(X_engineered)
