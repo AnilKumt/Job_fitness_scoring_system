@@ -46,7 +46,6 @@ def main():
     engineer = FeatureEngineer()
     X_engineered = engineer.create_all_features(X)
     X_final = engineer.get_model_features(X_engineered)
-    print("Training feature names:", sorted(X_final.columns.tolist()))
     print(f"Engineered features: {X_final.shape}")
     
     # Step 4: Train-test split
