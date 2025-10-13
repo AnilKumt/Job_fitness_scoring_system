@@ -26,4 +26,9 @@ opt1> add the resume path to Candi_Score.py for single resume ai score .
       run Candi_score.py
 opt2> add the resume dic to the score_candidate.py to find the best options of the reumes/ candidate
       run score_candidate.py
+```
+
+## For Windows using Powershell
+- Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
 
