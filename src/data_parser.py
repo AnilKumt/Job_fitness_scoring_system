@@ -1,5 +1,5 @@
 """
-Data Parser Module - FIXED VERSION (No Warnings)
+Data Parser Module - FINAL VERSION
 Loads and preprocesses the resume dataset
 """
 
@@ -11,7 +11,7 @@ class DataParser:
     def __init__(self, filepath: str):
         """
         Initialize the DataParser with dataset filepath
-
+        
         Args:
             filepath: Path to the CSV file
         """
@@ -29,11 +29,10 @@ class DataParser:
         if self.df is None:
             raise ValueError("Data not loaded. Call load_data() first.")
 
-        # Store original shape
         original_shape = self.df.shape
 
-        # Handle missing values in Certifications (fill with "None") - FIXED
-        self.df = self.df.copy()  # Create explicit copy
+        # Create explicit copy to avoid warnings
+        self.df = self.df.copy()
         self.df['Certifications'] = self.df['Certifications'].fillna('None')
 
         # Remove duplicates
@@ -59,7 +58,6 @@ class DataParser:
         if self.df is None:
             raise ValueError("Data not loaded. Call load_data() first.")
 
-        # Create binary target
         self.df['Target'] = self.df['Recruiter Decision'].apply(
             lambda x: 1 if x == 'Hire' else 0
         )
@@ -101,7 +99,7 @@ class DataParser:
     def prepare_for_modeling(self) -> Tuple[pd.DataFrame, pd.Series]:
         """
         Prepare data for model training
-
+        
         Returns:
             Tuple of (features_df, target_series)
         """
@@ -111,7 +109,6 @@ class DataParser:
         if 'Target' not in self.df.columns:
             self.encode_target()
 
-        # Select relevant columns for feature engineering
         feature_cols = [
             'Skills', 'Experience (Years)', 'Education', 
             'Certifications', 'Job Role', 'Projects Count', 'AI Score (0-100)'
@@ -124,18 +121,11 @@ class DataParser:
 
 
 if __name__ == "__main__":
-    # Example usage
     parser = DataParser('data/raw/AI_Resume_Screening.csv')
-
-    # Load and clean data
     df = parser.load_data()
     df = parser.clean_data()
     df = parser.encode_target()
-
-    # Get info
     parser.get_data_info()
-
-    # Prepare for modeling
     X, y = parser.prepare_for_modeling()
     print(f"\nFeatures shape: {X.shape}")
     print(f"Target shape: {y.shape}")
