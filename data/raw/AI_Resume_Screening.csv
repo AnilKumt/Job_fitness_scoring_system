@@ -1,0 +1,346 @@
+Skills,Experience (Years),Education,Certifications,Job Role,Projects Count,AI Score (0-100),Recruiter Decision
+"apache kafka, aws, docker, git, hadoop, nltk, pandas, python, sql, tensorflow",0.0,B.Sc,None,Data Scientist,0,70,Reject
+"data visualization, data wrangling, databases, deep learning, java, keras, mathematics, python, statistical analysis",1.167,b.s.,None,Software Engineer,1,70,Reject
+git,0.0,B.Sc,None,Data Scientist,0,70,Reject
+"linux, mysql, python",0.0,B.Sc,None,Data Scientist,0,70,Reject
+,0.0,B.Sc,None,Data Scientist,0,70,Reject
+"c++, mongodb",0.0,B.Sc,None,Data Scientist,0,70,Reject
+"aws, databases, git, javascript, mathematics, python, scrum",0.0,B.Sc,None,Software Engineer,0,70,Reject
+"computer vision, django, git, graphql, javascript, postgresql, python, rest apis, sql",9.75,b.s.,None,Software Engineer,9,70,Reject
+"git, machine learning, postgresql, python, tensorflow",0.0,B.Sc,None,Data Scientist,0,70,Reject
+python,1.0,b.s.,None,Data Scientist,1,70,Reject
+"docker, git, javascript, selenium, tensorflow",1.0,m.s.,None,Data Scientist,1,70,Reject
+"aws, data visualization, git, model deployment, postgresql, python, sql, tensorflow",0.0,B.Sc,None,Data Scientist,0,70,Reject
+"django, git, javascript, postgresql, python, react, rest apis, sql",3.417,b.s.,None,Software Engineer,3,70,Reject
+"computer vision, git, java, sql",10.0,b.s.,None,Software Engineer,10,70,Reject
+"aws, cybersecurity, javascript, mongodb, postgresql, python, react",3.667,B.Sc,None,Software Engineer,3,70,Reject
+"aws, cloud computing, django, git, javascript, mysql, postgresql, python, sql",1.833,B.Sc,None,Software Engineer,1,70,Reject
+"computer vision, deep learning, machine learning, networking, pytorch",6.25,b.s.,None,Data Scientist,6,70,Reject
+,0.0,B.Sc,None,Data Scientist,0,70,Reject
+"apache spark, machine learning, nlp, nltk, sql",11.833,b.s.,None,Data Scientist,11,70,Reject
+"aws, hadoop, nlp, python, tensorflow",13.833,b.s.,None,Data Scientist,13,70,Reject
+"aws, big data, docker, git, hadoop, mysql, python, tensorflow",0.0,B.Sc,None,Data Scientist,0,70,Reject
+"flask, git, keras, mathematics, mysql, pandas, python, sql",9.417,b.s.,None,Data Scientist,9,70,Reject
+,0.0,B.Sc,None,Data Scientist,0,70,Reject
+"apache spark, aws, pandas, python, sql",0.0,B.Sc,None,Data Scientist,0,70,Reject
+"aws, big data, databases, hadoop, machine learning, pandas, python, sql",6.25,b.s.,None,Data Scientist,6,70,Reject
+"keras, mysql, sqlite",0.0,B.Sc,None,Data Scientist,0,70,Reject
+"computer vision, databases, deep learning, keras, machine learning, model deployment, mysql, pytorch, sqlite",0.0,master's,None,Data Scientist,0,70,Reject
+"aws, flask, git, keras, mysql, pandas, python, sql",6.75,b.s.,None,Data Scientist,6,70,Reject
+"data visualization, python",0.0,B.Sc,None,Data Scientist,0,70,Reject
+"cybersecurity, hadoop, machine learning, python",0.0,master's,None,Data Scientist,0,70,Reject
+"aws, java, javascript, mysql, postgresql, react, rest apis",0.333,B.Sc,None,Software Engineer,0,70,Reject
+"django, git, graphql, javascript, postgresql, python, rest apis, selenium, sql, unit testing",0.833,m.s.,None,Software Engineer,0,70,Reject
+"data visualization, mathematics, mysql, sql",6.25,b.s.,None,Data Scientist,6,70,Reject
+"aws, databases, git, hadoop, mathematics, mysql, nltk, pandas, python",0.0,B.Sc,None,Data Scientist,0,70,Reject
+"apache kafka, gcp, machine learning, postgresql, tensorflow",0.0,B.Sc,None,Data Scientist,0,70,Reject
+"aws, hadoop, machine learning, mysql, nltk, python, tensorflow",0.0,B.Sc,None,Data Scientist,0,70,Reject
+"aws, c++",0.0,B.Sc,None,Data Scientist,0,70,Reject
+"aws, hadoop, html5, machine learning, pandas, python, sql",3.667,b.s.,None,Data Scientist,3,70,Reject
+"aws, azure, flask, git, keras, mysql, nlp, pandas, python, sql",12.25,phd,None,Data Scientist,12,70,Reject
+"aws, hadoop, machine learning, mysql, pandas, python, pytorch",0.0,B.Sc,None,Data Scientist,0,70,Reject
+"python, unity",0.0,b.tech,None,Data Scientist,0,70,Reject
+"aws, big data, c++, cloud computing, deep learning, devops, docker, feature engineering, git, integration testing, machine learning, mathematics, nlp, pandas, python, pytorch, scrum, sql",0.0,phd,None,Data Scientist,0,70,Reject
+"aws, big data, data visualization, git, hadoop, machine learning, mysql, opencv, python, sql, sqlite, tensorflow",0.0,m.s.,None,Data Scientist,0,70,Reject
+"c++, computer vision, deep learning, machine learning, python, pytorch, sql",8.083,b.s.,None,Data Scientist,8,70,Reject
+"elasticsearch, flask, mathematics, mysql, pandas, python, sql",11.667,master's,None,Data Scientist,11,70,Reject
+"Kibana, Pygame, OWASP Top 10, IntelliJ IDEA, nlp, Blockchain, TensorFlow, Metasploit, SQLite, JavaScript",4.23,Master's,None,Data Scientist,4,70,Reject
+"Integration Testing, Bash Scripting, Solidity, Linux, Prometheus, Unity, Grafana, MongoDB, nlp",4.07,M.Tech,None,Data Scientist,4,70,Reject
+Smart Contracts,7.04,Bachelor's,None,Data Scientist,7,70,Reject
+"Pandas, trasformers, Machine Learning, JavaScript, Playwright, Hadoop, databases, Redis, Deep Learning",5.55,PhD,None,Data Scientist,5,70,Reject
+"Penetration Testing, Gradio, Cloud Computing, Redis, BERT, Unity, Grafana, Bash Scripting, tdd, gcp",9.04,MBA,None,Data Scientist,9,70,Reject
+"JavaScript, Functional Programming, Bash Scripting, Ansible, Apache Spark, CSS3, Time Series Analysis",6.67,B.S.,None,Software Engineer,6,70,Reject
+Pandas,2.29,B.E.,None,Data Scientist,2,70,Reject
+"SQLite, Machine Learning, Pygame, Keras, Azure, Flask, Time Series Analysis, DevOps, Model Deployment",6.36,M.S.,None,Data Scientist,6,70,Reject
+"MongoDB, Cloud Computing, OWASP Top 10, Hadoop, Burp Suite, Google Colab, OpenCV",9.4,B.Tech,None,Data Scientist,9,70,Reject
+"TensorFlow, Solidity, Networking, SQLite, CI/CD Pipelines",3.49,B.E.,None,Data Scientist,3,70,Reject
+"Google Colab, DevOps, Agile Methodologies, React, MLOps, Bash Scripting, Deep Learning, MySQL",5.07,PhD,None,Software Engineer,5,70,Reject
+"REST APIs, Time Series Analysis, HTML5, Solidity, BERT, Statistical Analysis, Jupyter Notebooks, databases, PostgreSQL, MySQL",5.99,B.Sc,None,Data Scientist,5,70,Reject
+"Bash Scripting, trasformers, oop, Kubernetes, Logstash, Streamlit, PostgreSQL, Scrum, LangChain, T5",2.87,MBA,None,Data Scientist,2,70,Reject
+"Terraform, Machine Learning",4.21,M.S.,None,Data Scientist,4,70,Reject
+"GraphQL, Streamlit",6.65,PhD,None,Data Scientist,6,70,Reject
+"Smart Contracts, RabbitMQ, IntelliJ IDEA, Java, HTML5, Agile Methodologies, Metasploit, Apache Kafka",2.87,PhD,None,Software Engineer,2,70,Reject
+"Selenium, Data Wrangling, Google Colab, Smart Contracts, Coding Interview Preparation, Metasploit, Java, IntelliJ IDEA",4.47,Bachelor's,None,Software Engineer,4,70,Reject
+"Ethical Hacking, Pygame",9.09,B.S.,None,Data Scientist,9,70,Reject
+"Big Data, NLTK",7.73,M.S.,None,Data Scientist,7,70,Reject
+"Gradio, SQLite, Software Testing, oop, Unit Testing, Cybersecurity, Scrum",6.04,MBA,None,Cybersecurity Analyst,6,70,Reject
+"tdd, JavaScript",9.04,Bachelor's,None,Software Engineer,9,70,Reject
+Terraform,2.07,B.Tech,None,Data Scientist,2,70,Reject
+"Integration Testing, Ethereum, Apache Kafka, DevOps, Git, Jupyter Notebooks",8.06,B.Tech,None,Data Scientist,8,70,Reject
+"Data Engineering, Jupyter Notebooks, databases, Kubernetes, C++, Scikit-learn, SQLite, Keras",4.74,B.E.,None,Data Scientist,4,70,Reject
+"Grafana, Java, OpenCV, Apache Spark, Penetration Testing, Solidity, NLTK, PyTorch",3.53,MBA,None,Software Engineer,3,70,Reject
+Reinforcement Learning,8.48,PhD,None,Data Scientist,8,70,Reject
+"Jupyter Notebooks, MongoDB, OWASP Top 10, Java, JavaScript, RabbitMQ, Integration Testing, Terraform",6.29,B.Sc,None,Software Engineer,6,70,Reject
+Time Series Analysis,4.95,Master's,None,Data Scientist,4,70,Reject
+"GraphQL, Ansible, Flask, GPT models, PyTorch",6.07,Bachelor's,None,Data Scientist,6,70,Reject
+MongoDB,5.96,M.S.,None,Data Scientist,5,70,Reject
+"Keras, Penetration Testing, IntelliJ IDEA",7.51,M.Tech,None,Data Scientist,7,70,Reject
+"Agile Methodologies, Selenium, Penetration Testing, Pygame, PostgreSQL, Git",3.76,Master's,None,Data Scientist,3,70,Reject
+"Unity, Data Wrangling, GraphQL",3.15,M.Tech,None,Data Scientist,3,70,Reject
+"MongoDB, Terraform, PyTorch, Scrum, BERT, Data Visualization, Redis",6.87,PhD,None,Data Scientist,6,70,Reject
+"GraphQL, oop",3.36,Bachelor's,None,Data Scientist,3,70,Reject
+"TensorFlow, React, Scikit-learn, C++, Ansible, Networking",6.55,Master's,None,Data Scientist,6,70,Reject
+"Azure, Terraform, REST APIs, Integration Testing, Pandas, Metasploit, SQL, Streamlit",5.92,Bachelor's,None,Data Scientist,5,70,Reject
+"CI/CD Pipelines, Django, Feature Engineering",9.38,M.S.,None,Data Scientist,9,70,Reject
+"T5, Jupyter Notebooks, Prometheus, React, Big Data, Integration Testing",6.79,B.Tech,None,Software Engineer,6,70,Reject
+"Machine Learning, Web3.js, Networking, Django, SQL, Apache Spark, OpenCV",5.09,B.Tech,None,Data Scientist,5,70,Reject
+"Terraform, Algorithms & Data Structures, Mathematics, Solidity, Deep Learning, React, Statistical Analysis, Linux",7.76,Bachelor's,None,Software Engineer,7,70,Reject
+"REST APIs, Algorithms & Data Structures, NLTK, SQL",5.52,PhD,None,Data Scientist,5,70,Reject
+"Grafana, Playwright, IntelliJ IDEA, Gradio, Computer Vision, Feature Engineering",2.94,PhD,None,Data Scientist,2,70,Reject
+"Google Colab, Data Visualization, Networking, LangChain, Kibana, Ansible, Apache Spark, Scrum, Smart Contracts",8.05,Bachelor's,None,Data Scientist,8,70,Reject
+"Integration Testing, tdd, Elasticsearch, BERT, Data Engineering, Algorithms & Data Structures, Docker, Linux",4.7,M.S.,None,Data Scientist,4,70,Reject
+"Metasploit, Google Colab, CSS3, Algorithms & Data Structures, Logstash, Solidity, Networking, MongoDB, Feature Engineering",2.91,Bachelor's,None,Data Scientist,2,70,Reject
+"BERT, Time Series Analysis, Playwright, HTML5, Python, Hadoop",4.8,Master's,None,Data Scientist,4,70,Reject
+"Blockchain, LangChain, gcp",4.58,M.Tech,None,Data Scientist,4,70,Reject
+"Pandas, MongoDB, T5, Gradio, Smart Contracts, Java",5.78,PhD,None,Software Engineer,5,70,Reject
+"databases, Bash Scripting",6.78,B.S.,None,Data Scientist,6,70,Reject
+"Functional Programming, trasformers, Metasploit, MLOps, Kubernetes, CI/CD Pipelines, Feature Engineering, Machine Learning, Linux",8.51,B.S.,None,Data Scientist,8,70,Reject
+"GPT models, Time Series Analysis, Java, Burp Suite, Computer Vision, Ethical Hacking, SQL, trasformers, databases",6.13,PhD,None,Software Engineer,6,70,Reject
+Time Series Analysis,4.22,B.Tech,None,Data Scientist,4,70,Reject
+"Ethereum, C++, LangChain, Git, Burp Suite, Scrum",3.16,M.Tech,None,Data Scientist,3,70,Reject
+"Ethical Hacking, Functional Programming, Django, Integration Testing, VS Code, DevOps, MLOps, SQL, React, Deep Learning",5.58,M.S.,None,Software Engineer,5,70,Reject
+"Keras, GPT models, MySQL",6.58,PhD,None,Data Scientist,6,70,Reject
+"Scrum, Metasploit, MLOps, Data Visualization, Logstash, GraphQL, xai, Kibana, Machine Learning",9.34,MBA,None,Data Scientist,9,70,Reject
+"MySQL, Selenium, LangChain, Software Testing, Scikit-learn",2.65,Master's,None,Data Scientist,2,70,Reject
+Scrum,3.85,B.Tech,None,Data Scientist,3,70,Reject
+"MongoDB, Django, PyTorch, REST APIs, Git",8.33,B.Tech,None,Data Scientist,8,70,Reject
+"Data Wrangling, GPT models, CI/CD Pipelines, T5, Gradio",9.81,M.Tech,None,Data Scientist,9,70,Reject
+"Flask, JavaScript, CI/CD Pipelines",3.96,B.Sc,None,Software Engineer,3,70,Reject
+"Prometheus, Java, SQL, RabbitMQ, Apache Spark, OWASP Top 10, gcp, Selenium, Apache Kafka",6.13,Bachelor's,None,Software Engineer,6,70,Reject
+"gcp, CSS3, Grafana",6.78,B.Tech,None,Data Scientist,6,70,Reject
+"Web3.js, C++, Bash Scripting, VS Code, Scikit-learn, OpenCV, Ethereum",9.23,MBA,None,Data Scientist,9,70,Reject
+"xai, Linux, Logstash, Data Wrangling",8.15,B.S.,None,Data Scientist,8,70,Reject
+"Deep Learning, Redis, Unit Testing, BERT, SQL, Kubernetes, databases",10.0,Master's,None,Data Scientist,10,70,Reject
+"VS Code, OWASP Top 10, Azure, Blockchain, Functional Programming, Solidity, Software Testing",3.66,B.Tech,None,Data Scientist,3,70,Reject
+"Java, MySQL, AWS, Docker, SQL",9.88,M.Tech,None,Software Engineer,9,70,Reject
+"Django, Data Visualization, Python, Burp Suite, Agile Methodologies, VS Code",2.95,B.E.,None,Data Scientist,2,70,Reject
+"Terraform, Java, Grafana, SQLite, C++",2.99,Bachelor's,None,Software Engineer,2,70,Reject
+"Keras, Java, Streamlit, NLTK",4.84,B.Tech,None,Software Engineer,4,70,Reject
+"Scikit-learn, gcp, Redis, GPT models, C++, DevOps, Prometheus",7.79,PhD,None,Data Scientist,7,70,Reject
+VS Code,9.19,Bachelor's,None,Data Scientist,9,70,Reject
+"PyTorch, BERT, Networking, Docker, Kubernetes, Prometheus",3.11,MBA,None,Data Scientist,3,70,Reject
+"Networking, MongoDB, REST APIs, Logstash, Hadoop, PostgreSQL, Playwright, Coding Interview Preparation",9.84,MBA,None,Data Scientist,9,70,Reject
+"Statistical Analysis, Pygame, Cloud Computing, AWS, Ethereum, Jupyter Notebooks, Kibana, Hadoop, trasformers",7.11,PhD,None,Data Scientist,7,70,Reject
+"Flask, JavaScript",4.96,M.Tech,None,Software Engineer,4,70,Reject
+"Terraform, Scikit-learn",4.81,B.Tech,None,Data Scientist,4,70,Reject
+"Integration Testing, Apache Spark, OWASP Top 10, Smart Contracts, Model Deployment, Agile Methodologies",6.08,B.E.,None,Data Scientist,6,70,Reject
+"Solidity, AWS, Unit Testing, nlp",2.36,B.E.,None,Data Scientist,2,70,Reject
+Algorithms & Data Structures,4.43,B.Tech,None,Data Scientist,4,70,Reject
+Cybersecurity,8.36,Master's,None,Cybersecurity Analyst,8,70,Reject
+"Cybersecurity, gcp, Grafana",3.37,MBA,None,Cybersecurity Analyst,3,70,Reject
+"Statistical Analysis, Web3.js, Playwright, Keras",5.52,B.Tech,None,Data Scientist,5,70,Reject
+Smart Contracts,8.59,PhD,None,Data Scientist,8,70,Reject
+"React, Computer Vision",3.52,B.E.,None,Software Engineer,3,70,Reject
+"LangChain, GraphQL, MLOps, Hadoop, C++, GPT models, OWASP Top 10, CI/CD Pipelines, BERT",7.02,Master's,None,Data Scientist,7,70,Reject
+"Scikit-learn, RabbitMQ, PyTorch, Cybersecurity, Unity",7.2,Master's,None,Cybersecurity Analyst,7,70,Reject
+"MongoDB, Time Series Analysis, Ethical Hacking, Scrum, Cybersecurity, React",2.06,M.Tech,None,Software Engineer,2,70,Reject
+"Integration Testing, Prometheus, Software Testing, OWASP Top 10, Metasploit, Data Wrangling, Streamlit, Statistical Analysis, CI/CD Pipelines",3.68,B.S.,None,Data Scientist,3,70,Reject
+"Feature Engineering, React, Ansible, Elasticsearch, Unit Testing, xai, Networking",4.39,PhD,None,Software Engineer,4,70,Reject
+"Bash Scripting, REST APIs, Blockchain",4.86,B.E.,None,Data Scientist,4,70,Reject
+"Agile Methodologies, Flask, Scrum",2.11,MBA,None,Data Scientist,2,70,Reject
+"Mathematics, Flask, Deep Learning, Algorithms & Data Structures, MongoDB, Apache Spark, Feature Engineering, Data Engineering",7.14,PhD,None,Data Scientist,7,70,Reject
+"tdd, Java, OWASP Top 10, databases, Elasticsearch, Jupyter Notebooks",8.61,M.Tech,None,Software Engineer,8,70,Reject
+"Unity, PostgreSQL, Solidity, Django, Jupyter Notebooks, Deep Learning, Azure, Git, Blockchain",2.73,B.Sc,None,Data Scientist,2,70,Reject
+"Functional Programming, NLTK, TensorFlow",3.68,Bachelor's,None,Data Scientist,3,70,Reject
+"Google Colab, databases, SQL, DevOps, HTML5, BERT, Scrum, Ethereum",6.31,B.Sc,None,Data Scientist,6,70,Reject
+"Grafana, Data Wrangling, Agile Methodologies, Solidity, RabbitMQ, Redis, tdd",2.85,PhD,None,Data Scientist,2,70,Reject
+"Python, SQLite, Streamlit, GPT models, VS Code, Git, Prometheus, Linux, T5",5.14,MBA,None,Data Scientist,5,70,Reject
+"Cybersecurity, tdd, Agile Methodologies, T5, Pygame, SQL, Apache Kafka, Bash Scripting",5.41,B.E.,None,Cybersecurity Analyst,5,70,Reject
+"Keras, CSS3, Smart Contracts, T5, NLTK, OWASP Top 10",4.16,Master's,None,Data Scientist,4,70,Reject
+"Python, Unity, Docker, Networking, Bash Scripting, trasformers, BERT",5.35,M.S.,None,Data Scientist,5,70,Reject
+Penetration Testing,2.41,Master's,None,Data Scientist,2,70,Reject
+"LangChain, oop, nlp, Penetration Testing",5.42,B.S.,None,Data Scientist,5,70,Reject
+"OpenCV, Blockchain, Computer Vision, HTML5, Elasticsearch, Flask",9.99,Master's,None,Data Scientist,9,70,Reject
+"RabbitMQ, VS Code, TensorFlow",3.95,M.Tech,None,Data Scientist,3,70,Reject
+"Flask, Selenium, Kibana",8.92,M.S.,None,Data Scientist,8,70,Reject
+"Keras, BERT, Cybersecurity, Java, Model Deployment",6.94,Bachelor's,None,Software Engineer,6,70,Reject
+"PostgreSQL, GraphQL, Docker, GPT models, CSS3, React, Unity, BERT, Redis",4.93,M.S.,None,Software Engineer,4,70,Reject
+"BERT, Mathematics, Big Data, NLTK, Django, CSS3, Linux",7.15,Master's,None,Data Scientist,7,70,Reject
+"Scrum, Smart Contracts, Networking, Bash Scripting, Data Wrangling, CI/CD Pipelines, Functional Programming, Penetration Testing, Ethical Hacking, Hadoop",4.63,M.Tech,None,Data Scientist,4,70,Reject
+"Agile Methodologies, Unit Testing, Metasploit, CI/CD Pipelines, Algorithms & Data Structures",4.96,M.Tech,None,Data Scientist,4,70,Reject
+"Streamlit, Kibana, Grafana",10.0,B.E.,None,Data Scientist,10,70,Reject
+"Java, Algorithms & Data Structures, VS Code, RabbitMQ, Azure, Bash Scripting, LangChain, nlp, Elasticsearch, MySQL",9.15,MBA,None,Software Engineer,9,70,Reject
+"Hadoop, RabbitMQ, Scikit-learn, Smart Contracts, Java, Prometheus, Elasticsearch, Networking, Blockchain",3.66,Master's,None,Software Engineer,3,70,Reject
+"Machine Learning, Solidity, nlp, Blockchain, Mathematics",4.83,PhD,None,Data Scientist,4,70,Reject
+"Git, CSS3, Redis, React, IntelliJ IDEA, RabbitMQ, Ansible",6.87,B.S.,None,Software Engineer,6,70,Reject
+"Hadoop, Streamlit, Apache Kafka, Pandas, Ansible, Computer Vision, CSS3, IntelliJ IDEA, MySQL, Java",3.6,M.S.,None,Software Engineer,3,70,Reject
+"JavaScript, trasformers, Ethical Hacking, Machine Learning, Terraform",6.18,Bachelor's,None,Data Scientist,6,70,Reject
+"MLOps, Unit Testing, Algorithms & Data Structures, Ethereum",4.68,M.S.,None,Data Scientist,4,70,Reject
+"SQL, Functional Programming, Django, Scikit-learn, MongoDB, Smart Contracts, Networking, Solidity, Ansible",7.92,B.Sc,None,Data Scientist,7,70,Reject
+"Apache Spark, Computer Vision, Data Engineering",2.49,M.Tech,None,Data Scientist,2,70,Reject
+"Java, Burp Suite, Gradio, Docker",2.21,PhD,None,Software Engineer,2,70,Reject
+"Deep Learning, trasformers, Integration Testing",2.6,B.S.,None,Data Scientist,2,70,Reject
+"Git, Grafana, Machine Learning, Coding Interview Preparation, trasformers, Solidity, PyTorch, Networking, GPT models",7.36,M.Tech,None,Data Scientist,7,70,Reject
+"Google Colab, Linux, Pandas, Big Data, Networking, Ethical Hacking, Data Visualization, Streamlit, Keras",9.81,B.Tech,None,Data Scientist,9,70,Reject
+Big Data,4.56,Master's,None,Data Scientist,4,70,Reject
+"BERT, Pandas, tdd, NLTK, Unit Testing, Cybersecurity, gcp, Scrum",8.06,B.E.,None,Cybersecurity Analyst,8,70,Reject
+"Unit Testing, gcp, Streamlit, Google Colab",7.44,B.Tech,None,Data Scientist,7,70,Reject
+"VS Code, Kubernetes, NLTK, AWS",8.46,B.S.,None,Data Scientist,8,70,Reject
+"Apache Spark, Penetration Testing, Time Series Analysis, Functional Programming, OpenCV, AWS, DevOps, Jupyter Notebooks, NLTK",4.14,M.S.,None,Data Scientist,4,70,Reject
+"Keras, Penetration Testing",5.3,B.Sc,None,Data Scientist,5,70,Reject
+"Apache Kafka, Big Data",4.4,B.S.,None,Data Scientist,4,70,Reject
+"OWASP Top 10, Ansible, Ethical Hacking, PyTorch, Python, Linux, SQLite, REST APIs, Cybersecurity, DevOps",5.77,B.E.,None,Cybersecurity Analyst,5,70,Reject
+"React, Coding Interview Preparation, Smart Contracts, MySQL, C++, PyTorch, Jupyter Notebooks, Streamlit, Selenium",5.01,M.Tech,None,Software Engineer,5,70,Reject
+"nlp, MongoDB, Agile Methodologies, Mathematics, Pandas, trasformers, Ethical Hacking, Algorithms & Data Structures, Data Visualization, gcp",3.3,B.Tech,None,Data Scientist,3,70,Reject
+"Selenium, Networking, Linux, Google Colab, Solidity",2.92,M.Tech,None,Data Scientist,2,70,Reject
+"Big Data, Cloud Computing, CI/CD Pipelines, Apache Spark, Coding Interview Preparation, MySQL, Google Colab, Apache Kafka, HTML5, MongoDB",8.78,B.E.,None,Data Scientist,8,70,Reject
+"TensorFlow, GPT models, Grafana, tdd, T5, Git, Logstash, Redis, Azure",8.73,B.Sc,None,Data Scientist,8,70,Reject
+"Unity, PostgreSQL, AWS, tdd, IntelliJ IDEA, T5, nlp",3.57,PhD,None,Data Scientist,3,70,Reject
+Apache Kafka,9.18,B.S.,None,Data Scientist,9,70,Reject
+"Google Colab, GraphQL, Reinforcement Learning",3.0,MBA,None,Data Scientist,3,70,Reject
+"SQL, Bash Scripting",3.8,M.Tech,None,Data Scientist,3,70,Reject
+"Data Visualization, Pandas, Web3.js, Penetration Testing, Java, nlp, Burp Suite",9.19,MBA,None,Software Engineer,9,70,Reject
+"PostgreSQL, OpenCV, C++, Web3.js",7.23,PhD,None,Data Scientist,7,70,Reject
+GPT models,8.28,Bachelor's,None,Data Scientist,8,70,Reject
+"Kibana, xai, Ethereum",8.49,B.Sc,None,Data Scientist,8,70,Reject
+"Terraform, Django",4.14,M.S.,None,Data Scientist,4,70,Reject
+"REST APIs, Solidity, Apache Kafka, Cybersecurity, React, PyTorch",3.61,MBA,None,Software Engineer,3,70,Reject
+"Terraform, oop, TensorFlow, Hadoop, Scikit-learn, Linux, Data Engineering, Algorithms & Data Structures, MySQL, Ansible",9.75,MBA,None,Data Scientist,9,70,Reject
+"Java, Google Colab, Ethereum, PyTorch, trasformers, T5, IntelliJ IDEA, Bash Scripting, CSS3",5.67,M.Tech,None,Software Engineer,5,70,Reject
+"Terraform, MySQL, Ethereum, Data Visualization",3.73,M.Tech,None,Data Scientist,3,70,Reject
+"Statistical Analysis, T5, Big Data, SQL, GPT models, REST APIs, Kubernetes",4.47,B.E.,None,Data Scientist,4,70,Reject
+DevOps,5.17,B.Sc,None,Data Scientist,5,70,Reject
+"Docker, React, Solidity, Logstash, Apache Kafka, Scrum",3.95,MBA,None,Software Engineer,3,70,Reject
+"Blockchain, Prometheus, SQLite, REST APIs, Time Series Analysis, Kubernetes",7.01,M.Tech,None,Data Scientist,7,70,Reject
+"Scikit-learn, Machine Learning, Burp Suite, Functional Programming, trasformers, IntelliJ IDEA, TensorFlow, Google Colab, OWASP Top 10",7.43,M.Tech,None,Data Scientist,7,70,Reject
+"MySQL, MLOps, React, NLTK",4.94,B.S.,None,Software Engineer,4,70,Reject
+"nlp, Metasploit, Data Wrangling, JavaScript, Web3.js, Elasticsearch, Time Series Analysis, Scrum, Git",6.46,Bachelor's,None,Software Engineer,6,70,Reject
+"Feature Engineering, Cloud Computing, LangChain",9.7,Master's,None,Data Scientist,9,70,Reject
+"REST APIs, tdd, RabbitMQ, Django, Bash Scripting, MySQL, trasformers, Python, Cloud Computing, TensorFlow",2.92,M.S.,None,Data Scientist,2,70,Reject
+"Kibana, Data Visualization, Apache Kafka, Gradio, Data Wrangling, REST APIs, Mathematics, Software Testing, JavaScript",9.5,Bachelor's,None,Software Engineer,9,70,Reject
+Scrum,2.42,PhD,None,Data Scientist,2,70,Reject
+"C++, Metasploit, MLOps, Gradio, OWASP Top 10, Selenium",2.28,B.Sc,None,Data Scientist,2,70,Reject
+"Ethereum, OWASP Top 10, Data Engineering, BERT, SQL, gcp, Software Testing",9.92,MBA,None,Data Scientist,9,70,Reject
+"Java, Machine Learning, Django, Web3.js, Solidity, Algorithms & Data Structures, Reinforcement Learning, Penetration Testing",7.78,Bachelor's,None,Data Scientist,7,70,Reject
+"React, Ethereum",2.85,PhD,None,Software Engineer,2,70,Reject
+"Data Visualization, Computer Vision, Terraform, Big Data, databases, C++, NLTK, Pandas, Kibana, React",7.41,M.Tech,None,Software Engineer,7,70,Reject
+"Cybersecurity, SQLite, Statistical Analysis, nlp, Time Series Analysis, Bash Scripting, Smart Contracts, Apache Kafka, Computer Vision, IntelliJ IDEA",3.74,B.Sc,None,Cybersecurity Analyst,3,70,Reject
+"Google Colab, Blockchain",6.62,M.Tech,None,Data Scientist,6,70,Reject
+"Machine Learning, Networking, Cybersecurity, gcp, SQLite, oop, Apache Spark, TensorFlow, AWS",4.45,B.S.,None,Data Scientist,4,70,Reject
+"Blockchain, MongoDB, Data Wrangling, TensorFlow, DevOps, Deep Learning, Coding Interview Preparation",8.06,M.S.,None,Data Scientist,8,70,Reject
+"DevOps, Deep Learning, Software Testing",5.63,B.E.,None,Data Scientist,5,70,Reject
+"Big Data, MLOps, Jupyter Notebooks, Smart Contracts, Hadoop, Time Series Analysis, GraphQL",2.71,B.Sc,None,Data Scientist,2,70,Reject
+"SQL, Selenium, IntelliJ IDEA, Pandas",2.11,Master's,None,Data Scientist,2,70,Reject
+"Selenium, Kibana, TensorFlow, Ethereum, Django, Solidity, Playwright, Unity",9.45,MBA,None,Data Scientist,9,70,Reject
+"Unit Testing, Data Engineering",6.75,Master's,None,Data Scientist,6,70,Reject
+"MLOps, C++, Networking, Cybersecurity, xai, Cloud Computing, Kibana, Keras",9.63,PhD,None,Cybersecurity Analyst,9,70,Reject
+"Unit Testing, Terraform, Git, Ethereum, MLOps",7.45,B.E.,None,Data Scientist,7,70,Reject
+"Mathematics, Statistical Analysis, Big Data, Scikit-learn, Kubernetes, OpenCV, Agile Methodologies",6.92,Master's,None,Data Scientist,6,70,Reject
+"Feature Engineering, Apache Spark, Streamlit, Data Engineering, Docker, Model Deployment, Keras, Gradio, GraphQL",5.27,MBA,None,Data Scientist,5,70,Reject
+"Scrum, Pygame, Machine Learning, Docker, databases, Mathematics, SQL",5.83,B.Sc,None,Data Scientist,5,70,Reject
+"Java, Pygame, nlp, Cloud Computing, Ansible, Django",3.45,B.Tech,None,Software Engineer,3,70,Reject
+"oop, Ethical Hacking",3.44,Master's,None,Data Scientist,3,70,Reject
+"databases, GPT models, tdd",4.49,B.E.,None,Data Scientist,4,70,Reject
+"Computer Vision, CI/CD Pipelines, Apache Spark, oop, REST APIs, HTML5",9.44,B.S.,None,Data Scientist,9,70,Reject
+"DevOps, Kubernetes, Git, Ethereum, AWS",5.42,M.S.,None,Data Scientist,5,70,Reject
+Hadoop,8.67,MBA,None,Data Scientist,8,70,Reject
+"React, trasformers",6.36,MBA,None,Software Engineer,6,70,Reject
+"OWASP Top 10, Functional Programming, SQLite, Kibana, Elasticsearch, PyTorch, Software Testing",5.97,B.Tech,None,Data Scientist,5,70,Reject
+"MongoDB, nlp, CI/CD Pipelines, Integration Testing",9.35,B.E.,None,Data Scientist,9,70,Reject
+"MLOps, DevOps",5.05,M.Tech,None,Data Scientist,5,70,Reject
+"Software Testing, Reinforcement Learning, IntelliJ IDEA, SQL, Java, JavaScript, Terraform, Cybersecurity",3.69,B.E.,None,Software Engineer,3,70,Reject
+"Unity, Elasticsearch, Python, SQLite, databases, Solidity",5.81,Bachelor's,None,Data Scientist,5,70,Reject
+"Web3.js, Scrum, OpenCV, Docker, Time Series Analysis, Cybersecurity",8.77,M.Tech,None,Cybersecurity Analyst,8,70,Reject
+"Scikit-learn, xai, Web3.js, MongoDB",6.34,B.Sc,None,Data Scientist,6,70,Reject
+"Redis, RabbitMQ, Ansible, Data Wrangling, OpenCV, Ethereum",4.39,B.Sc,None,Data Scientist,4,70,Reject
+"Docker, IntelliJ IDEA, gcp, T5, Prometheus, Pandas, JavaScript",9.22,M.Tech,None,Software Engineer,9,70,Reject
+"Pygame, Scrum, Unit Testing, Algorithms & Data Structures, Functional Programming",7.35,Master's,None,Data Scientist,7,70,Reject
+"Kubernetes, Agile Methodologies, Time Series Analysis, Big Data, Django, Unity",4.56,MBA,None,Data Scientist,4,70,Reject
+"Model Deployment, DevOps, Mathematics, HTML5, PostgreSQL, Computer Vision, Gradio, Linux, Smart Contracts, Unit Testing",4.64,Master's,None,Data Scientist,4,70,Reject
+"Bash Scripting, GPT models",5.98,B.Tech,None,Data Scientist,5,70,Reject
+"MySQL, Grafana, Ansible",5.92,MBA,None,Data Scientist,5,70,Reject
+"OpenCV, Bash Scripting, Networking, Machine Learning",4.64,B.Tech,None,Data Scientist,4,70,Reject
+"Java, oop, Apache Spark, Unity, Python, IntelliJ IDEA, Ethereum",8.53,PhD,None,Software Engineer,8,70,Reject
+"Penetration Testing, Kubernetes",3.38,Bachelor's,None,Data Scientist,3,70,Reject
+"Coding Interview Preparation, Web3.js, Redis, DevOps, CI/CD Pipelines, Apache Spark",2.39,B.Sc,None,Data Scientist,2,70,Reject
+"Data Wrangling, Penetration Testing, Data Visualization",3.13,B.Tech,None,Data Scientist,3,70,Reject
+"Time Series Analysis, NLTK, databases",8.36,Bachelor's,None,Data Scientist,8,70,Reject
+"Machine Learning, gcp, Agile Methodologies",9.05,B.Tech,None,Data Scientist,9,70,Reject
+"PostgreSQL, tdd, Pygame, HTML5, RabbitMQ, PyTorch, Scikit-learn, Redis",9.43,Master's,None,Data Scientist,9,70,Reject
+"Hadoop, Kubernetes, REST APIs, Python",9.94,PhD,None,Data Scientist,9,70,Reject
+"Coding Interview Preparation, Git, Mathematics, Docker, Google Colab",9.98,Bachelor's,None,Data Scientist,9,70,Reject
+"GPT models, LangChain",6.81,Master's,None,Data Scientist,6,70,Reject
+"Cybersecurity, IntelliJ IDEA, Mathematics, Django, Agile Methodologies, Data Engineering, MySQL, Docker, Solidity",6.31,MBA,None,Cybersecurity Analyst,6,70,Reject
+"Elasticsearch, Deep Learning, Python, Data Wrangling, trasformers, GPT models, Burp Suite, Pygame, Streamlit",6.71,PhD,None,Data Scientist,6,70,Reject
+"Algorithms & Data Structures, Data Wrangling, Grafana, Machine Learning, Linux, Solidity, Python",4.22,M.S.,None,Data Scientist,4,70,Reject
+"Software Testing, JavaScript, Ansible, Apache Spark, React",8.52,MBA,None,Software Engineer,8,70,Reject
+"Flask, Keras, GraphQL, MySQL, Networking, Docker, Model Deployment, Feature Engineering, Bash Scripting",6.51,M.S.,None,Data Scientist,6,70,Reject
+"xai, T5, Ansible, LangChain, Model Deployment",4.95,B.Tech,None,Data Scientist,4,70,Reject
+Hadoop,4.88,PhD,None,Data Scientist,4,70,Reject
+"Streamlit, Statistical Analysis",6.42,B.E.,None,Data Scientist,6,70,Reject
+"Blockchain, tdd, Streamlit, Unity, Elasticsearch, Google Colab, Web3.js, HTML5, GraphQL, Kubernetes",5.36,PhD,None,Data Scientist,5,70,Reject
+"Coding Interview Preparation, SQL, Feature Engineering, Jupyter Notebooks, Docker, Machine Learning, Smart Contracts",2.74,PhD,None,Data Scientist,2,70,Reject
+"Data Engineering, JavaScript, Jupyter Notebooks, Redis, Docker, tdd, NLTK, Hadoop, gcp, Coding Interview Preparation",4.36,Master's,None,Software Engineer,4,70,Reject
+"Pandas, Machine Learning, Playwright, Java, Unit Testing",8.69,PhD,None,Data Scientist,8,70,Reject
+Git,4.52,Master's,None,Data Scientist,4,70,Reject
+"Elasticsearch, Algorithms & Data Structures, oop",4.48,MBA,None,Data Scientist,4,70,Reject
+"Kibana, SQL, Metasploit, OWASP Top 10, Grafana, React",9.49,Master's,None,Software Engineer,9,70,Reject
+"Terraform, Azure, MySQL, Data Visualization, Kibana, T5, C++, Playwright, Elasticsearch, Blockchain",8.0,M.S.,None,Data Scientist,8,70,Reject
+"Blockchain, GraphQL, Statistical Analysis, T5, Kubernetes, Data Visualization, Computer Vision, AWS",6.32,MBA,None,Data Scientist,6,70,Reject
+"Agile Methodologies, Metasploit, Data Wrangling, Apache Spark, NLTK",3.91,PhD,None,Data Scientist,3,70,Reject
+"xai, OpenCV, Scrum, Deep Learning, Logstash, RabbitMQ, Jupyter Notebooks, trasformers, Terraform",4.84,Bachelor's,None,Data Scientist,4,70,Reject
+"Bash Scripting, Logstash, HTML5, DevOps, xai, Web3.js, TensorFlow, C++",2.79,Bachelor's,None,Data Scientist,2,70,Reject
+"Hadoop, Penetration Testing, Linux, trasformers, nlp, Pandas, Ethereum, Algorithms & Data Structures, Time Series Analysis",4.45,M.Tech,None,Data Scientist,4,70,Reject
+"trasformers, Gradio",7.9,M.Tech,None,Data Scientist,7,70,Reject
+"Terraform, Agile Methodologies, GraphQL, NLTK, Big Data",5.2,Bachelor's,None,Data Scientist,5,70,Reject
+"Python, Blockchain, GPT models, LangChain, TensorFlow, Big Data, SQLite, Data Visualization, Pygame",5.34,B.E.,None,Data Scientist,5,70,Reject
+"Keras, Integration Testing, Pygame, REST APIs, OWASP Top 10, NLTK, Google Colab, Data Engineering, HTML5, SQL",2.3,B.Sc,None,Data Scientist,2,70,Reject
+"Functional Programming, Integration Testing, LangChain, Penetration Testing, VS Code, Cybersecurity, Model Deployment",2.44,PhD,None,Cybersecurity Analyst,2,70,Reject
+"Azure, Ethereum",5.84,B.E.,None,Data Scientist,5,70,Reject
+Gradio,4.4,PhD,None,Data Scientist,4,70,Reject
+"Machine Learning, Flask",6.53,B.S.,None,Data Scientist,6,70,Reject
+"trasformers, Reinforcement Learning, SQLite, Blockchain, xai, Software Testing",7.36,MBA,None,Data Scientist,7,70,Reject
+"HTML5, nlp, Computer Vision, Pygame, GPT models, Solidity, Deep Learning",4.62,PhD,None,Data Scientist,4,70,Reject
+Pandas,2.42,MBA,None,Data Scientist,2,70,Reject
+Google Colab,8.02,M.S.,None,Data Scientist,8,70,Reject
+"databases, Cloud Computing, Feature Engineering, Playwright, VS Code, Kibana, REST APIs",4.46,B.Tech,None,Data Scientist,4,70,Reject
+"Cloud Computing, Unit Testing, React, GPT models, SQLite",9.59,B.E.,None,Software Engineer,9,70,Reject
+"Git, Prometheus",6.33,M.Tech,None,Data Scientist,6,70,Reject
+"trasformers, Ethereum, GraphQL, Azure, Integration Testing, PyTorch, MLOps",5.9,MBA,None,Data Scientist,5,70,Reject
+"Scikit-learn, Machine Learning, C++, Functional Programming, GPT models, Prometheus, Gradio, trasformers, Blockchain, Git",9.38,B.Tech,None,Data Scientist,9,70,Reject
+"Flask, Logstash",6.49,M.S.,None,Data Scientist,6,70,Reject
+"Blockchain, gcp, MySQL, Python, Statistical Analysis, Google Colab, PostgreSQL, IntelliJ IDEA, Cybersecurity",5.45,B.E.,None,Cybersecurity Analyst,5,70,Reject
+"xai, VS Code, Time Series Analysis, Scikit-learn, TensorFlow, Cybersecurity",5.03,M.Tech,None,Data Scientist,5,70,Reject
+"Logstash, DevOps, xai, Deep Learning, Web3.js, REST APIs, Elasticsearch, Data Engineering, Algorithms & Data Structures",3.6,B.S.,None,Data Scientist,3,70,Reject
+"MySQL, Web3.js, LangChain, OpenCV, Keras, Grafana",5.9,PhD,None,Data Scientist,5,70,Reject
+"PyTorch, OWASP Top 10, Model Deployment, Terraform, Prometheus, Bash Scripting",5.56,B.S.,None,Data Scientist,5,70,Reject
+Jupyter Notebooks,4.85,B.S.,None,Data Scientist,4,70,Reject
+"REST APIs, React, Elasticsearch, Metasploit, trasformers, MongoDB",2.19,MBA,None,Software Engineer,2,70,Reject
+"Java, Smart Contracts, Metasploit, Cybersecurity, Web3.js, PyTorch, Git, Coding Interview Preparation, Penetration Testing, GPT models",4.62,MBA,None,Software Engineer,4,70,Reject
+"Pandas, Reinforcement Learning, GPT models, Cloud Computing, DevOps, Google Colab",3.06,B.S.,None,Data Scientist,3,70,Reject
+"SQLite, tdd, Playwright, Scrum, Burp Suite, Big Data, Ethical Hacking, Networking, Metasploit",7.08,Bachelor's,None,Data Scientist,7,70,Reject
+"Coding Interview Preparation, C++, GPT models, TensorFlow, Smart Contracts, Pandas",4.07,B.E.,None,Data Scientist,4,70,Reject
+"Web3.js, Gradio, LangChain, Git, Azure, Data Wrangling, trasformers, Deep Learning, Pygame, T5",8.95,M.Tech,None,Data Scientist,8,70,Reject
+"IntelliJ IDEA, PyTorch, Burp Suite, Gradio, Kubernetes, Solidity, Data Wrangling, Big Data",8.06,Bachelor's,None,Data Scientist,8,70,Reject
+"C++, Selenium",8.28,M.S.,None,Data Scientist,8,70,Reject
+"Model Deployment, Linux",5.96,B.E.,None,Data Scientist,5,70,Reject
+"C++, MySQL, TensorFlow, OWASP Top 10, Kibana, Computer Vision",6.86,B.E.,None,Data Scientist,6,70,Reject
+"Feature Engineering, Burp Suite, Blockchain, Functional Programming, Algorithms & Data Structures, Prometheus, MySQL",8.54,Bachelor's,None,Data Scientist,8,70,Reject
+"VS Code, NLTK, Redis, databases, Burp Suite, Computer Vision, gcp, Kibana",4.31,M.Tech,None,Data Scientist,4,70,Reject
+"Metasploit, HTML5, Mathematics, RabbitMQ, Data Wrangling, JavaScript",7.35,M.S.,None,Software Engineer,7,70,Reject
+"xai, Jupyter Notebooks, gcp, Algorithms & Data Structures, Python, NLTK, tdd, Hadoop",8.32,Bachelor's,None,Data Scientist,8,70,Reject
+"Feature Engineering, C++, xai, Prometheus, Apache Kafka, Unit Testing, Keras",3.98,Bachelor's,None,Data Scientist,3,70,Reject
+"Scrum, Flask, Terraform, Machine Learning, Agile Methodologies, Playwright, Pandas",7.26,M.Tech,None,Data Scientist,7,70,Reject
+"Networking, Pygame, Django, Azure",9.82,PhD,None,Data Scientist,9,70,Reject
+"Redis, nlp",7.78,B.Tech,None,Data Scientist,7,70,Reject
+tdd,5.12,B.Sc,None,Data Scientist,5,70,Reject
+"trasformers, Keras",3.35,B.E.,None,Data Scientist,3,70,Reject
+"GPT models, Burp Suite",2.3,M.S.,None,Data Scientist,2,70,Reject
+"databases, Solidity, SQLite, OpenCV, Hadoop, Keras, Pygame, Docker, VS Code, Cybersecurity",5.0,Bachelor's,None,Cybersecurity Analyst,5,70,Reject
+"Python, Networking, IntelliJ IDEA, Agile Methodologies, Deep Learning",8.41,M.S.,None,Data Scientist,8,70,Reject
+"Metasploit, IntelliJ IDEA, Logstash, Unity, Playwright, Python",5.06,M.Tech,None,Data Scientist,5,70,Reject
+Software Testing,9.36,B.S.,None,Data Scientist,9,70,Reject
+"Software Testing, Playwright, NLTK, Mathematics, Web3.js, oop, Solidity, nlp, Redis",2.87,B.Sc,None,Data Scientist,2,70,Reject
+"Ethereum, MLOps, CI/CD Pipelines, Python, Data Wrangling",9.91,M.S.,None,Data Scientist,9,70,Reject
+"Data Visualization, PostgreSQL",4.89,Master's,None,Data Scientist,4,70,Reject
+"Deep Learning, trasformers, Django, Networking, Solidity, Data Visualization, JavaScript, SQLite, Selenium",8.94,M.Tech,None,Software Engineer,8,70,Reject
+"Metasploit, nlp, RabbitMQ, Unit Testing, Kubernetes, Git, MongoDB, Solidity",3.58,B.Tech,None,Data Scientist,3,70,Reject
+"xai, Agile Methodologies, Elasticsearch, Algorithms & Data Structures, C++, DevOps, Google Colab, oop",8.23,PhD,None,Data Scientist,8,70,Reject
+"Django, Coding Interview Preparation, Data Wrangling, React, Kibana, Jupyter Notebooks, Prometheus, Penetration Testing, Apache Kafka",2.4,M.Tech,None,Software Engineer,2,70,Reject
+"REST APIs, Streamlit, React, Kibana, CSS3",4.04,PhD,None,Software Engineer,4,70,Reject
+"HTML5, gcp, VS Code, Linux, Apache Kafka, Big Data, CSS3",2.94,PhD,None,Data Scientist,2,70,Reject
+"Statistical Analysis, PostgreSQL, CSS3, Deep Learning, Big Data",4.99,M.S.,None,Data Scientist,4,70,Reject
+"OpenCV, Gradio, xai, TensorFlow, databases, Agile Methodologies, Streamlit, Statistical Analysis",3.49,B.E.,None,Data Scientist,3,70,Reject
+"Grafana, Ethical Hacking, Solidity, Blockchain",3.02,Master's,None,Data Scientist,3,70,Reject
+"MySQL, HTML5, Apache Kafka, Terraform, Penetration Testing",8.08,PhD,None,Data Scientist,8,70,Reject
+"Scikit-learn, HTML5, Deep Learning, IntelliJ IDEA, Apache Kafka, databases, Functional Programming",9.41,M.Tech,None,Data Scientist,9,70,Reject
