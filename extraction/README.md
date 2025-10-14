@@ -25,7 +25,7 @@ python .\extract_text_from_pdf.py .\data\resume.pdf ./dataset.csv
 ## main.py
 - Does the work of both extract.py and extract_text_from_pdf.py, rather than running two programs one after another.
 ```bash
-python ./main.py ./dataset.csv
+python ./main.py ./data/resume.pdf ./dataset.csv
 ```
 ## similarity.py
 - Compares resume and jd.
